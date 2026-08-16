@@ -1,0 +1,130 @@
+Name,Type,Cost,ParamType,EquipType,ID,EventFlagID,SellQuantity
+Crimsonspill Crystal Tear,Physick Tear,10000,Good,3,11000,65000,1
+Greenspill Crystal Tear,Physick Tear,10000,Good,3,11001,65010,1
+Crimson Crystal Tear,Physick Tear,10000,Good,3,11002,65020,1
+Crimson Crystal Tear,Physick Tear,10000,Good,3,11003,65030,1
+Cerulean Crystal Tear,Physick Tear,10000,Good,3,11004,65040,1
+Cerulean Crystal Tear,Physick Tear,10000,Good,3,11005,65050,1
+Speckled Hardtear,Physick Tear,10000,Good,3,11006,65060,1
+Crimson Bubbletear,Physick Tear,10000,Good,3,11007,65070,1
+Opaline Bubbletear,Physick Tear,10000,Good,3,11008,65080,1
+Crimsonburst Crystal Tear,Physick Tear,10000,Good,3,11009,65090,1
+Greenburst Crystal Tear,Physick Tear,10000,Good,3,11010,65100,1
+Opaline Hardtear,Physick Tear,10000,Good,3,11011,65110,1
+Winged Cracked Tear,Physick Tear,10000,Good,3,11012,65120,1
+Thorny Cracked Tear,Physick Tear,10000,Good,3,11013,65130,1
+Spiked Cracked Tear,Physick Tear,10000,Good,3,11014,65140,1
+Windy Cracked Tear,Physick Tear,10000,Good,3,11015,65150,1
+Ruptured Crystal Tear,Physick Tear,10000,Good,3,11016,65160,1
+Ruptured Crystal Tear,Physick Tear,10000,Good,3,11017,65170,1
+Leaden Hardtear,Physick Tear,10000,Good,3,11018,65180,1
+Twiggy Cracked Tear,Physick Tear,10000,Good,3,11019,65190,1
+Crimsonwhorl Bubbletear,Physick Tear,10000,Good,3,11020,65200,1
+Strength-knot Crystal Tear,Physick Tear,10000,Good,3,11021,65210,1
+Dexterity-knot Crystal Tear,Physick Tear,10000,Good,3,11022,65220,1
+Intelligence-knot Crystal Tear,Physick Tear,10000,Good,3,11023,65230,1
+Faith-knot Crystal Tear,Physick Tear,10000,Good,3,11024,65240,1
+Cerulean Hidden Tear,Physick Tear,10000,Good,3,11025,65250,1
+Stonebarb Cracked Tear,Physick Tear,10000,Good,3,11026,65260,1
+Purifying Crystal Tear,Physick Tear,10000,Good,3,11027,65270,1
+Flame-Shrouding Cracked Tear,Physick Tear,10000,Good,3,11028,65280,1
+Magic-Shrouding Cracked Tear,Physick Tear,10000,Good,3,11029,65290,1
+Lightning-Shrouding Cracked Tear,Physick Tear,10000,Good,3,11030,65300,1
+Holy-Shrouding Cracked Tear,Physick Tear,10000,Good,3,11031,65310,1
+Iron Whetblade,Whetblade,50000,Good,3,8970,65610,1
+Red-Hot Whetblade,Whetblade,50000,Good,3,8971,65640,1
+Sanctified Whetblade,Whetblade,50000,Good,3,8972,65660,1
+Glintstone Whetblade,Whetblade,50000,Good,3,8973,65680,1
+Black Whetblade,Whetblade,50000,Good,3,8974,65720,1
+Crimson Amber Medallion +2,Talisman,10000,Accessory,2,1002,35007030,1
+Cerulean Amber Medallion +2,Talisman,10000,Accessory,2,1012,1035417100,1
+Viridian Amber Medallion +2,Talisman,10000,Accessory,2,1022,15007350,1
+Great-Jar's Arsenal,Talisman,10000,Accessory,2,1032,400470,1
+Erdtree's Favor +2,Talisman,10000,Accessory,2,1042,11057100,1
+Silver Scarab,Talisman,10000,Accessory,2,1100,30207900,1
+Moon of Nokstella,Talisman,10000,Accessory,2,1140,12017960,1
+Green Turtle Talisman,Talisman,40000,Accessory,2,1150,1045397120,1
+Stalwart Horn Charm +1,Talisman,10000,Accessory,2,1161,1048557600,1
+Immunizing Horn Charm +1,Talisman,10000,Accessory,2,1171,12017992,1
+Clarifying Horn Charm +1,Talisman,10000,Accessory,2,1181,12027490,1
+Prince of Death's Cyst,Talisman,10000,Accessory,2,1191,12037990,1
+Mottled Necklace +1,Talisman,10000,Accessory,2,1201,12027620,1
+Bull-Goat's Talisman,Talisman,10000,Accessory,2,1210,31107050,1
+Shard of Alexander,Talisman,50000,Accessory,2,1231,400174,1
+Magic Scorpion Charm,Talisman,10000,Accessory,2,2000,400141,1
+Lightning Scorpion Charm,Talisman,10000,Accessory,2,2010,30077600,1
+Fire Scorpion Charm,Talisman,10000,Accessory,2,2020,1035547050,1
+Sacred Scorpion Charm,Talisman,10000,Accessory,2,2030,1046407700,1
+Red-Feathered Branchsword,Talisman,10000,Accessory,2,2040,1037427400,1
+Ritual Sword Talisman,Talisman,50000,Accessory,2,2050,1038517050,1
+Spear Talisman,Talisman,10000,Accessory,2,2060,31057100,1
+Hammer Talisman,Talisman,10000,Accessory,2,2070,1042397700,1
+Rotten Winged Sword Insignia,Talisman,50000,Accessory,2,2081,400480,1
+Dagger Talisman,Talisman,40000,Accessory,2,2090,16007620,1
+Arrow's Reach Talisman,Talisman,10000,Accessory,2,2100,1042377300,1
+Blue Dancer Charm,Talisman,30000,Accessory,2,2110,520350,1
+Twinblade Talisman,Talisman,10000,Accessory,2,2120,1043317900,1
+Axe Talisman,Talisman,40000,Accessory,2,2130,1045377100,1
+Lance Talisman,Talisman,10000,Accessory,2,2140,1043407010,1
+Arrow's Sting Talisman,Talisman,10000,Accessory,2,2150,1050367900,1
+Lord of Blood's Exultation,Talisman,50000,Accessory,2,2160,520220,1
+Kindred of Rot's Exultation,Talisman,40000,Accessory,2,2170,520390,1
+Claw Talisman,Talisman,30000,Accessory,2,2180,10007230,1
+Roar Medallion,Talisman,10000,Accessory,2,2190,520610,1
+Curved Sword Talisman,Talisman,10000,Accessory,2,2200,10007975,1
+Companion Jar,Talisman,10000,Accessory,2,2210,400460,1
+Perfumer's Talisman,Talisman,10000,Accessory,2,2220,1036527010,1
+Graven-Mass Talisman,Talisman,10000,Accessory,2,3001,1050567820,1
+Faithful's Canvas Talisman,Talisman,10000,Accessory,2,3040,32087120,1
+Flock's Canvas Talisman,Talisman,10000,Accessory,2,3050,400312,1
+Old Lord's Talisman,Talisman,10000,Accessory,2,3060,13007950,1
+Radagon Icon,Talisman,20000,Accessory,2,3070,14007940,1
+Primal Glintstone Blade,Talisman,10000,Accessory,2,3080,1051567900,1
+Godfrey Icon,Talisman,30000,Accessory,2,3090,1039507100,1
+Dragoncrest Greatshield Talisman,Talisman,30000,Accessory,2,4003,15007930,1
+Spelldrake Talisman +2,Talisman,10000,Accessory,2,4012,30207060,1
+Flamedrake Talisman +2,Talisman,10000,Accessory,2,4022,520440,1
+Boltdrake Talisman +2,Talisman,10000,Accessory,2,4032,13007760,1
+Haligdrake Talisman +2,Talisman,10000,Accessory,2,4042,12057370,1
+Pearldrake Talisman +2,Talisman,10000,Accessory,2,4052,15007220,1
+Crucible Scale Talisman,Talisman,10000,Accessory,2,4060,35007940,1
+Crucible Feather Talisman,Talisman,10000,Accessory,2,4070,30107040,1
+Blue-Feathered Branchsword,Talisman,10000,Accessory,2,4080,1042387400,1
+Ritual Shield Talisman,Talisman,50000,Accessory,2,4090,11007996,1
+Greatshield Talisman,Talisman,10000,Accessory,2,4100,1038517030,1
+Crucible Knot Talisman,Talisman,10000,Accessory,2,4110,530225,1
+Crimson Seed Talisman,Talisman,10000,Accessory,2,5000,30087010,1
+Cerulean Seed Talisman,Talisman,10000,Accessory,2,5010,34117080,1
+Blessed Dew Talisman,Talisman,10000,Accessory,2,5020,11007994,1
+Taker's Cameo,Talisman,10000,Accessory,2,5030,400078,1
+Godskin Swaddling Cloth,Talisman,10000,Accessory,2,5040,520480,1
+Assassin's Crimson Dagger,Talisman,10000,Accessory,2,5050,520030,1
+Assassin's Cerulean Dagger,Talisman,10000,Accessory,2,5060,520210,1
+Crepus's Vial,Talisman,30000,Accessory,2,6000,1039537700,1
+Concealing Veil,Talisman,10000,Accessory,2,6010,520420,1
+Carian Filigreed Crest,Talisman,10000,Accessory,2,6020,120290,1
+Longtail Cat Talisman,Talisman,10000,Accessory,2,6040,14007320,1
+Shabriri's Woe,Talisman,10000,Accessory,2,6050,1038487100,1
+Daedicar's Woe,Talisman,10000,Accessory,2,6060,400091,1
+Sacrificial Twig,Talisman,10000,Accessory,2,6070,,1
+Furled Finger's Trick-Mirror,Talisman,10000,Accessory,2,6080,250330,1
+Host's Trick-Mirror,Talisman,10000,Accessory,2,6090,250340,1
+Ancestral Spirit's Horn,Talisman,10000,Accessory,2,6110,290250,1
+Smithing Stone [1],Upgrade Stone,200,Good,3,10100,,-1
+Smithing Stone [2],Upgrade Stone,400,Good,3,10101,,-1
+Smithing Stone [3],Upgrade Stone,600,Good,3,10102,,-1
+Smithing Stone [4],Upgrade Stone,900,Good,3,10103,,-1
+Smithing Stone [5],Upgrade Stone,1200,Good,3,10104,,-1
+Smithing Stone [6],Upgrade Stone,1500,Good,3,10105,,-1
+Smithing Stone [7],Upgrade Stone,2400,Good,3,10106,,-1
+Smithing Stone [8],Upgrade Stone,3600,Good,3,10107,,-1
+Somber Smithing Stone [1],Upgrade Stone,2000,Good,3,10160,,-1
+Somber Smithing Stone [2],Upgrade Stone,3000,Good,3,10161,,-1
+Somber Smithing Stone [3],Upgrade Stone,4000,Good,3,10162,,-1
+Somber Smithing Stone [4],Upgrade Stone,6000,Good,3,10163,,-1
+Somber Smithing Stone [5],Upgrade Stone,9000,Good,3,10164,,-1
+Somber Smithing Stone [6],Upgrade Stone,12000,Good,3,10165,,-1
+Somber Smithing Stone [7],Upgrade Stone,16000,Good,3,10166,,-1
+Somber Smithing Stone [8],Upgrade Stone,20000,Good,3,10167,,-1
+Somber Smithing Stone [9],Upgrade Stone,25000,Good,3,10200,,-1
+Ash of War: Parry,Ash of War,600,Gem,4,30200,100820,1

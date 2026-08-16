@@ -1,0 +1,55 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Hades", "Hades\Hades.csproj", "{6AD200C6-AC32-441B-B381-7428EF96600F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UniversalReplacementRandomizer", "dependencies\UniversalReplacementRandomizer\UniversalReplacementRandomizer\UniversalReplacementRandomizer.csproj", "{BCE61E82-7819-1519-BFBF-585741730D55}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EldenRingParamsEditor", "dependencies\EldenRingParamsEditor\EldenRingParamsEditor\EldenRingParamsEditor.csproj", "{5E2631C5-B7D8-4AD8-4DF2-210AFDDBD217}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Andre.Formats", "dependencies\EldenRingParamsEditor\dependencies\Andre\Andre.Formats\Andre.Formats.csproj", "{0B5C210A-ED5E-10A9-AAEF-C965BE70C97B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoulsFormats", "dependencies\EldenRingParamsEditor\dependencies\Andre\SoulsFormats\SoulsFormats\SoulsFormats.csproj", "{8C2213CC-E065-1C93-FC02-8E9532EC0F98}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Andre.Core", "dependencies\EldenRingParamsEditor\dependencies\Andre\Andre.Core\Andre.Core.csproj", "{6461186C-75B3-5175-0EC9-AB75D40E8EA3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6AD200C6-AC32-441B-B381-7428EF96600F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6AD200C6-AC32-441B-B381-7428EF96600F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6AD200C6-AC32-441B-B381-7428EF96600F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6AD200C6-AC32-441B-B381-7428EF96600F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BCE61E82-7819-1519-BFBF-585741730D55}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BCE61E82-7819-1519-BFBF-585741730D55}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BCE61E82-7819-1519-BFBF-585741730D55}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BCE61E82-7819-1519-BFBF-585741730D55}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5E2631C5-B7D8-4AD8-4DF2-210AFDDBD217}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5E2631C5-B7D8-4AD8-4DF2-210AFDDBD217}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5E2631C5-B7D8-4AD8-4DF2-210AFDDBD217}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5E2631C5-B7D8-4AD8-4DF2-210AFDDBD217}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0B5C210A-ED5E-10A9-AAEF-C965BE70C97B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B5C210A-ED5E-10A9-AAEF-C965BE70C97B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B5C210A-ED5E-10A9-AAEF-C965BE70C97B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B5C210A-ED5E-10A9-AAEF-C965BE70C97B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8C2213CC-E065-1C93-FC02-8E9532EC0F98}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8C2213CC-E065-1C93-FC02-8E9532EC0F98}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8C2213CC-E065-1C93-FC02-8E9532EC0F98}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8C2213CC-E065-1C93-FC02-8E9532EC0F98}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6461186C-75B3-5175-0EC9-AB75D40E8EA3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6461186C-75B3-5175-0EC9-AB75D40E8EA3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6461186C-75B3-5175-0EC9-AB75D40E8EA3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6461186C-75B3-5175-0EC9-AB75D40E8EA3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5FA3AD7-6C16-49A0-9AC0-BB7B6EDBBBDD}
+	EndGlobalSection
+EndGlobal
