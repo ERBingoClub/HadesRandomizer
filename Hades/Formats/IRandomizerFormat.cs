@@ -1,6 +1,3 @@
-using EldenRingParamsEditor;
-using UniversalReplacementRandomizer;
-
 namespace Hades.Formats;
 
 public interface IRandomizerFormat
@@ -8,5 +5,6 @@ public interface IRandomizerFormat
     string Id { get; }
     string DisplayName { get; }
     string Me3File { get; }
-    void Exec(int? baseSeed);
+    void Exec(int baseSeed, Action<string>? statusCallback = null);
+    void Launch();
 }

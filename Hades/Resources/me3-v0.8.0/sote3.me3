@@ -1,0 +1,18 @@
+profileVersion = "v1"
+
+[[supports]]
+game = "eldenring"
+
+[[package]]
+id = "hades-sote-3"
+path = "sote3/bingo"
+
+[[natives]]
+path = 'sote3/skip-intro/SkipTheIntro.dll'
+
+[[natives]]
+path = 'sote3/alt-saves/eldenring_alt_saves.dll'
+
+[[natives]]
+path = 'sote3/randomizer-helper/RandomizerHelper.dll'
+

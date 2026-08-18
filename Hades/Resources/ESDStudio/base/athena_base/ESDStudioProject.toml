@@ -1,7 +1,0 @@
-title = "ESDStudioProject"
-[project_info]
-name = "athena_base"
-base_directory = "C:\\Users\\Justin\\source\\repos\\Athena\\Athena\\Resources\\ESDStudio\\base\\athena_base"
-game_directory = "C:\\Program Files (x86)\\Steam\\steamapps\\common\\ELDEN RING\\Game"
-mod_directory = "C:\\Users\\Justin\\source\\repos\\Athena\\Athena\\Resources\\ModEngine-2.1.0.0-win64\\base"
-game = "er"

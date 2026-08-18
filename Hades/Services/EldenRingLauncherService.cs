@@ -13,32 +13,52 @@ public enum LaunchMode
 
 public class EldenRingLauncherService
 {
-    public void LaunchEldenRing(LaunchMode mode)
+    public void LaunchEldenRingFromMe3File(string path)
     {
-        string fileName = mode switch
-        {
-            LaunchMode.Base => Constants.LaunchEldenRingBase,
-            LaunchMode.BaseDlc => Constants.LaunchEldenRingBaseDlc,
-            LaunchMode.DLC => Constants.LaunchEldenRingDlc,
-            _ => throw new ArgumentOutOfRangeException(),
-        };
-
-        //Process.Start(new ProcessStartInfo
-        //{
-        //    FileName = fileName,
-        //    WorkingDirectory = Constants.ModEngineWorkingDirectory,
-        //    UseShellExecute = true,
-        //    //CreateNoWindow = true
-        //});
         Process.Start(
             new ProcessStartInfo
             {
                 FileName = "cmd.exe",
-                Arguments = "/c \"" + fileName + "\"",
+                Arguments = $"/c \"launch-me3.bat\" \"{path}\"",
                 WorkingDirectory = Constants.ModEngineWorkingDirectory,
                 UseShellExecute = false,
                 CreateNoWindow = true,
             }
         );
     }
+
+    // For Debug
+    // public void LaunchEldenRingFromMe3File(string path)
+    // {
+    //     var process = new Process
+    //     {
+    //         StartInfo = new ProcessStartInfo
+    //         {
+    //             FileName = "cmd.exe",
+    //             Arguments = $"/c \"\"launch-me3.bat\" \"{path}\"\"",
+    //             WorkingDirectory = Constants.ModEngineWorkingDirectory,
+    //             UseShellExecute = false,
+    //             CreateNoWindow = true,
+    //             RedirectStandardOutput = true,
+    //             RedirectStandardError = true,
+    //         },
+    //     };
+    //
+    //     process.OutputDataReceived += (_, e) =>
+    //     {
+    //         if (e.Data != null)
+    //             Console.WriteLine($"[ME3] {e.Data}");
+    //     };
+    //
+    //     process.ErrorDataReceived += (_, e) =>
+    //     {
+    //         if (e.Data != null)
+    //             Console.Error.WriteLine($"[ME3 ERROR] {e.Data}");
+    //     };
+    //
+    //     process.Start();
+    //
+    //     process.BeginOutputReadLine();
+    //     process.BeginErrorReadLine();
+    // }
 }
