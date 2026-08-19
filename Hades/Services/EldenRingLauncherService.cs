@@ -19,7 +19,7 @@ public class EldenRingLauncherService
             new ProcessStartInfo
             {
                 FileName = "cmd.exe",
-                Arguments = $"/c \"launch-me3.bat\" \"{path}\"",
+                Arguments = $"/c \"\"launch-me3.bat\" \"{path}\"\"",
                 WorkingDirectory = Constants.ModEngineWorkingDirectory,
                 UseShellExecute = false,
                 CreateNoWindow = true,

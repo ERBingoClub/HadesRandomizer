@@ -16,9 +16,10 @@ public static class FormatRegistry
 
         sote3Vm.RandomizeCommand = new RelayCommand(() =>
         {
-            var hash = SHA256.HashData(Encoding.UTF8.GetBytes(sote3Vm.Seed));
-            var seed = BitConverter.ToInt32(hash, 0);
-            sote3.Exec(baseSeed: seed, statusCallback: status => sote3Vm.StatusText = status);
+            sote3.Exec(
+                baseSeed: sote3Vm.Seed,
+                statusCallback: status => sote3Vm.StatusText = status
+            );
         });
         sote3Vm.LaunchCommand = new RelayCommand(() =>
         {

@@ -1,4 +1,6 @@
 using System.IO;
+using System.Security.Cryptography;
+using System.Text;
 using EldenRingParamsEditor;
 using Hades.Config;
 using Hades.Services;
@@ -11,32 +13,11 @@ class ShowdownOfTheErdtree3 : IRandomizerFormat
     public string DisplayName => "Showdown Of The Erdtree 3";
     public string Me3File => "sote3.me3";
     private EldenRingLauncherService _launcherService = new EldenRingLauncherService();
-    private static readonly int[] TalismanIds =
-    [
-        1700147,
-        1700145,
-        1700142,
-        1700133,
-        1700121,
-        1700116,
-        1700114,
-        1700111,
-        1700108,
-        1700106,
-        1700105,
-        1700104,
-        1700103,
-        1700102,
-        1700095,
-        1700093,
-    ];
 
-    public void Exec(int baseSeed, Action<string>? statusCallback = null)
+    public void Exec(string baseSeed, Action<string>? statusCallback = null)
     {
         statusCallback?.Invoke($"seeding...: {baseSeed}");
 
-        var rng = new Random(baseSeed);
-        var talismans = TalismanIds.ToList();
         var regulationFilepath = Path.Combine(
             Constants.ModEngineWorkingDirectory,
             Id,
@@ -45,25 +26,15 @@ class ShowdownOfTheErdtree3 : IRandomizerFormat
         );
         var editor = ParamsEditor.ReadFromRegulationPath(regulationFilepath);
 
-        for (int i = talismans.Count - 1; i > 0; i--)
-        {
-            int j = rng.Next(i + 1);
-            (talismans[i], talismans[j]) = (talismans[j], talismans[i]);
-        }
+        // Randomization Logic
 
-        var selectedTalismans = talismans.Take(2).ToList();
-        var notSelectedTalismans = talismans.Skip(2).ToList();
+        // Talisman
+        var talismanResult = getTalismans(baseSeed);
+        randomizeTalismans(editor, talismanResult);
 
-        // Enabling
-        for (int i = 0; i < selectedTalismans.Count; i++)
-        {
-            editor.SetShopLineupEventFlagForRelease(selectedTalismans[i], 0);
-        }
-        // Disabling
-        for (int i = 0; i < notSelectedTalismans.Count; i++)
-        {
-            editor.SetShopLineupEventFlagForRelease(notSelectedTalismans[i], 1);
-        }
+        // Classes
+        var classResult = getRandomArmoredClasses(baseSeed);
+        randomizeClasses(editor, classResult);
 
         editor.WriteToRegulationPath(regulationFilepath);
 
@@ -73,5 +44,123 @@ class ShowdownOfTheErdtree3 : IRandomizerFormat
     public void Launch()
     {
         _launcherService.LaunchEldenRingFromMe3File(Me3File);
+    }
+
+    private int getRandomNumber(string seed, int len)
+    {
+        var hash = SHA256.HashData(Encoding.UTF8.GetBytes(seed));
+        var seedInt = BitConverter.ToInt32(hash, 0);
+        Random rng = new Random(seedInt);
+        return rng.Next(len);
+    }
+
+    private ClassArmorResults getRandomArmoredClasses(string seed)
+    {
+        return new ClassArmorResults
+        {
+            Vagabond = getRandomArmor(seed + "_vagabond"),
+            Warrior = getRandomArmor(seed + "_warrior"),
+            Hero = getRandomArmor(seed + "_hero"),
+            Astrologer = getRandomArmor(seed + "_astrologer"),
+            Prisoner = getRandomArmor(seed + "_prisoner"),
+            Prophet = getRandomArmor(seed + "_prophet"),
+            Confessor = getRandomArmor(seed + "_confessor"),
+            Samurai = getRandomArmor(seed + "_samurai"),
+            Bandit = getRandomArmor(seed + "_bandit"),
+        };
+    }
+
+    private ArmorResults getRandomArmor(string seed)
+    {
+        var arm = getRandomNumber(seed + "_arms", Constants.BaseArms.Count());
+        var legs = getRandomNumber(seed + "_legs", Constants.BaseLegs.Count());
+        var chest = getRandomNumber(seed + "_chest", Constants.BaseChest.Count());
+        var helm = getRandomNumber(seed + "_helm", Constants.BaseHelm.Count());
+
+        return new ArmorResults
+        {
+            Arms = arm,
+            Legs = legs,
+            Chest = chest,
+            Helm = helm,
+        };
+    }
+
+    private TalismanResults getTalismans(string seed)
+    {
+        var fillerTali_1 = getRandomNumber(
+            seed + "_filler1",
+            SOTE3Constants.FillerTalismans.Count()
+        );
+        var fillerTali_2 = getRandomNumber(
+            seed + "_filler2",
+            SOTE3Constants.FillerTalismans.Count()
+        );
+        if (fillerTali_1 == fillerTali_2)
+        {
+            if (fillerTali_2 == SOTE3Constants.FillerTalismans.Count() - 1)
+                fillerTali_2 = 0;
+            else
+                fillerTali_2++;
+        }
+
+        var goodTali_1 = getRandomNumber(seed + "_good1", SOTE3Constants.GoodTalismans.Count());
+        var goodTali_2 = getRandomNumber(seed + "_good2", SOTE3Constants.GoodTalismans.Count());
+        if (goodTali_1 == goodTali_2)
+        {
+            if (goodTali_2 == SOTE3Constants.GoodTalismans.Count() - 1)
+                goodTali_2 = 0;
+            else
+                goodTali_2++;
+        }
+
+        return new TalismanResults
+        {
+            fillerTalisman_1 = fillerTali_1,
+            fillerTalisman_2 = fillerTali_2,
+            goodTalisman_1 = goodTali_1,
+            goodTalisman_2 = goodTali_2,
+        };
+    }
+
+    private void randomizeClasses(ParamsEditor editor, ClassArmorResults results)
+    {
+        randomizeClass(editor, Constants.CharaInitClassMap["Vagabond"], results.Vagabond);
+        randomizeClass(editor, Constants.CharaInitClassMap["Warrior"], results.Warrior);
+        randomizeClass(editor, Constants.CharaInitClassMap["Hero"], results.Hero);
+        randomizeClass(editor, Constants.CharaInitClassMap["Astrologer"], results.Astrologer);
+        randomizeClass(editor, Constants.CharaInitClassMap["Prophet"], results.Prophet);
+        randomizeClass(editor, Constants.CharaInitClassMap["Confessor"], results.Confessor);
+        randomizeClass(editor, Constants.CharaInitClassMap["Bandit"], results.Bandit);
+        randomizeClass(editor, Constants.CharaInitClassMap["Samurai"], results.Samurai);
+        randomizeClass(editor, Constants.CharaInitClassMap["Prisoner"], results.Prisoner);
+    }
+
+    private void randomizeClass(ParamsEditor editor, int classId, ArmorResults result)
+    {
+        editor.SetInitialEquipArm(classId, Constants.BaseArms[result.Arms]);
+        editor.SetInitialEquipHelm(classId, Constants.BaseHelm[result.Helm]);
+        editor.SetInitialEquipLeg(classId, Constants.BaseLegs[result.Legs]);
+        editor.SetInitialEquipTorso(classId, Constants.BaseChest[result.Chest]);
+    }
+
+    private void randomizeTalismans(ParamsEditor editor, TalismanResults results)
+    {
+        editor.SetShopLineupEquipId(
+            SOTE3Constants.shopLineupMap["fillerTalisman_1"],
+            SOTE3Constants.FillerTalismans[results.fillerTalisman_1]
+        );
+        editor.SetShopLineupEquipId(
+            SOTE3Constants.shopLineupMap["fillerTalisman_2"],
+            SOTE3Constants.FillerTalismans[results.fillerTalisman_2]
+        );
+        editor.SetShopLineupEquipId(
+            SOTE3Constants.shopLineupMap["goodTalisman_1"],
+            SOTE3Constants.GoodTalismans[results.goodTalisman_1]
+        );
+        editor.SetShopLineupEquipId(
+            SOTE3Constants.shopLineupMap["goodTalisman_2"],
+            SOTE3Constants.GoodTalismans[results.goodTalisman_2]
+        );
     }
 }
