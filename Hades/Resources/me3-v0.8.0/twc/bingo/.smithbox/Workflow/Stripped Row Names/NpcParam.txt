@@ -1,0 +1,7039 @@
+
+Human
+
+
+
+
+
+
+BuddyStone
+Patrol Dummy
+Caravan Dummy
+Bullet Dummy
+Bullet Dummy
+Bullet Dummy
+Bullet Dummy
+
+Bullet Dummy
+Balloon Dummy
+Bonfire
+Talk Dummy
+BuddyStone
+Talk Dummy
+Talk Dummy
+
+Talk Dummy
+
+Talk Dummy
+Talk Dummy
+Blaidd the Half-Wolf
+Blaidd the Half-Wolf
+Blaidd the Half-Wolf
+Blaidd the Half-Wolf
+Baleful Shadow
+Baleful Shadow
+Blaidd the Half-Wolf
+Blaidd the Half-Wolf
+Blaidd the Half-Wolf
+Blaidd the Half-Wolf
+Blaidd the Half-Wolf
+Blaidd the Half-Wolf
+Blaidd the Half-Wolf
+Blaidd the Half-Wolf
+Blaidd the Half-Wolf
+Blaidd the Half-Wolf
+Blaidd the Half-Wolf
+Blaidd the Half-Wolf
+Rennala, Queen of the Full Moon
+Rennala, Queen of the Full Moon
+Rennala, Queen of the Full Moon
+Rennala, Queen of the Full Moon
+Rennala, Queen of the Full Moon
+Rennala, Queen of the Full Moon
+Rennala, Queen of the Full Moon
+Rennala, Queen of the Full Moon
+Juvenile Scholar
+Juvenile Scholar
+Juvenile Scholar
+Juvenile Scholar
+Juvenile Scholar
+Juvenile Scholar
+Juvenile Scholar
+Juvenile Scholar
+Juvenile Scholar
+Juvenile Scholar
+Juvenile Scholar
+Juvenile Scholar
+Juvenile Scholar
+Juvenile Scholar
+Kindred of Rot Larva
+Kindred of Rot Larva
+Kindred of Rot Larva
+Ranni the Witch
+Renna the Witch
+Ranni the Witch
+Ranni the Witch
+Ranni the Witch
+Ranni the Witch
+Ranni the Witch
+Ranni the Witch
+Ranni the Witch
+Ranni the Witch
+Ranni the Witch
+The Two Fingers
+The Two Fingers
+Black Knife Assassin (Unscaled)
+Black Knife Assassin (Leyndell- Royal Capital)
+Black Knife Assassin (Ordina)
+Black Knife Assassin (Boss)
+Black Knife Assassin (Boss)
+Black Knife Assassin (Boss)
+Black Knife Assassin (Boss)
+Black Knife Assassin (Unscaled)
+Black Knife Assassin (Limgrave Catacombs Boss)
+Black Knife Assassin (Unscaled)
+Alecto, Black Knife Ringleader
+Black Knife Assassin (Unscaled)
+Black Knife Assassin (Liurnia Catacombs Boss)
+Beast Clergyman
+Beast Clergyman (Farum Azula)
+Maliketh
+Maliketh (Farum Azula)
+Beast Clergyman
+Gurranq, Beast Clergyman
+Gurranq, Beast Clergyman
+Malenia, Blade of Miquella
+Malenia, Blade of Miquella
+Malenia, Blade of Miquella
+Malenia, Blade of Miquella
+Malenia, Blade of Miquella
+Malenia, Blade of Miquella
+Malenia, Blade of Miquella
+Malenia, Blade of Miquella
+Malenia, Blade of Miquella
+Margit
+Margit, the Fell Omen
+Margit (Capital Outskirts)
+Morgott
+Morgott, the Omen King
+Morgott - Dead
+Morgott - Dead (Leyndell- Royal Capital)
+Omen
+Omen
+Omen
+Omen (Leyndell- Royal Capital)
+Omen
+Omen
+Omen
+Omen (Stormveil Castle)
+Omen
+Omen
+Omen
+Omen (Accursed)
+Omen (Accursed)
+Omen
+Omen
+Omen (Horned)
+Omen (Horned)
+Omen (Death-serving)
+Omen (Death-serving)
+Omen
+Omen
+Omen
+Omen
+Omen
+Omen
+Omen
+Omen
+Omen
+Omen
+Omen
+Omen
+Omen
+Omen
+Omen
+Omen
+Omen
+Omen
+Omen
+Fell Twin
+Omen
+Fell Twin
+Omen
+
+Lightning Ball
+Lightning Ball (Siofra River)
+
+Lightning Ball
+
+Lightning Ball
+
+Lightning Ball
+
+Lightning Ball
+Finger Reader Crone
+Finger Reader Crone
+Finger Reader Crone
+Finger Reader Crone
+Finger Reader Crone
+Finger Reader Crone
+Finger Reader Crone
+Finger Reader Crone
+Keeper of Forbidden Lands
+Godwyn's Wet Nurse
+Finger Reader Enia
+Finger Reader Enia
+Finger Reader Enia
+Melina
+Melina
+Melina
+Melina
+Melina
+Radagon (Unscaled)
+Radagon of the Golden Order
+Radagon - Crucified (Unscaled)
+Elden Beast
+Elden Beast
+Giant Crab
+Giant Crab
+Giant Crab
+Giant Crab (Limgrave)
+Giant Crab
+Giant Crab
+Giant Crab
+Giant Crab (Siofra River)
+Giant Crab
+Giant Crab
+Crab
+Crab
+Crab
+Crab (Limgrave)
+Crab
+Crab
+Crab
+Crab
+Crab (Ainsel River)
+Crab (Siofra River)
+Crab
+Giant Black Crab
+Giant Black Crab
+Giant Black Crab
+Giant Black Crab
+Giant Black Crab
+Black Crab
+Giant Albinauric Crab
+Giant Albinauric Crab
+Giant Albinauric Crab
+Giant Albinauric Crab
+Giant Albinauric Crab
+Giant Albinauric Crab
+Albinauric Crab
+Albinauric Crab
+Albinauric Crab
+Albinauric Crab
+Albinauric Crab
+Albinauric Crab
+Albinauric Crab
+Giant Death Crab
+Giant Death Crab
+Giant Death Crab
+Death Crab
+Death Crab
+Death Crab
+Crucible Knight (Unscaled)
+Crucible Knight (Limgrave Evergaol Boss)
+Crucible Knight
+Crucible Knight
+Crucible Knight (Leyndell- Royal Capital)
+Crucible Knight (Boss)
+Crucible Knight
+Crucible Knight (Unscaled)
+Crucible Knight
+Crucible Knight (Farum Azula)
+Crucible Knight (Four Belfries)
+Crucible Knight Ordovis
+Crucible Knight (Redmane Boss)
+Crucible Knight (Unscaled)
+Crucible Knight (Leyndell- Royal Capital)
+Crucible Knight
+Crucible Knight Siluria
+Crucible Knight (Unscaled)
+Crucible Knight (Leyndell- Royal Capital)
+Crucible Knight
+Crucible Knight Ordovis (Auriza Boss)
+Crucible Knight (Unscaled)
+Crucible Knight (Boss)
+Crucible Knight (Unscaled)
+Crucible Knight (Boss)
+Crucible Knight (Unscaled)
+Crucible Knight (Boss)
+Crucible Knight (Unscaled)
+Crucible Knight (Boss)
+Tanith's Knight
+Tanith's Knight
+Tanith's Knight
+Exile Soldier
+Exile Soldier
+Exile Soldier (Stormveil Castle)
+Exile Soldier (Leyndell- Royal Capital)
+Exile Soldier
+Exile Soldier
+Exile Soldier (Stormveil Castle)
+Exile Soldier (Leyndell- Royal Capital)
+Exile Soldier
+Exile Soldier (Stormveil Castle)
+Exile Soldier
+Exile Soldier
+Exile Soldier (Stormveil Castle)
+Exile Soldier
+Exile Soldier (Stormveil Castle)
+Exile Soldier
+Exile Soldier (Stormveil Castle)
+Exile Soldier (Leyndell- Royal Capital)
+Exile Soldier
+Exile Soldier (Stormveil Castle)
+Exile Soldier (Leyndell- Royal Capital)
+Exile Soldier
+Exile Soldier (Stormveil Castle)
+Exile Soldier
+Exile Soldier (Stormveil Castle)
+Exile Soldier
+Exile Soldier (Stormveil Castle)
+Exile Soldier
+Exile Soldier (Stormveil Castle)
+Exile Soldier (Leyndell- Royal Capital)
+Exile Soldier
+Exile Soldier (Stormveil Castle)
+Exile Soldier (Leyndell- Royal Capital)
+Exile Soldier
+Exile Soldier (Stormveil Castle)
+Exile Soldier
+Exile Soldier (Stormveil Castle)
+Mausoleum Exile Soldier
+Mausoleum Exile Soldier
+Mausoleum Exile Soldier
+Mausoleum Exile Soldier
+Mausoleum Exile Soldier
+Mausoleum Exile Soldier
+Mausoleum Exile Soldier
+Mausoleum Exile Soldier
+Mausoleum Exile Soldier
+Mausoleum Exile Soldier
+Mausoleum Exile Soldier
+Mausoleum Exile Soldier
+Mausoleum Exile Soldier
+Mausoleum Exile Soldier
+Mausoleum Exile Soldier
+Mausoleum Exile Soldier
+Mausoleum Exile Soldier
+Exile Soldier
+Exile Soldier (Boss)
+Banished Knight
+Banished Knight (Stormveil Castle)
+Banished Knight (Leyndell- Royal Capital)
+Banished Knight
+Banished Knight (Stormveil Castle)
+Banished Knight (Leyndell- Royal Capital)
+Banished Knight
+Banished Knight
+Banished Knight
+Banished Knight
+Banished Knight (Leyndell- Royal Capital)
+Mausoleum Banished Knight
+Mausoleum Banished Knight
+Mausoleum Banished Knight
+Mausoleum Banished Knight
+Mausoleum Banished Knight
+Mausoleum Banished Knight
+Banished Knight
+Banished Knight (Stormveil Castle)
+Banished Knight
+Banished Knight (Leyndell- Royal Capital)
+Banished Knight
+Banished Knight (Leyndell- Royal Capital)
+Banished Knight
+Banished Knight
+Banished Knight
+Banished Knight (Leyndell- Royal Capital)
+Mausoleum Banished Knight
+Mausoleum Banished Knight
+Mausoleum Banished Knight
+Mausoleum Banished Knight
+Mausoleum Banished Knight
+Banished Knight
+Banished Knight (Stormveil Castle)
+Banished Knight (Leyndell- Royal Capital)
+Banished Knight
+Banished Knight (Leyndell- Royal Capital)
+Banished Knight
+Banished Knight
+Banished Knight (Leyndell- Royal Capital)
+Mausoleum Banished Knight
+Mausoleum Banished Knight
+Mausoleum Banished Knight
+Mausoleum Banished Knight
+Mausoleum Banished Knight
+Mausoleum Banished Knight
+Banished Knight
+Banished Knight (Niall Boss)
+Banished Knight
+Banished Knight (Niall Boss)
+Banished Knight
+Large Exile Soldier
+Large Exile Soldier
+Large Exile Soldier (Leyndell- Royal Capital)
+Mausoleum Large Exile Soldier
+Mausoleum Large Exile Soldier
+Large Exile Soldier
+Large Exile Soldier (Boss)
+Commander
+Commander Niall
+Commander
+Commander O'Neil
+Commander
+Giant Skeleton
+Giant Skeleton
+Giant Skeleton
+Giant Skeleton
+Giant Skeleton
+Giant Skeleton
+Giant Skeleton
+Giant Skeleton
+Giant Skeleton
+Giant Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Dominula Celebrant
+Dominula Celebrant
+Dominula Celebrant
+Dominula Celebrant
+Dominula Celebrant
+Dominula Celebrant
+Dominula Celebrant
+Dominula Celebrant
+Dominula Celebrant
+Dominula Celebrant
+Dominula Celebrant
+Dominula Celebrant
+Imp
+Imp
+Imp
+Imp
+Imp
+Imp
+Imp
+Imp
+Imp (Leyndell- Royal Capital)
+Imp
+Imp
+Imp
+Imp
+Imp
+Imp
+Imp
+Imp
+Imp
+Imp (Boss)
+Imp
+Imp
+Imp
+Imp
+Imp
+Imp
+Imp (Leyndell- Royal Capital)
+Imp
+Imp
+Imp
+Imp
+Imp
+Imp
+Imp
+Imp
+Imp
+Imp
+Imp
+Imp
+Imp
+Imp
+Imp
+Imp
+Imp (Leyndell- Royal Capital)
+Imp
+Imp
+Imp
+Imp
+Imp
+Imp
+Imp
+Imp
+Imp (Leyndell- Royal Capital)
+Imp
+Imp
+Imp
+Imp
+Imp
+Imp
+Imp
+Elemer of the Briar
+Bell Bearing Hunter (Limgrave)
+Bell Bearing Hunter
+Bell Bearing Hunter
+Bell Bearing Hunter
+Elemer of the Briar (Shaded Castle)
+Night's Cavalry
+Night's Cavalry (Limgrave Boss)
+Night's Cavalry
+Night's Cavalry
+Night's Cavalry
+Night's Cavalry
+Night's Cavalry
+Night's Cavalry (Glaive)
+Night's Cavalry
+Night's Cavalry (Weeping Peninsula Boss)
+Night's Cavalry
+Night's Cavalry
+Night's Cavalry (Flail)
+Funeral Steed
+Funeral Steed (Limgrave)
+Funeral Steed (Weeping Peninsula)
+Funeral Steed
+Funeral Steed
+Funeral Steed
+Funeral Steed
+Funeral Steed
+Funeral Steed
+Funeral Steed
+Albinauric Archer
+Albinauric Archer
+Albinauric Archer
+Albinauric Archer
+Latenna the Albinauric
+Latenna the Albinauric
+Latenna the Albinauric
+Phillia, Towering Little Sister
+Phillia, Towering Little Sister
+Albinauric Archer's Wolf
+Albinauric Archer's Wolf
+Albinauric Archer's Wolf
+Albinauric Archer's Wolf
+Albinauric Archer's Wolf
+Albinauric Archer's Wolf
+Red Wolf of Radagon
+Red Wolf of Radagon
+Red Wolf of Radagon
+Red Wolf of Radagon
+Red Wolf of Radagon
+Red Wolf of Radagon Sword
+Red Wolf of Radagon Sword (Archives)
+Red Wolf of the Champion
+Red Wolf of Radagon Sword (Snowfields)
+Merchant Kalé
+Merchant Kalé
+Merchant Kalé
+Merchant Kalé
+Merchant Kalé
+Merchant Kalé
+Merchant Kalé
+Merchant Kalé
+Merchant Kalé
+Merchant Kalé
+Merchant Kalé
+Merchant Kalé
+Merchant Kalé
+Merchant Kalé
+Merchant Kalé
+Merchant Kalé
+Nomadic Merchant
+Nomadic Merchant
+Nomadic Merchant
+Nomadic Merchant
+Nomadic Merchant
+Isolated Merchant
+Isolated Merchant
+Nomadic Merchant
+Hermit Merchant
+Nomadic Merchant
+Nomadic Merchant
+Nomadic Merchant
+Nomadic Merchant
+Isolated Merchant
+Hermit Merchant
+Abandoned Merchant
+Hermit Merchant
+Imprisoned Merchant
+Nomadic Merchant
+Nomadic Merchant
+Nomadic Merchant
+Merchant
+Nomadic Merchant
+Nomadic Merchant
+Nomadic Merchant
+Nomadic Merchant
+Nomadic Merchant
+Nomadic Merchant
+Nomadic Merchant
+Nomadic Merchant
+Nomadic Merchant
+Nomadic Merchant
+Nomadic Merchant
+Frenzied Nomad
+Frenzied Nomad
+Merchant Kalé
+Merchant Kalé
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey (Siofra River)
+Nomadic Merchant's Donkey (Ainsel River)
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Nomadic Merchant's Donkey
+Draconic Tree Sentinel (Unscaled)
+Draconic Tree Sentinel (Capital Outskirts)
+Draconic Tree Sentinel
+Draconic Tree Sentinel (Farum Azula)
+Tree Sentinel (Unscaled)
+Tree Sentinel (Limgrave)
+Tree Sentinel (Altus Plateau)
+Tree Sentinel  (Leyndell- Royal Capital)
+Tree Sentinel
+Tree Sentinel (Unscaled)
+Tree Sentinel - Torch (Altus Plateau)
+Loretta Tree Sentinel (Unscaled)
+Loretta, Knight of the Haligtree
+Loretta Tree Sentinel (Unscaled)
+Royal Knight Loretta
+Nox Swordstress (Unscaled)
+Nox Swordstress
+Nox Swordstress
+Nox Swordstress
+Nox Swordstress (Boss)
+Nox Monk (Unscaled)
+Nox Monk
+Nox Monk
+Nox Monk
+Nox Monk (Boss)
+Nox Nightmaiden
+Nox Nightmaiden
+Nox Nightmaiden
+Silver Tear (Unscaled)
+Silver Tear
+Silver Tear
+Silver Tear
+Silver Tear
+Silver Tear
+Silver Tear
+Silver Tear (Unscaled)
+Silver Tear
+Silver Tear
+Silver Tear
+Silver Tear
+Silver Tear
+Electrified Silver Tear (Unscaled)
+Electrified Silver Tear
+Electrified Silver Tear
+Electrified Silver Tear
+Electrified Silver Tear
+Asimi, Silver Tear
+Asimi, Silver Tear
+Giant Silver Tear (Unscaled)
+Giant Silver Tear
+Giant Silver Tear
+Giant Silver Tear
+Giant Silver Tear
+Giant Silver Tear (Unscaled)
+Giant Silver Tear
+Giant Silver Tear
+Giant Silver Tear (Unscaled)
+Giant Silver Tear
+Giant Silver Tear
+Giant Silver Tear (Unscaled)
+Giant Silver Tear
+Giant Silver Tear (Unscaled)
+Giant Silver Tear
+Crystalian
+Crystalian
+Crystalian (Spirit)
+Putrid Crystalian
+Putrid Crystalian
+Crystalian (Boss)
+Crystalian (Ringblade)
+Putrid Crystalian (Ringblade)
+Crystalian
+Crystalian
+Crystalian
+Crystalian
+Putrid Crystalian
+Putrid Crystalian
+Crystalian (Spear)
+Crystalian (Spear)
+Putrid Crystalian (Spear)
+Crystalian
+Crystalian
+Putrid Crystalian
+Putrid Crystalian
+Crystalian (Staff)
+Putrid Crystalian (Staff)
+Crystalian
+Crystalian
+Crystalian
+Crystalian
+Crystalian
+Crystalian
+Crystalian
+Ancestral Follower
+Ancestral Follower
+Ancestral Follower
+Ancestral Follower (Siofra River)
+Ancestral Follower
+Ancestral Follower
+Ancestral Follower
+Ancestral Follower (Siofra River)
+Ancestral Follower
+Ancestral Follower
+Ancestral Follower
+Ancestral Follower
+Ancestral Follower (Siofra River)
+Ancestral Follower
+Ancestral Follower
+Ancestral Follower
+Ancestral Follower (Siofra River)
+Ancestral Follower
+Ancestral Follower - Greathorn Hammer
+Ancestral Follower (Siofra River)
+Ancestral Follower
+Ancestral Follower
+Ancestral Follower
+Ancestral Follower (Siofra River)
+Ancestral Follower
+Ancestral Follower
+Ancestral Follower
+Ancestral Follower - Winged Greatthorn
+Ancestral Follower (Siofra River)
+Ancestral Follower
+Ancestral Follower
+Ancestral Follower
+Ancestral Follower (Siofra River)
+Ancestral Follower
+Ancestral Follower
+Ancestral Follower
+Ancestral Follower
+Ancestral Follower
+Ancestral Follower (Siofra River)
+Ancestral Follower
+Ancestral Follower (Siofra River)
+Ancestral Follower
+Ancestral Follower (Siofra River)
+Ancestral Follower
+Ancestral Follower (Siofra River)
+Ancestral Follower
+Ancestral Follower (Siofra River)
+Ancestral Follower
+Ancestral Follower (Siofra River)
+Ancestral Follower
+Ancestral Follower (Siofra River)
+Ancestral Follower
+Ancestral Follower (Siofra River)
+Putrid Ancestral Follower
+Putrid Ancestral Follower
+Putrid Ancestral Follower
+Putrid Ancestral Follower
+Putrid Ancestral Follower
+Putrid Ancestral Follower
+Putrid Ancestral Follower
+Putrid Ancestral Follower
+Putrid Ancestral Follower
+Putrid Ancestral Follower
+Putrid Ancestral Follower
+Putrid Ancestral Follower
+Putrid Ancestral Follower
+Putrid Ancestral Follower
+Putrid Ancestral Follower
+Ancestral Follower Shaman
+Ancestral Follower Shaman
+Ancestral Follower Shaman (Siofra River)
+Ancestral Follower Shaman
+Ancestral Follower Shaman
+Ancestral Follower Shaman
+Ancestral Follower Shaman
+Ancestral Follower Shaman
+Putrid Ancestral Shaman
+Putrid Ancestral Shaman
+Putrid Ancestral Shaman
+Grave Warden Duelist
+Grave Warden Duelist
+Grave Warden Duelist (Leyndell- Royal Capital)
+Grave Warden Duelist
+Grave Warden Duelist
+Grave Warden Duelist
+Grave Warden Duelist
+Grave Warden Duelist
+Grave Warden Duelist
+Grave Warden Duelist
+Grave Warden Duelist
+Grave Warden Duelist
+Grave Warden Duelist
+Frenzied Grave Warden Duelist (Boss)
+Putrid Grave Warden Duelist (Boss)
+Grave Warden Duelist
+Grave Warden Duelist (Leyndell- Royal Capital)
+Grave Warden Duelist
+Grave Warden Duelist (Boss)
+Grave Warden Duelist (Auriza Boss)
+Grave Warden Duelist
+Grave Warden Duelist
+Grave Warden Duelist
+Grave Warden Duelist
+Grave Warden Duelist
+Grave Warden Duelist
+Grave Warden Duelist
+Misbegotten
+Misbegotten
+Misbegotten
+Misbegotten
+Misbegotten (Leyndell- Royal Capital)
+Misbegotten
+Misbegotten
+Winged Misbegotten
+Winged Misbegotten
+Winged Misbegotten
+Winged Misbegotten
+Winged Misbegotten
+Winged Misbegotten (Leyndell- Royal Capital)
+Winged Misbegotten
+Winged Misbegotten
+Winged Misbegotten
+Winged Misbegotten
+Misbegotten
+Misbegotten
+Misbegotten
+Misbegotten
+Misbegotten
+Misbegotten
+Misbegotten
+Misbegotten
+Scaly Misbegotten
+Scaly Misbegotten
+Scaly Misbegotten
+Scaly Misbegotten
+Scaly Misbegotten (Leyndell- Royal Capital)
+Scaly Misbegotten
+Scaly Misbegotten
+Smithing Master Hewg
+Smithing Master Hewg
+Scaly Misbegotten
+Scaly Misbegotten
+Scaly Misbegotten (Morne Tunnel Boss)
+Scaly Misbegotten
+Scaly Misbegotten
+Leonine Misbegotten
+Leonine Misbegotten
+Leonine Misbegotten (Leyndell- Royal Capital)
+Leonine Misbegotten
+Leonine Misbegotten
+Leonine Misbegotten (Castle Morne Boss)
+Misbegotten Warrior
+Misbegotten Warrior
+Winged Misbegotten
+Misbegotten Crusader
+Albinauric
+Albinauric
+Albinauric
+Albinauric
+Bloodbane Albinauric (Unscaled)
+Bloodbane Albinauric
+Snowfield Albinauric (Unscaled)
+Snowfield Albinauric
+Albinauric
+Albinauric
+Albinauric
+Albinauric
+Albinauric
+Albinauric
+Albinauric
+Albinauric
+Bloodbane Albinauric
+Bloodbane Albinauric
+Albinauric
+Albinauric
+Albinauric
+Albinauric
+Albinauric
+Albinauric
+Albinauric
+Albinauric
+Albinauric
+Albinauric
+Bloodbane Albinauric
+Bloodbane Albinauric
+Albinauric
+Albinauric
+Albinauric
+Bloodbane Albinauric
+Bloodbane Albinauric
+Albinauric
+Albinauric
+Albinauric
+Albinauric
+Albinauric
+Albinauric
+Albinauric
+Bloodbane Albinauric
+Bloodbane Albinauric
+Albinauric
+Albinauric
+Large Albinauric
+Large Albinauric
+Large Albinauric
+Large Bloodbane Albinauric (Unscaled)
+Large Bloodbane Albinauric
+Large Snowfield Albinauric (Unscaled)
+Large Snowfield Albinauric
+Large Skeleton (Spear)
+Large Skeleton (Spear)
+Large Skeleton (Spear)
+Large Skeleton (Spear)
+Large Skeleton (Spear)
+Large Skeleton (Spear)
+Large Skeleton (Spear)
+Large Skeleton (Spear)
+Large Skeleton (Spear)
+Large Skeleton (Spear)
+Large Skeleton (Spear)
+Large Skeleton (Spear)
+Large Skeleton (Spear)
+Large Skeleton (Spear)
+Large Skeleton (Spear)
+Large Skeleton (Spear)
+Large Skeleton (Spear)
+Large Skeleton (Spear)
+Large Skeleton (Crossbow)
+Large Skeleton (Crossbow)
+Large Skeleton (Crossbow)
+Large Skeleton (Crossbow)
+Large Skeleton (Crossbow)
+Large Skeleton (Crossbow)
+Large Skeleton (Crossbow)
+Large Skeleton (Crossbow)
+Large Skeleton (Crossbow)
+Large Skeleton (Crossbow)
+Large Skeleton (Crossbow)
+Large Skeleton (Crossbow)
+Large Skeleton (Scythe)
+Large Skeleton (Scythe)
+Large Skeleton (Scythe)
+Large Skeleton (Scythe)
+Large Skeleton (Scythe)
+Large Skeleton (Scythe)
+Large Skeleton (Scythe)
+Large Skeleton (Scythe)
+Large Skeleton (Scythe)
+Large Skeleton (Scythe)
+Large Skeleton (Scythe)
+Large Skeleton (Sword and Shield)
+Large Skeleton (Sword and Shield)
+Large Skeleton (Sword and Shield)
+Large Skeleton (Sword and Shield)
+Large Skeleton (Sword and Shield)
+Large Skeleton (Sword and Shield)
+Large Skeleton (Sword and Shield)
+Large Skeleton (Sword and Shield)
+Large Skeleton (Sword and Shield)
+Large Skeleton (Sword and Shield)
+Large Skeleton (Sword and Shield)
+Large Skeleton (Curved Swords)
+Large Skeleton (Curved Swords)
+Large Skeleton (Curved Swords)
+Large Skeleton (Curved Swords)
+Large Skeleton (Curved Swords)
+Large Skeleton (Curved Swords)
+Large Skeleton (Curved Swords)
+Large Skeleton (Curved Swords)
+Large Skeleton (Curved Swords)
+Large Skeleton (Curved Swords)
+Large Skeleton (Curved Swords)
+Large Skeleton (Curved Swords)
+Large Skeleton (Spear)
+Large Skeleton (Spear)
+Large Skeleton (Spear)
+Large Skeleton (Spear)
+Large Skeleton (Crossbow)
+Large Skeleton (Crossbow)
+Large Skeleton (Crossbow)
+Large Skeleton (Scythe)
+Large Skeleton (Scythe)
+Large Skeleton (Scythe)
+Large Skeleton (Scythe)
+Large Skeleton (Sword and Shield)
+Large Skeleton (Sword and Shield)
+Large Skeleton (Sword and Shield)
+Large Skeleton (Sword and Shield)
+Large Skeleton (Curved Swords)
+Large Skeleton (Curved Swords)
+Large Skeleton (Curved Swords)
+Skeleton (Sword and Shield)
+Skeleton (Sword and Shield)
+Skeleton (Sword and Shield)
+Skeleton (Sword and Shield)
+Skeleton (Sword and Shield)
+Skeleton (Sword and Shield)
+Skeleton (Sword and Shield)
+Skeleton (Sword and Shield)
+Skeleton (Sword and Shield)
+Skeleton (Sword and Shield)
+Skeleton (Sword and Shield)
+Skeleton (Sword and Shield)
+Skeleton (Sword and Shield)
+Skeleton (Sword and Shield)
+Skeleton (Sword and Shield)
+Skeleton (Sword and Shield)
+Skeleton (Sword and Shield)
+Skeleton (Sword)
+Skeleton (Sword)
+Skeleton (Sword)
+Skeleton (Sword)
+Skeleton (Sword)
+Skeleton (Sword)
+Skeleton (Sword)
+Skeleton (Sword)
+Skeleton (Sword)
+Skeleton (Sword)
+Skeleton (Sword)
+Skeleton (Sword)
+Skeleton (Sword)
+Skeleton (Bow)
+Skeleton (Bow)
+Skeleton (Bow)
+Skeleton (Bow)
+Skeleton (Bow)
+Skeleton (Bow)
+Skeleton (Bow)
+Skeleton (Bow)
+Skeleton (Bow)
+Skeleton (Fists)
+Skeleton (Fists)
+Skeleton (Fists)
+Skeleton (Fists)
+Skeleton (Fists)
+Skeleton (Fists)
+Skeleton (Fists)
+Skeleton (Fists)
+Skeleton (Fists)
+Skeleton (Fists)
+Skeleton (Fists)
+Skeleton (Fists)
+Skeleton (Fists)
+Skeleton (Fists)
+Sanguine Noble (Unscaled)
+Sanguine Noble
+Sanguine Noble
+Sanguine Noble
+Sanguine Noble
+Sanguine Noble (Boss)
+Godskin Apostle (Unscaled)
+Godskin Apostle
+Godskin Apostle
+Godskin Apostle
+Godskin Apostle (Unscaled)
+Godskin Apostle {Godskin Duo)
+Godskin Apostle (Unscaled)
+Godskin Apostle
+Godskin Apostle (Godskin Duo HP)
+Godskin Noble (Unscaled)
+Godskin Noble (Liurnia Divine Tower)
+Godskin Noble (Volcano Manor)
+Godskin Noble (Unscaled)
+Godskin Noble (Godskin Duo)
+Godskin Noble
+Alabaster Lord (Unscaled)
+Alabaster Lord
+Alabaster Lord
+Alabaster Lord
+Alabaster Lord
+Alabaster Lord
+Onyx Lord
+Onyx Lord
+Onyx Lord (Boss)
+Onyx Lord (Boss)
+Oracle Envoy
+Oracle Envoy (Leyndell- Royal Capital)
+Oracle Envoy
+Large Oracle Envoy
+Large Oracle Envoy (Leyndell- Royal Capital)
+Large Oracle Envoy
+Giant Oracle Envoy
+Giant Oracle Envoy
+
+Guardian
+Guardian
+Guardian
+Guardian
+Guardian
+Guardian (Leyndell- Royal Capital)
+Full-Bloom Guardian
+Full-Bloom Guardian
+Full-Bloom Guardian (Leyndell- Royal Capital)
+Full-Bloom Guardian - Full Bloomed
+Full-Bloom Guardian
+Rotten Guardian
+Rotten Guardian
+Rotten Guardian
+Rotten Guardian
+Fuller-Bloom Guardian
+Commoner
+Commoner
+Commoner
+Commoner
+Commoner (Leyndell- Royal Capital)
+Commoner
+Commoner
+Commoner
+Commoner
+Commoner
+Commoner
+Frenzied Commoner
+Frenzied Commoner
+Frenzied Commoner
+Frenzied Commoner
+Death-serving Commoner
+Death-serving Commoner
+Imprisoned Commoner
+Imprisoned Commoner
+Commoner (Spear)
+Commoner
+Commoner
+Frenzied Commoner
+Frenzied Commoner
+Frenzied Commoner
+Frenzied Commoner
+Death-serving Commoner
+Death-serving Commoner
+Imprisoned Commoner
+Imprisoned Commoner
+Commoner (Torchpole, Cloak)
+Commoner
+Frenzied Commoner
+Frenzied Commoner
+Death-serving Commoner
+Death-serving Commoner
+Imprisoned Commoner
+Imprisoned Commoner
+Commoner (Torchpole)
+Commoner
+Commoner
+Commoner
+Commoner
+Commoner (Margit)
+Commoner (Margit)
+Commoner (Stranded Soul)
+Commoner (Stranded Soul)
+Commoner (Stranded Soul)
+Commoner (Stranded Soul)
+Commoner (Stranded Soul)
+Commoner (Stranded Soul)
+Commoner (Stranded Soul)
+Commoner (Stranded Soul)
+Commoner (Stranded Soul)
+Commoner (Stranded Soul)
+Commoner (Stranded Soul)
+Commoner (Stranded Soul)
+Commoner (Stranded Soul)
+Commoner (Stranded Soul)
+Commoner (Stranded Soul)
+Commoner (Stranded Soul)
+Commoner (Stranded Soul)
+Commoner (Stranded Soul)
+Commoner (Stranded Soul)
+Commoner (Stranded Soul)
+Commoner (Stranded Soul)
+Putrid Corpse
+Putrid Corpse
+Putrid Corpse
+Putrid Corpse
+Putrid Corpse
+Putrid Corpse (Leyndell- Royal Capital)
+Putrid Corpse
+Putrid Corpse
+Putrid Corpse
+Putrid Corpse
+Putrid Corpse
+Putrid Corpse
+Putrid Corpse
+Putrid Corpse (Mirage)
+Putrid Corpse (Maggots)
+Putrid Corpse (Maggots)
+Putrid Corpse (Maggots)
+Putrid Corpse (Maggots) (Shaded Castle)
+Putrid Corpse (Maggots)
+Putrid Corpse (Maggots)
+Putrid Corpse (Burning)
+Putrid Corpse (Burning)
+Putrid Corpse (Burning)
+Putrid Corpse (Burning)
+Putrid Corpse (Burning)
+Putrid Corpse (Burning)
+Putrid Corpse (Burning)
+Putrid Corpse (Mushroom)
+Putrid Corpse (Mushroom)
+Putrid Corpse (Mushroom)
+Putrid Corpse (Mushroom)
+Putrid Corpse (Mushroom)
+Putrid Corpse (Mushroom)
+Putrid Corpse (Magic)
+Putrid Corpse (Magic)
+Putrid Corpse (Blood)
+Putrid Corpse (Blood)
+Putrid Corpse (Rotten)
+Putrid Corpse (Rotten)
+Putrid Corpse
+Putrid Corpse Ghost
+Putrid Corpse (Large)
+Putrid Corpse (Large)
+Putrid Corpse (Large) (Leyndell- Royal Capital)
+Putrid Corpse (Large)
+Putrid Corpse (Large)
+Putrid Corpse (Large)
+Putrid Corpse (Large)
+Putrid Corpse (Large) (Maggots)
+Putrid Corpse (Large) (Maggots) (Shaded Castle)
+Putrid Corpse (Large) (Maggots)
+Putrid Corpse (Large) (Maggots)
+Putrid Corpse (Large) (Maggots)
+Putrid Corpse (Large) (Burning)
+Putrid Corpse (Large) (Burning)
+Putrid Corpse (Large) (Burning)
+Putrid Corpse (Large) (Mushroom)
+Putrid Corpse (Large) (Mushroom)
+Putrid Corpse (Large) (Mushroom)
+Putrid Corpse (Large) (Mushroom)
+Putrid Corpse (Large) (Mushroom)
+Putrid Corpse (Large) (Mushroom)
+Putrid Corpse (Large) (Magic)
+Putrid Corpse (Large) (Magic)
+Putrid Corpse (Large) (Blood)
+Putrid Corpse (Large) (Blood)
+Putrid Corpse (Large) (Rotten)
+Putrid Corpse (Large) (Rotten)
+Cemetery Shade
+Cemetery Shade (Weeping Peninsula)
+Cemetery Shade
+Cemetery Shade
+Cemetery Shade (Boss)
+Cemetery Shade (Boss)
+Gatekeeper Gostoc
+Gatekeeper Gostoc
+Gatekeeper Gostoc
+Gatekeeper Gostoc
+Gatekeeper Gostoc
+Gatekeeper Gostoc
+Gatekeeper Gostoc
+Gatekeeper Gostoc
+Gatekeeper Gostoc
+The Noble Goldmask
+The Noble Goldmask
+The Noble Goldmask
+The Noble Goldmask
+The Noble Goldmask
+Elder Albinauric
+Elder Albinauric
+Elder Albinauric
+Elder Albinauric
+Elder Albinauric (Leyndell- Royal Capital)
+Elder Albinauric Sorcerer
+Elder Albinauric Sorcerer
+Elder Albinauric Sorcerer
+Elder Albinauric Sorcerer
+Elder Albinauric Sorcerer
+Elder Albinauric Sorcerer
+Elder Albinauric Sorcerer
+Elder Albinauric Sorcerer
+Pidia, Carian Servant
+Imprisoned Elder Albinauric
+Imprisoned Elder Albinauric
+Imprisoned Elder Albinauric
+Imprisoned Elder Albinauric
+Imprisoned Elder Albinauric
+Imprisoned Elder Albinauric
+Imprisoned Elder Albinauric
+Imprisoned Elder Albinauric
+Imprisoned Elder Albinauric
+Black Dumpling Elder Albinauric
+Black Dumpling Elder Albinauric (Leyndell, Royal Capital)
+Black Dumpling Elder Albinauric
+Black Dumpling Elder Albinauric
+Poison Claw Elder Albinauric
+Poison Claw Elder Albinauric
+Old Albus
+Old Albus
+Pidia, Carian Servant
+Pidia, Carian Servant
+Elder Albinauric
+Pidia, Carian Servant
+Pidia, Carian Servant
+Depraved Perfumer
+Depraved Perfumer
+Depraved Perfumer
+Depraved Perfumer
+Depraved Perfumer (Shaded Castle)
+Depraved Perfumer
+Depraved Perfumer
+Depraved Perfumer
+Depraved Perfumer (Shaded Castle)
+Perfumer
+Perfumer
+Perfumer
+Perfumer  (Leyndell- Royal Capital)
+Perfumer
+Perfumer
+Perfumer
+Perfumer (Leyndell- Royal Capital)
+Perfumer Tricia
+Glintstone Sorcerer
+Glintstone Sorcerer
+Glintstone Sorcerer
+Glintstone Sorcerer
+Glintstone Sorcerer
+Glintstone Sorcerer (Mirage)
+Karolos Glintstone Sorcerer
+Karolos Glintstone Sorcerer
+Karolos Glintstone Sorcerer
+Karolos Glintstone Sorcerer
+Karolos Glintstone Sorcerer (Mirage)
+Karolos Glintstone Sorcerer
+Lazuli Glintstone Sorcerer
+Lazuli Glintstone Sorcerer
+Lazuli Glintstone Sorcerer
+Lazuli Glintstone Sorcerer
+Lazuli Glintstone Sorcerer
+Twinsage Glintstone Sorcerer A
+Twinsage Glintstone Sorcerer A
+Twinsage Glintstone Sorcerer A
+Mirage Twinsage Glintstone Sorcerer A
+Twinsage Glintstone Sorcerer A
+Twinsage Glintstone Sorcerer B
+Twinsage Glintstone Sorcerer B
+Mirage Twinsage Glintstone Sorcerer B
+Page
+Page
+Page
+Page
+Page (Shaded Castle)
+Page
+Page
+Page (Leyndell- Royal Capital)
+Page
+Page
+High Page
+High Page (Raya Lucaria)
+High Page (Leyndell- Royal Capital)
+Battlemage
+Battlemage
+Battlemage
+Battlemage
+Battlemage
+Battlemage
+Battlemage Hugues (Boss)
+Azur
+Azur
+Azur
+Lusat
+Lusat
+Lusat
+Graven School
+Graven School
+Graven School
+Graven School
+Graven School
+Graven School
+Graven School
+Graven School
+Graven School
+Sorceress Sellen
+Sorceress Sellen
+Clayman - Spear
+Clayman (Ainsel River)
+Clayman (Lake of Rot)
+Clayman (Siofra River)
+Clayman
+Clayman - Dagger
+Clayman (Ainsel River)
+Clayman (Lake of Rot)
+Clayman
+Clayman (Ainsel River)
+Clayman (Lake of Rot)
+Clayman (Siofra River)
+Clayman
+Cleanrot Knight
+Cleanrot Knight (Shaded Castle)
+Cleanrot Knight
+Cleanrot Knight
+Cleanrot Knight
+Cleanrot Knight
+Mausoleum Cleanrot Knight
+Mausoleum Cleanrot Knight
+Mausoleum Cleanrot Knight
+Cleanrot Knight (Boss)
+Cleanrot Knight (Boss)
+Cleanrot Knight
+Cleanrot Knight (Shaded Castle)
+Cleanrot Knight
+Cleanrot Knight
+Cleanrot Knight
+Cleanrot Knight
+Mausoleum Cleanrot Knight
+Mausoleum Cleanrot Knight
+Cleanrot Knight (Boss)
+Kindred of Rot
+Kindred of Rot (Sellia Tunnel)
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot (Boss)
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot (Boss)
+Kindred of Rot
+Kindred of Rot (Sellia Tunnel)
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Marionette
+Marionette
+Marionette
+Marionette
+Marionette
+Marionette
+Marionette
+Marionette
+Marionette
+Marionette
+Marionette
+Marionette
+Marionette
+Marionette
+Marionette
+Marionette
+Marionette
+Marionette
+Marionette
+Marionette
+Marionette
+Marionette
+Marionette
+Marionette
+Marionette
+Avionette
+Avionette
+Avionette
+Avionette
+Avionette
+Avionette
+Avionette
+Avionette
+Avionette
+Avionette
+Avionette
+Avionette
+Avionette
+Avionette
+Avionette
+Avionette
+Avionette
+Avionette
+Avionette
+Avionette
+Avionette
+Avionette
+Avionette
+Avionette
+Avionette
+Avionette
+Avionette
+Avionette
+Avionette
+Avionette
+Fire Monk
+Fire Monk
+Fire Monk
+Fire Monk
+Fire Monk
+Fire Monk
+Fire Monk
+Fire Monk
+Blackflame Monk
+Blackflame Monk
+Blackflame Monk
+Fire Prelate
+Fire Prelate
+Fire Prelate
+Fire Prelate (Surcoat)
+Fire Prelate (Surcoat)
+Fire Prelate
+Fire Prelate
+Fire Prelate
+Fire Prelate
+Fire Prelate
+Fire Prelate
+Man-Serpent - Whip Cool
+Man-Serpent
+Man-Serpent
+Man-Serpent - Whip Hot
+Man-Serpent
+Man-Serpent
+Man-Serpent
+Man-Serpent - Magma Blade Cool
+Man-Serpent
+Man-Serpent
+Man-Serpent - Magma Blade Hot
+Man-Serpent
+Man-Serpent
+Man-Serpent
+Man-Serpent - Egghead
+Man-Serpent
+Zorayas the Scout
+Zorayas the Scout
+Zorayas the Scout
+Azula Beastman
+Azula Beastman
+Azula Beastman
+Azula Beastman
+Azula Beastman
+Azula Beastman
+Azula Beastman
+Azula Beastman
+Azula Beastman
+Azula Beastman
+Armored Beastman of Farum Azula
+Armored Beastman of Farum Azula
+Armored Beastman of Farum Azula
+Armored Beastman of Farum Azula
+Armored Beastman of Farum Azula
+Armored Beastman of Farum Azula
+Beastman of Farum Azula (Limgrave Cave Boss)
+Armored Beastman of Farum Azula (Boss)
+Azula Beastman
+Azula Beastman
+Azula Beastman
+Azula Beastman
+Azula Beastman
+Azula Beastman
+Azula Beastman
+Azula Beastman
+Azula Beastman (Boss)
+Azula Beastman
+Azula Beastman
+Azula Beastman
+Azula Beastman
+Azula Beastman
+Revenant Follower
+Revenant Follower
+Revenant Follower
+Revenant Follower
+Revenant Follower (Shaded Castle)
+Revenant Follower
+Revenant Follower
+Revenant Follower
+Revenant Follower
+Revenant Follower
+Revenant Follower
+Revenant Follower
+Revenant Follower
+Revenant Follower
+Revenant Follower
+Revenant Follower (Shaded Castle)
+Revenant Follower
+Revenant Follower
+Royal Revenant
+Royal Revenant
+Royal Revenant
+Royal Revenant
+Royal Revenant
+Royal Revenant (Shaded Castle)
+Royal Revenant
+Royal Revenant
+Royal Revenant
+Royal Revenant
+Royal Revenant
+Royal Revenant (Boss)
+Royal Revenant
+Royal Revenant
+Royal Revenant
+Royal Revenant
+Royal Revenant (Shaded Castle)
+Royal Revenant
+Royal Revenant
+Royal Revenant
+Royal Revenant
+Royal Revenant
+Royal Revenant
+Royal Revenant (Shaded Castle)
+Royal Revenant
+Royal Revenant
+Royal Revenant
+Royal Revenant
+Royal Revenant
+Royal Revenant
+Royal Revenant
+Royal Revenant
+Slug
+Slug
+Slug (Shaded Castle)
+Slug
+Slug
+Slug
+Slug
+Magma Slug
+Magma Slug
+Magma Slug
+Worm Slug
+Worm Slug
+Fire Slug
+Fire Slug
+Fire Slug
+Fire Slug
+Fire Slug
+Fire Slug
+Kaiden Sellsword
+Kaiden Sellsword
+Kaiden Sellsword
+Kaiden Sellsword
+Kaiden Sellsword
+Kaiden Sellsword
+Kaiden Sellsword
+Kaiden Sellsword
+Horse
+Kaiden Sellsword Horse
+Kaiden Sellsword Horse
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+White Wolf
+White Wolf
+White Wolf
+White Wolf
+White Wolf
+White Wolf
+White Wolf
+White Wolf
+White Wolf
+White Wolf
+White Wolf
+White Wolf
+White Wolf
+White Wolf
+Rat
+Rat
+Rat
+Rat
+Rat (Stormveil Castle)
+Rat
+Rat
+Rat
+Rat
+Rat  (Leyndell- Royal Capital)
+Rat
+Rat
+Rat
+Rat
+Rat
+Rat
+Rat
+Rat (Siofra River)
+Rat
+Rat
+Rat (Leyndell- Royal Capital)
+Rat
+Rat
+Rat
+Rat
+Rat
+Rat
+Giant Rat
+Giant Rat
+Giant Rat
+Giant Rat (Stormveil Castle)
+Giant Rat
+Giant Rat
+Giant Rat
+Giant Rat (Leyndell- Royal Capital)
+Giant Rat
+Giant Rat
+Giant Rat
+Giant Rat
+Giant Rat (Siofra River)
+Giant Rat
+Giant Rat
+Giant Rat
+Giant Rat
+Giant Rat
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Large Demi-Human
+Large Demi-Human
+Large Demi-Human
+Large Demi-Human
+Large Demi-Human
+Large Demi-Human
+Large Demi-Human
+Demi-Human Shaman
+Demi-Human Shaman
+Demi-Human Shaman
+Demi-Human Shaman
+Demi-Human Shaman
+Demi-Human Shaman
+Demi-Human Shaman
+Demi-Human Shaman
+Demi-Human Boc
+Demi-Human Boc
+Boc the Seamster
+Boc the Seamster
+Boc the Seamster
+Boc the Seamster
+Boc the Seamster
+Demi-Human Boc
+Boc the Seamster
+Boc the Seamster
+Boc the Seamster
+Demi-Human Chief
+Demi-Human Chief
+Demi-Human Chief
+Demi-Human Chief
+Demi-Human Chief
+Demi-Human Chief
+Demi-Human Chief
+Demi-Human Chief
+Demi-Human Chief
+Demi-Human Chief
+Demi-Human Chief (Duo Boss)
+Demi-Human Queen
+Demi-Human Queen
+Demi-Human Queen Maggie
+Demi-Human Queen
+Demi-Human Queen Gilika
+Demi-Human Queen Margot
+Snail
+Snail
+Snail
+Snail
+Snail
+Snail (Leyndell- Royal Capital)
+Snail
+Snail
+Snail
+Snail
+Snail
+Snail
+Spiritcaller Snail
+Spiritcaller Snail
+Snail
+Snail
+Snail
+Snail
+Snail
+Snail
+Snail
+Snail
+Snail
+Snail
+Snail
+Snail
+Snail
+Basilisk
+Basilisk
+Basilisk (Shaded Castle)
+Basilisk
+Basilisk
+Basilisk
+Basilisk
+Basilisk
+Basilisk (Ainsel River)
+Basilisk
+Basilisk
+Basilisk
+Basilisk
+Large Stray
+Large Stray (Stormveil Castle)
+Large Stray
+Large Stray (Shaded Castle)
+Large Stray
+Large Stray (Leyndell- Royal Capital)
+Large Stray
+Large Stray
+Large Stray
+Large Stray
+Large Stray
+Large Stray
+Stray
+Stray
+Stray
+Stray
+Stray (Stormveil Castle)
+Stray (Village of the Albinaurics)
+Stray
+Stray
+Stray (Shaded Castle)
+Stray
+Stray
+Stray (Leyndell- Royal Capital)
+Stray
+Stray
+Stray
+Stray
+Stray (Siofra River)
+Stray
+Stray
+Stray
+Stray
+Stray
+Stray
+Stray
+Large Azula Stray
+Large Azula Stray
+Azula Stray
+Azula Stray
+Large Bloodbane Stray
+Large Bloodbane Stray
+Large Bloodbane Stray
+Large Bloodbane Stray
+Bloodbane Stray
+Bloodbane Stray
+Bloodbane Stray
+Bloodbane Stray
+Bloodbane Stray
+Bloodbane Stray (Boss)
+Large Rotten Stray
+Large Rotten Stray
+Large Rotten Stray
+Rotten Stray
+Rotten Stray
+Putrid Flesh
+Putrid Flesh
+Putrid Flesh
+Putrid Flesh
+Putrid Flesh
+Putrid Flesh
+Putrid Flesh
+Putrid Flesh (Blood)
+Putrid Flesh (Blood)
+Putrid Flesh (Blood)
+Putrid Flesh (Blood)
+Putrid Flesh (Blood)
+Putrid Flesh (Blood)
+Putrid Flesh (Rotten)
+Putrid Flesh (Rotten)
+Putrid Flesh (Green)
+Putrid Flesh (Green)
+Putrid Flesh (Green)
+Giant Putrid Flesh (Blood)
+Giant Putrid Flesh (Blood)
+Giant Putrid Flesh (Blood)
+Giant Putrid Flesh (Blood)
+Spirit Jellyfish
+Spirit Jellyfish
+Spirit Jellyfish
+Spirit Jellyfish
+Spirit Jellyfish
+Spirit Jellyfish
+Spirit Jellyfish
+Spirit Jellyfish
+Spirit Jellyfish
+Spirit Jellyfish
+Spirit Jellyfish
+Spirit Jellyfish
+Spirit Jellyfish
+Spirit Jellyfish
+Spirit Jellyfish
+Spirit Jellyfish
+Spirit Jellyfish
+Spirit Jellyfish
+Spirit Jellyfish
+Spirit Jellyfish
+Spirit Jellyfish
+Spirit Jellyfish
+Spirit Jellyfish
+Aurelia (Jellyfish)
+Large Crimson Tear Scarab
+Large Crimson Tear Scarab
+Large Crimson Tear Scarab
+Large Cerulean Tear Scarab
+Large Cerulean Tear Scarab
+Large Cerulean Tear Scarab
+Large Ash of War Scarab
+Large Ash of War Scarab
+Large Ash of War Scarab
+Large Ash of War Scarab
+Large Ash of War Scarab
+Large Ash of War Scarab
+Large Ash of War Scarab
+Large Ash of War Scarab
+Large Ash of War Scarab
+Large Ash of War Scarab
+Large Ash of War Scarab
+Large Glintstone Scarab
+Large Glintstone Scarab
+Large Glintstone Scarab
+Large Glintstone Scarab
+Large Glintstone Scarab
+Large Glintstone Scarab
+Large Glintstone Scarab
+Large Glintstone Scarab
+Large Glintstone Scarab
+Large Incantation Scarab
+Large Incantation Scarab
+Large Incantation Scarab
+Large Incantation Scarab
+Large Incantation Scarab
+Large Incantation Scarab
+Large Incantation Scarab
+Large Incantation Scarab
+Large Incantation Scarab
+Large Smithing Stone Scarab
+Large Smithing Stone Scarab
+Large Smithing Stone Scarab
+Large Smithing Stone Scarab
+Large Smithing Stone Scarab
+Large Smithing Stone Scarab
+Large Scarab
+Large Scarab
+Large Scarab
+Large Scarab
+Crimson Tear Scarab
+Crimson Tear Scarab
+Crimson Tear Scarab
+Crimson Tear Scarab
+Crimson Tear Scarab
+Crimson Tear Scarab
+Crimson Tear Scarab
+Crimson Tear Scarab
+Crimson Tear Scarab
+Crimson Tear Scarab
+Crimson Tear Scarab
+Crimson Tear Scarab
+Crimson Tear Scarab
+Crimson Tear Scarab
+Crimson Tear Scarab
+Crimson Tear Scarab
+Crimson Tear Scarab
+Crimson Tear Scarab
+Crimson Tear Scarab
+Crimson Tear Scarab
+Cerulean Tear Scarab
+Cerulean Tear Scarab
+Cerulean Tear Scarab
+Cerulean Tear Scarab
+Cerulean Tear Scarab
+Cerulean Tear Scarab
+Cerulean Tear Scarab
+Cerulean Tear Scarab
+Cerulean Tear Scarab
+Cerulean Tear Scarab
+Cerulean Tear Scarab
+Cerulean Tear Scarab
+Cerulean Tear Scarab
+Cerulean Tear Scarab
+Cerulean Tear Scarab
+Cerulean Tear Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Ash of War Scarab
+Glintstone Scarab
+Glintstone Scarab
+Glintstone Scarab
+Glintstone Scarab
+Glintstone Scarab
+Glintstone Scarab
+Glintstone Scarab
+Glintstone Scarab
+Glintstone Scarab
+Glintstone Scarab
+Glintstone Scarab
+Glintstone Scarab
+Glintstone Scarab
+Glintstone Scarab
+Glintstone Scarab
+Glintstone Scarab
+Glintstone Scarab
+Glintstone Scarab
+Glintstone Scarab
+Glintstone Scarab
+Glintstone Scarab
+Glintstone Scarab
+Glintstone Scarab
+Glintstone Scarab
+Glintstone Scarab
+Glintstone Scarab
+Glintstone Scarab
+Glintstone Scarab
+Glintstone Scarab
+Glintstone Scarab
+Glintstone Scarab
+Glintstone Scarab
+Glintstone Scarab
+Glintstone Scarab
+Glintstone Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Incantation Scarab
+Smithing Stone Scarab
+Smithing Stone Scarab
+Smithing Stone Scarab
+Smithing Stone Scarab
+Smithing Stone Scarab
+Smithing Stone Scarab
+Smithing Stone Scarab
+Smithing Stone Scarab
+Smithing Stone Scarab
+Smithing Stone Scarab
+Smithing Stone Scarab
+Smithing Stone Scarab
+Smithing Stone Scarab
+Smithing Stone Scarab
+Smithing Stone Scarab
+Smithing Stone Scarab
+Smithing Stone Scarab
+Smithing Stone Scarab
+Smithing Stone Scarab
+Smithing Stone Scarab
+Smithing Stone Scarab
+Smithing Stone Scarab
+Smithing Stone Scarab
+Smithing Stone Scarab
+Smithing Stone Scarab
+Smithing Stone Scarab
+Smithing Stone Scarab
+Smithing Stone Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Giant Crimson Tear Scarab
+Giant Crimson Tear Scarab
+Giant Crimson Tear Scarab
+Giant Cerulean Tear Scarab
+Giant Cerulean Tear Scarab
+Giant Cerulean Tear Scarab
+Giant Ash of War Scarab
+Giant Ash of War Scarab
+Giant Ash of War Scarab
+Giant Ash of War Scarab
+Giant Ash of War Scarab
+Giant Ash of War Scarab
+Giant Ash of War Scarab
+Giant Glintstone Scarab
+Giant Glintstone Scarab
+Giant Glintstone Scarab
+Giant Glintstone Scarab
+Giant Glintstone Scarab
+Giant Glintstone Scarab
+Giant Incantation Scarab
+Giant Incantation Scarab
+Giant Incantation Scarab
+Giant Incantation Scarab
+Giant Incantation Scarab
+Giant Incantation Scarab
+Giant Smithing Stone Scarab
+Giant Smithing Stone Scarab
+Giant Smithing Stone Scarab
+Giant Smithing Stone Scarab
+Giant Smithing Stone Scarab
+Giant Scarab
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat (Siofra River)
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Operatic Bat
+Warhawk
+Warhawk (Stormveil Castle)
+Warhawk
+Warhawk (Stormveil Castle)
+Warhawk
+Warhawk (Stormveil Castle)
+Warhawk
+Warhawk (Stormveil Castle)
+Warhawk
+Warhawk
+Warhawk (Stormveil Castle)
+Warhawk
+Warhawk
+Warhawk (Stormveil Castle)
+Warhawk
+Warhawk
+Warhawk
+Warhawk
+Warhawk
+Warhawk
+Warhawk
+Warhawk
+Warhawk
+Warhawk
+Warhawk
+Warhawk
+Warhawk
+Giant Land Octopus
+Giant Land Octopus
+Giant Land Octopus
+Giant Land Octopus
+Giant Land Octopus
+Giant Land Octopus
+Giant Land Octopus
+Giant Land Octopus
+Giant Land Octopus
+Giant Land Octopus (Siofra River)
+Small Land Octopus
+Land Octopus
+Land Octopus
+Land Octopus
+Land Octopus
+Land Octopus
+Land Octopus
+Land Octopus
+Land Octopus
+Land Octopus (Siofra River)
+Land Octopus
+Land Octopus
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper (Leyndell- Royal Capital)
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper  (Leyndell- Royal Capital)
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Giant Fingercreeper
+Giant Fingercreeper
+Giant Fingercreeper
+Small Fingercreeper
+Small Fingercreeper
+Small Fingercreeper
+Small Fingercreeper (Leyndell- Royal Capital)
+Small Fingercreeper
+Small Fingercreeper  (Leyndell- Royal Capital)
+Small Fingercreeper
+Small Fingercreeper
+Small Fingercreeper
+Erdtree Burial Watchdog
+Erdtree Burial Watchdog
+Erdtree Burial Watchdog (Limgrave Catacombs)
+Erdtree Burial Watchdog
+Erdtree Burial Watchdog (Impalers Catacombs)
+Erdtree Burial Watchdog
+Erdtree Burial Watchdog (Minor Erdtree Catacombs)
+Erdtree Burial Watchdog
+Erdtree Burial Watchdog
+Erdtree Burial Watchdog
+Erdtree Burial Watchdog
+Erdtree Burial Watchdog (Cliffbottom Catacombs)
+Erdtree Burial Watchdog (Minor Erdtree Catacombs)
+Erdtree Burial Watchdog
+Erdtree Burial Watchdog
+Erdtree Burial Watchdog
+Erdtree Burial Watchdog
+Erdtree Burial Watchdog (Wyndham Catacombs)
+Erdtree Burial Watchdog
+Erdtree Burial Watchdog
+Erdtree Burial Watchdog
+Erdtree Burial Watchdog
+Erdtree Burial Watchdog
+Erdtree Burial Watchdog
+Erdtree Burial Watchdog
+Erdtree Burial Watchdog
+Erdtree Burial Watchdog
+Erdtree Burial Watchdog
+Erdtree Burial Watchdog
+Erdtree Burial Watchdog
+Erdtree Burial Watchdog
+Erdtree Burial Watchdog
+Erdtree Burial Watchdog
+Erdtree Burial Watchdog
+Erdtree Burial Watchdog
+Erdtree Burial Watchdog
+Elder Lion
+Elder Lion (Stormveil Castle)
+Elder Lion
+Elder Lion
+Elder Lion  (Leyndell- Royal Capital)
+Elder Lion
+Elder Lion
+Elder Lion
+Elder Lion
+Giant Ant
+Giant Ant
+Giant Ant
+Giant Ant (Ainsel River)
+Giant Ant
+Giant Ant
+Giant Ant (Stinger)
+Giant Ant (Stinger) (Ainsel River)
+Giant Ant (Stinger)
+Giant Ant (Stinger, Large Abdomen)
+Giant Ant (Stinger, Large Abdomen) (Ainsel River)
+Giant Ant (Replete)
+Giant Ant (Replete)
+Giant Ant (Replete) (Ainsel River)
+Giant Ant (Replete)
+Giant Ant (Replete)
+Giant Ant (Winged)
+Giant Ant (Winged)
+Giant Ant (Winged)
+Giant Ant
+Giant Ant
+Giant Ant
+Giant Ant
+Giant Ant (Mounted)
+Giant Ant (Mounted)
+Skull Plate Giant Ant
+Skull Plate Giant Ant (Ainsel River)
+Skull Plate Giant Ant
+Skull Plate Giant Ant
+Bloodhound Knight
+Bloodhound Knight Darriwil
+Bloodhound Knight
+Bloodhound Knight
+Bloodhound Knight
+Bloodhound Knight
+Bloodhound Knight
+Bloodhound Knight
+Bloodhound Knight
+Bloodhound Knight
+Bloodhound Knight (Boss)
+Bloodhound Knight
+Bloodhound Knight
+Bloodhound Knight
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble (Shaded Castle)
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble (Puppet)
+Wandering Noble (Puppet)
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble (Shaded Castle)
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble (Sorcerer)
+Wandering Noble (Sorcerer)
+Wandering Noble (Sorcerer)
+Wandering Noble (Sorcerer)
+Wandering Noble (Sorcerer)
+Wandering Noble (Sorcerer)
+Wandering Noble (Sorcerer)
+Wandering Noble (Sorcerer)
+Wandering Noble (Sorcerer) (Shaded Castle)
+Wandering Noble (Sorcerer)
+Wandering Noble (Sorcerer)
+Wandering Noble (Sorcerer)
+Wandering Noble (Sorcerer)
+Wandering Noble (Sorcerer)
+Wandering Noble (Sorcerer)
+Wandering Noble (Sorcerer)
+Wandering Noble (Sorcerer)
+Wandering Noble (Sorcerer)
+Wandering Noble (Sorcerer)
+Wandering Noble (Sorcerer)
+Wandering Noble (Sorcerer)
+Wandering Noble (Sorcerer)
+Wandering Noble (Sorcerer)
+Wandering Noble (Sorcerer)
+Wandering Noble (Sorcerer)
+Wandering Noble (Banner)
+Wandering Noble (Banner)
+Wandering Noble (Banner)
+Wandering Noble (Banner)
+Wandering Noble (Banner)
+Wandering Noble (Banner)
+Wandering Noble (Banner)
+Wandering Noble (Banner)
+Wandering Noble (Banner)
+Wandering Noble (Banner)
+Wandering Noble (Banner)
+Wandering Noble (Chest)
+Wandering Noble (Chest)
+Wandering Noble (Chest)
+Wandering Noble (Chest)
+Wandering Noble (Chest)
+Wandering Noble (Chest)
+Wandering Noble (Chest)
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble (Poisoned)
+Wandering Noble (Poisoned)
+Wandering Noble (Poisoned)
+Wandering Noble (Poisoned)
+Wandering Noble (Poisoned)
+Wandering Noble (Poisoned)
+Wandering Noble (Poisoned)
+Wandering Noble (Poisoned)
+Wandering Noble (Poisoned)
+Wandering Noble (Poisoned)
+Wandering Noble (Poisoned)
+Wandering Noble (Poisoned)
+Wandering Noble (Poisoned)
+Wandering Noble (Poisoned)
+Wandering Noble (Poisoned)
+Wandering Noble (Poisoned)
+Wandering Noble (Poisoned)
+Wandering Noble (Poisoned)
+Wandering Noble (Poisoned)
+Wandering Noble (Poisoned)
+Wandering Noble (Poisoned)
+Wandering Noble (Poisoned)
+Wandering Noble (Poisoned)
+Wandering Noble (Poisoned)
+Wandering Noble (Poisoned)
+Wandering Noble (Poisoned)
+Wandering Noble (Poisoned)
+Wandering Noble (Poisoned)
+Wandering Noble (Poisoned)
+Wandering Noble (Poisoned)
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble (Stranded Soul)
+Wandering Noble (Stranded Soul)
+Wandering Noble (Stranded Soul)
+Wandering Noble (Stranded Soul)
+Wandering Noble (Stranded Soul)
+Wandering Noble (Stranded Soul)
+Wandering Noble (Stranded Soul)
+Wandering Noble (Stranded Soul)
+Wandering Noble (Stranded Soul)
+Wandering Noble (Stranded Soul)
+Wandering Noble (Stranded Soul)
+Wandering Noble (Stranded Soul)
+Wandering Noble (Stranded Soul)
+Wandering Noble (Stranded Soul)
+Wandering Noble (Stranded Soul)
+Wandering Noble (Stranded Soul)
+Wandering Noble (Stranded Soul)
+Wandering Noble (Stranded Soul)
+Wandering Noble (Stranded Soul)
+Wandering Noble (Stranded Soul)
+Wandering Noble (Stranded Soul)
+Wandering Noble (Stranded Soul)
+Wandering Noble (Stranded Soul)
+Wandering Noble (Stranded Soul)
+Wandering Noble (Stranded Soul)
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier (Stormveil Castle)
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Soldier of Godrick (Boss)
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Godrick Soldier
+Raya Lucaria Soldier
+Raya Lucaria Soldier
+Raya Lucaria Soldier
+Raya Lucaria Soldier
+Raya Lucaria Soldier
+Raya Lucaria Soldier
+Raya Lucaria Soldier
+Raya Lucaria Soldier
+Raya Lucaria Soldier
+Raya Lucaria Soldier
+Raya Lucaria Soldier
+Raya Lucaria Soldier
+Raya Lucaria Soldier
+Raya Lucaria Soldier
+Raya Lucaria Soldier
+Raya Lucaria Soldier
+Raya Lucaria Soldier
+Raya Lucaria Soldier
+Raya Lucaria Soldier
+Raya Lucaria Soldier
+Raya Lucaria Soldier
+Raya Lucaria Soldier
+Raya Lucaria Soldier
+Raya Lucaria Soldier
+Raya Lucaria Soldier
+Raya Lucaria Soldier
+Raya Lucaria Soldier
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier  (Leyndell- Royal Capital)
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier (Leyndell- Royal Capital)
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier (Leyndell- Royal Capital)
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier (Leyndell- Royal Capital)
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier (Leyndell- Royal Capital)
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier (Leyndell- Royal Capital)
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier (Leyndell- Royal Capital)
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier
+Leyndell Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Radahn Soldier
+Mausoleum Soldier
+Mausoleum Soldier
+Mausoleum Soldier
+Mausoleum Soldier
+Mausoleum Soldier
+Mausoleum Soldier
+Mausoleum Soldier
+Mausoleum Soldier
+Mausoleum Soldier
+Mausoleum Soldier
+Mausoleum Soldier
+Mausoleum Soldier
+Mausoleum Soldier
+Mausoleum Soldier
+Mausoleum Soldier
+Mausoleum Soldier
+Mausoleum Soldier
+Mausoleum Soldier
+Mausoleum Soldier
+Mausoleum Soldier
+Mausoleum Soldier
+Mausoleum Soldier
+Mausoleum Soldier
+Mausoleum Soldier
+Haligtree Soldier
+Haligtree Soldier
+Haligtree Soldier
+Haligtree Soldier
+Haligtree Soldier
+Haligtree Soldier
+Haligtree Soldier
+Haligtree Soldier
+Haligtree Soldier
+Haligtree Soldier
+Haligtree Soldier
+Haligtree Soldier
+Haligtree Soldier
+Haligtree Soldier
+Haligtree Soldier
+Haligtree Soldier
+Haligtree Soldier
+Haligtree Soldier
+Haligtree Soldier
+Haligtree Soldier
+Haligtree Soldier
+Haligtree Soldier
+Haligtree Soldier
+Haligtree Soldier
+Haligtree Soldier
+Haligtree Soldier
+Haligtree Soldier
+Haligtree Soldier
+Haligtree Soldier
+Haligtree Soldier
+Vulgar Militia
+Vulgar Militia
+Vulgar Militia
+Vulgar Militia
+Vulgar Militia
+Vulgar Militia
+Vulgar Militia
+Vulgar Militia
+Vulgar Militia
+Vulgar Militia
+Vulgar Militia
+Vulgar Militia
+Vulgar Militia
+Vulgar Militia
+Vulgar Militia
+Vulgar Militia
+Vulgar Militia
+Vulgar Militia
+Vulgar Militia
+Vulgar Militia
+Vulgar Militia
+Vulgar Militia
+Vulgar Militia
+Vulgar Militia
+Vulgar Militia
+Vulgar Militia
+Vulgar Militia
+Vulgar Militia
+Vulgar Militia
+Vulgar Militia
+Vulgar Militia
+Vulgar Militia
+Mad Pumpkin Head
+Mad Pumpkin Head
+Mad Pumpkin Head
+Mad Pumpkin Head
+Mad Pumpkin Head
+Mad Pumpkin Head
+Mad Pumpkin Head
+Mad Pumpkin Head
+Mad Pumpkin Head
+Mad Pumpkin Head
+Mad Pumpkin Head
+Mad Pumpkin Head
+Mad Pumpkin Head (Boss)
+Mad Pumpkin Head (Flail)
+Mad Pumpkin Head
+Mad Pumpkin Head
+Mad Pumpkin Head
+Mad Pumpkin Head
+Mad Pumpkin Head
+Mad Pumpkin Head
+Mad Pumpkin Head
+Mad Pumpkin Head
+Mad Pumpkin Head
+Mad Pumpkin Head
+Mad Pumpkin Head (Hammer)
+Thin Mad Pumpkin Head
+Thin Mad Pumpkin Head
+Godrick Knight
+Godrick Knight
+Godrick Knight
+Godrick Knight (Blood)
+Godrick Knight
+Godrick Knight
+Godrick Knight
+Godrick Knight
+Godrick Knight
+Godrick Knight
+Cuckoo Knight
+Cuckoo Knight
+Cuckoo Knight
+Cuckoo Knight
+Cuckoo Knight
+Cuckoo Knight
+Leyndell Knight
+Leyndell Knight
+Leyndell Knight
+Leyndell Knight
+Leyndell Knight (Leyndell- Royal Capital)
+Leyndell Knight
+Leyndell Knight
+Leyndell Knight
+Leyndell Knight
+Leyndell Knight
+Leyndell Knight
+Leyndell Knight
+Leyndell Knight (Leyndell- Royal Capital)
+Leyndell Knight
+Leyndell Knight
+Leyndell Knight
+Leyndell Knight (Leyndell- Royal Capital)
+Leyndell Knight
+Leyndell Knight
+Leyndell Knight
+Leyndell Knight
+Leyndell Knight
+Leyndell Knight
+Leyndell Knight
+Leyndell Knight
+Leyndell Knight (Leyndell- Royal Capital)
+Leyndell Knight
+Leyndell Knight
+Leyndell Knight (Leyndell- Royal Capital)
+Leyndell Knight
+Leyndell Knight
+Leyndell Knight - Archer (Leyndell- Royal Capital)
+Leyndell Knight
+Leyndell Knight
+Redmane Kngiht
+Redmane Knight
+Redmane Knight
+Redmane Kngiht
+Redmane Kngiht
+Redmane Kngiht
+Redmane Knight
+Redmane Kngiht
+Redmane Knight
+Redmane Knight
+Redmane Kngiht
+Redmane Kngiht
+Redmane Knight
+Redmane Kngiht
+Redmane Knight
+Redmane Kngiht
+Redmane Knight
+Redmane Kngiht
+Redmane Kngiht
+Redmane Knight
+Mausoleum Knight
+Mausoleum Knight
+Mausoleum Knight
+Mausoleum Knight
+Mausoleum Knight
+Mausoleum Knight
+Mausoleum Knight
+Mausoleum Knight
+Mausoleum Knight
+Mausoleum Knight
+Mausoleum Knight
+Mausoleum Knight
+Mausoleum Knight
+Haligtree Knight
+Haligtree Knight (Leyndell- Royal Capital)
+Haligtree Knight
+Haligtree Knight
+Haligtree Knight
+Haligtree Knight
+Haligtree Knight
+Haligtree Knight
+Haligtree Knight
+Haligtree Knight
+
+
+
+
+Godrick Knight's Horse
+Godrick Knight's Horse
+Godrick Knight's Horse
+Godrick Knight's Horse
+Cuckoo Knight's Horse
+Cuckoo Knight's Horse
+Cuckoo Knight's Horse
+Leyndell Knight's Horse
+Leyndell Knight's Horse
+Leyndell Knight's Horse
+Leyndell Knight's Horse
+Redmane Knight's Horse
+Redmane Knight's Horse
+Redmane Knight's Horse
+Mausoleum Knight's Horse
+Mausoleum Knight's Horse
+Mausoleum Knight's Horse
+
+
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Godrick Foot Soldier
+Raya Lucaria Foot Soldier
+Raya Lucaria Foot Soldier
+Raya Lucaria Foot Soldier
+Raya Lucaria Foot Soldier
+Raya Lucaria Foot Soldier
+Raya Lucaria Foot Soldier
+Raya Lucaria Foot Soldier
+Raya Lucaria Foot Soldier
+Raya Lucaria Foot Soldier
+Raya Lucaria Foot Soldier
+Raya Lucaria Foot Soldier
+Raya Lucaria Foot Soldier
+Raya Lucaria Foot Soldier
+Raya Lucaria Foot Soldier
+Raya Lucaria Foot Soldier
+Raya Lucaria Foot Soldier
+Raya Lucaria Foot Soldier
+Raya Lucaria Foot Soldier
+Raya Lucaria Foot Soldier
+Raya Lucaria Foot Soldier
+Raya Lucaria Foot Soldier
+Raya Lucaria Foot Soldier
+Raya Lucaria Foot Soldier
+Raya Lucaria Foot Soldier
+Raya Lucaria Foot Soldier
+Raya Lucaria Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier (Leyndell- Royal Capital)
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier (Leyndell- Royal Capital)
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier (Leyndell- Royal Capital)
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Leyndell Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Radahn Foot Soldier
+Mausoleum Foot Soldier
+Mausoleum Foot Soldier
+Mausoleum Foot Soldier
+Mausoleum Foot Soldier
+Mausoleum Foot Soldier
+Mausoleum Foot Soldier
+Mausoleum Foot Soldier
+Mausoleum Foot Soldier
+Mausoleum Foot Soldier
+Haligtree Foot Soldier
+Haligtree Foot Soldier
+Haligtree Foot Soldier
+Haligtree Foot Soldier
+Haligtree Foot Soldier
+Haligtree Foot Soldier
+Haligtree Foot Soldier
+Haligtree Foot Soldier
+Haligtree Foot Soldier
+Haligtree Foot Soldier
+Haligtree Foot Soldier
+Haligtree Foot Soldier
+Haligtree Foot Soldier
+Haligtree Foot Soldier
+Haligtree Foot Soldier
+Haligtree Foot Soldier
+Haligtree Foot Soldier
+Haligtree Foot Soldier
+Haligtree Foot Soldier
+Haligtree Foot Soldier
+Haligtree Foot Soldier
+Haligtree Foot Soldier
+Highwayman
+Highwayman
+Highwayman
+Highwayman
+Highwayman
+Highwayman
+Highwayman
+Highwayman
+Highwayman
+Highwayman
+Highwayman
+Highwayman
+Highwayman
+Highwayman
+Highwayman
+Highwayman
+Starcaller
+Starcaller
+Starcaller
+Starcaller
+Starcaller
+Starcaller
+Starcaller
+Guilty
+Guilty
+Guilty
+Guilty
+Guilty
+Guilty
+Guilty
+Guilty
+Guilty
+Guilty
+Guilty
+Guilty
+Guilty
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Stonedigger
+Glintstone Digger
+Glintstone Digger
+Glintstone Digger
+Glintstone Digger
+Glintstone Digger (Sellia Tunnel)
+Glintstone Digger
+Glintstone Digger
+Glintstone Digger
+Glintstone Digger (Sellia Hideaway)
+Glintstone Digger
+Large Glintstone Digger
+Large Glintstone Digger
+Disciple of Rot
+Disciple of Rot
+Disciple of Rot
+Disciple of Rot
+Disciple of Rot
+Disciple of Rot
+Disciple of Rot
+Disciple of Rot
+Disciple of Rot
+Disciple of Rot
+Disciple of Rot
+Disciple of Rot
+Disciple of Rot
+Disciple of Rot
+Disciple of Rot
+Disciple of Rot
+Disciple of Rot
+Disciple of Rot
+Disciple of Rot
+Disciple of Rot
+Disciple of Rot
+Disciple of Rot
+Disciple of Rot
+Disciple of Rot
+Giant Crayfish
+Giant Crayfish
+Giant Crayfish
+Giant Crayfish
+Giant Crayfish
+Giant Crayfish
+Giant Crayfish
+Giant Crayfish
+Giant Crayfish
+Giant Crayfish
+Giant Crayfish
+Giant Crayfish
+Giant Crayfish
+Giant Crayfish
+Watcher Stones
+Watcher Stones
+Watcher Stones
+Watcher Stones
+Watcher Stones
+Watcher Stones
+Watcher Stones
+Watcher Stones
+Watcher Stones
+Watcher Stones
+Watcher Stones
+Watcher Stones
+Watcher Stones
+Watcher Stones
+Watcher Stones
+Watcher Stones
+Watcher Stones
+Watcher Stones
+Watcher Stones
+Watcher Stones
+Watcher Stones
+Land Squirt
+Land Squirt
+Land Squirt
+Land Squirt
+Land Squirt
+Land Squirt
+Land Squirt
+Land Squirt
+Giant Land Squirt
+Giant Land Squirt
+Giant Land Squirt
+Giant Land Squirt
+Giant Rotten Land Squirt
+Walking Mausoleum
+Walking Mausoleum
+Walking Mausoleum
+Walking Mausoleum
+Walking Mausoleum
+Walking Mausoleum
+Walking Mausoleum
+Walking Mausoleum
+Flame Chariot
+Flame Chariot
+Flame Chariot
+Flame Chariot
+Flame Chariot
+Flame Chariot
+Flame Chariot
+Flame Chariot
+Flame Chariot
+Flame Chariot
+Flame Chariot
+Flame Chariot
+Flame Chariot
+Flame Chariot
+Flame Chariot
+Flame Chariot
+Flame Chariot
+Flame Chariot
+Flame Chariot
+Flame Chariot
+Flame Chariot
+Flame Chariot
+Flame Chariot
+Flame Chariot
+Flame Chariot
+Flame Chariot
+Flame Chariot
+Flame Chariot
+Flame Chariot
+Flame Chariot
+Abductor Virgin (Unscaled)
+Abductor Virgin
+Abductor Virgin
+Abductor Virgin
+Abductor Virgin (Leyndell- Royal Capital)
+Abductor Virgin
+Abductor Virgin
+Abductor Virgin (Boss)
+Abductor Virgin (Unscaled)
+Abductor Virgin
+Abductor Virgin
+Abductor Virgin
+Abductor Virgin
+Abductor Virgin (Leyndell- Royal Capital)
+Abductor Virgin
+Abductor Virgin - Broken (Unscaled)
+Abductor Virgin - Broken
+Abductor Virgin (Boss)
+Abductor Virgin (Unscaled)
+Abductor Virgin Both
+Miranda Blossom
+Miranda Blossom
+Miranda Blossom
+Miranda Blossom
+Miranda Blossom
+Miranda Blossom (Leyndell- Royal Capital)
+Miranda Blossom
+Miranda Blossom
+Miranda Blossom
+Miranda Blossom (Siofra River)
+Miranda Blossom (Frenzy)
+Miranda Blossom (Frenzy)
+Miranda Blossom (Frenzy)
+Miranda Blossom (Frenzy)
+Miranda Blossom (Frenzy)
+Miranda Blossom (Magic)
+Miranda Blossom (Magic)
+Miranda Blossom
+Miranda Blossom
+Miranda Blossom
+Miranda Blossom
+Miranda Blossom
+Miranda Blossom
+Miranda the Blighted Bloom
+Miranda Sprout
+Miranda Sprout
+Miranda Sprout
+Miranda Sprout
+Miranda Sprout
+Miranda Sprout (Leyndell- Royal Capital)
+Miranda Sprout
+Miranda Sprout
+Miranda Sprout
+Miranda Sprout (Siofra River)
+Miranda Sprout (Frenzy)
+Miranda Sprout (Frenzy)
+Miranda Sprout (Frenzy)
+Miranda Sprout (Frenzy)
+Miranda Sprout (Magic)
+Miranda Sprout (Magic)
+Miranda Sprout
+Miranda Sprout
+Miranda Sprout
+Miranda Sprout
+Miranda Sprout
+Miranda Sprout
+Miranda Sprout
+Miranda Sprout
+Miranda Sprout (Boss)
+Miranda Sprout (Burrowed)
+Miranda Sprout (Burrowed)
+Miranda Sprout (Burrowed)
+Miranda Sprout (Burrowed)
+Miranda Sprout (Burrowed)
+Miranda Sprout (Burrowed)
+Miranda Sprout (Burrowed)
+Miranda Sprout (Burrowed)
+Miranda Sprout (Burrowed)
+Fading Miranda Blossom
+Fading Miranda Blossom (Shaded Castle)
+Rotten Miranda Blossom
+Rotten Miranda Blossom
+Rotten Miranda Blossom
+Rotten Miranda Sprout
+Rotten Miranda Sprout
+Rotten Miranda Sprout (Shaded Castle)
+Rotten Miranda Sprout
+Rotten Miranda Sprout
+Rotten Miranda Sprout
+Rotten Miranda Sprout
+Rotten Miranda Sprout
+Rotten Miranda Sprout
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior (Stormveil Castle)
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior (Leyndell- Royal Capital)
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior (Stormveil Castle)
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Alexander, Warrior Jar
+Alexander, Warrior Jar
+Alexander, Warrior Jar
+Alexander, Warrior Jar
+Alexander, Warrior Jar
+Alexander, Warrior Jar
+Alexander, Warrior Jar
+Alexander, Warrior Jar
+Alexander, Warrior Jar
+Alexander, Warrior Jar
+Alexander, Warrior Jar
+Alexander, Warrior Jar
+Alexander, Warrior Jar
+Living Jar
+Living Jar
+Living Jar (Stormveil Castle)
+Living Jar
+Living Jar
+Living Jar
+Living Jar
+Living Jar
+Living Jar (Leyndell- Royal Capital)
+Living Jar
+Living Jar
+Living Jar
+Living Jar
+Living Jar
+Living Jar
+Living Fire Jar
+Living Fire Jar
+Living Fire Jar
+Living Fire Jar (Leyndell- Royal Capital)
+Living Fire Jar
+Living Fire Jar
+Living Jar
+Living Jar
+Living Jar
+Living Jar
+Living Jar
+Living Jar
+Living Jar
+Living Jar
+Jar-Bairn
+Jar-Bairn
+Jar-Bairn
+Jar-Bairn
+Jar-Bairn
+Greatjar
+Greatjar
+Greatjar
+Flying Dragon (Unscaled)
+Flying Dragon Agheel (Limgrave)
+Flying Dragon Greyll (Caelid)
+Flying Dragon
+Flying Dragon (Unscaled)
+Flying Dragon
+Flying Dragon (Unscaled)
+Flying Dragon (Rennala)
+Decaying Ekzykes (Unscaled)
+Decaying Ekzykes (Caelid)
+Glintstone (Unscaled)
+Glintstone Dragon (Moonlight Plateau)
+Glintstone Dragon Smarag
+Glintstone Dragon (Unscaled)
+Glintstone Dragon Smarag
+Glintstone Dragon Adula
+Borealis the Freezing Fog (Unscaled)
+Borealis the Freezing Fog (Mountaintops)
+Elder Dragon Greyoll
+Elder Dragon Greyoll
+Flying Dragon (Small)
+Flying Dragon (Small)
+Ancient Dragon
+Ancient Dragon
+Ancient Dragon
+Ancient Dragon
+Ancient Dragon
+Ancient Dragon
+Ancient Dragon
+Ancient Dragon
+Ancient Dragon
+Ancient Dragon
+Ancient Dragon Lansseax (Boss)
+Ancient Dragon
+Ancient Dragon
+Ancient Dragon
+Lichdragon Fortissax
+Lichdragon Fortissax
+Dragonlord Placidusax (Unscaled)
+Dragonlord Placidusax
+Dragonlord Placidusax (Unscaled)
+Giant Dog
+Giant Dog
+Giant Dog
+Giant Dog
+Giant Dog
+Giant Dog
+Giant Dog
+Giant Dog
+Giant Dog
+Giant Dog
+Gowry's Giant Dog
+Gowry's Giant Dog
+Giant Dog (Snowfield)
+Giant Dog (Snowfield)
+Giant Dog
+Giant Dog
+Giant Dog
+Giant Dog
+Giant Dog
+Giant Dog
+Giant Dog
+Giant Dog
+Giant Dog
+Giant Crow
+Giant Crow
+Giant Crow
+Giant Crow (Snowfield)
+Giant Crow (Snowfield)
+Giant Crow (Snowfield)
+Giant Crow
+Bloodbane Giant Crow
+Bloodbane Giant Crow
+Wormface
+Wormface
+Wormface
+Wormface
+Wormface
+Wormface
+Giant Wormface
+Wormface (Boss)
+Giant Wormface
+Giant Wormface
+Giant Wormface
+Giant Wormface
+Troll
+Troll
+Troll
+Troll (Stormveil Castle)
+Troll
+Troll
+Troll
+Troll
+Troll
+Troll
+Troll
+Troll
+Troll
+Troll
+Troll
+Troll
+Troll
+Troll
+Troll
+Troll
+Troll
+Troll
+Troll
+Frenzied Troll
+Frenzied Troll
+Frenzied Troll
+Frenzied Troll
+Troll (Rennala) (Unscaled)
+Troll (Rennala)
+Troll Knight
+Troll Knight
+Troll Knight
+Troll Knight (Mausoleum)
+Troll Knight (Mausoleum)
+Troll Knight (Puppet)
+Troll Knight (Puppet)
+Carian Knight Bols (Boss)
+Troll Knight
+Troll Knight
+Snowfield Troll
+Snowfield Troll
+Snowfield Troll
+Snowfield Troll
+Snowfield Troll
+Stonedigger Troll
+Stonedigger Troll (Boss)
+Stonedigger Troll (Boss)
+Smithing Master Iji
+Smithing Master Iji
+War Counselor Iji
+War Counselor Iji
+
+AAstel, Stars of Darkness
+Astel, Stars of Darkness
+Astel, Stars of Darkness (Snowfield Mine)
+Astel- Stars of Darkness (Unscaled)
+Astel, Naturalborn of the Void (Unscaled)
+Astel, Naturalborn of the Void
+Astel, Naturalborn of the Void (Ainsel River)
+Astel- Stars of Darkness
+Astel- Stars of Darkness (Unscaled)
+Astel- Stars of Darkness (Unscaled)
+Astel- Stars of Darkness (Snowfield Mine Clone)
+Astel- Stars of Darkness (Unscaled)
+Astel- Stars of Darkness (Unscaled)
+Runebear
+Runebear
+Runebear
+Runebear
+Runebear
+Runebear
+Runebear
+Runebear
+Runebear
+Runebear
+White Runebear
+White Runebear
+Elite Runebear
+Elite Runebear
+Runebear
+Runebear
+Runebear
+Elite Runebear
+Runebear
+Runebear
+Runebear (Boss)
+Ulcerated Tree Spirit
+Ulcerated Tree Spirit (Boss)
+Ulcerated Tree Spirit (Stormveil Castle)
+Ulcerated Tree Spirit (Boss)
+Ulcerated Tree Spirit
+Ulcerated Tree Spirit (Leyndell- Royal Capital)
+Ulcerated Tree Spirit
+Ulcerated Tree Spirit
+Ulcerated Tree Spirit
+Ulcerated Tree Spirit
+Ulcerated Tree Spirit (Boss)
+Ulcerated Tree Spirit (Boss)
+Dragonkin Soldier (Ice Lightning) (Unscaled)
+Dragonkin Soldier (Ice Lightning) (Nokstella)
+Dragonkin Soldier (Ice Lightning)  (Unscaled)
+Dragonkin Soldier (Ice Lightning)
+Dragonkin Soldier (Unscaled)
+Dragonkin Soldier (Lake of Rot)
+Dragonkin Soldier (Nokron)
+Dragonkin Soldier Phantom (Unscaled)
+Dragonkin Soldier Phantom (Snowfields)
+Dragonkin Soldier of Nokstella Healthbar (Unscaled)
+Dragonkin Soldier of Nokstella Healthbar (Boss)
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem (Leyndell- Royal Capital)
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem (Limgrave Boss)
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem (Leyndell- Royal Capital)
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Ancestor Spirit
+Ancestor Spirit (Regal)
+Ancestor Spirit
+Ancestor Spirit
+Ancestor Spirit
+Ancestor Spirit
+Ancestor Spirit (Nonregal)
+Ancestor Spirit
+Full-Grown Fallingstar Beast (Unscaled)
+Full-Grown Fallingstar Beast (Volcano Top)
+Fallingstar Beast (Unscaled)
+Fallingstar Beast (Altus Plateau)
+Fallingstar Beast (Sellia Tunnel)
+Grafted Scion (Unscaled)
+Grafted Scion (Fringefolk Grave)
+Grafted Scion (Boss)
+Grafted Scion (Stormveil Castle)
+Grafted Scion (Liurnia of the Lakes)
+Grafted Scion (Mt. Gelmir)
+Grafted Scion (Leyndell- Royal Capital)
+God-Devouring Serpent (Unscaled)
+God-Devouring Serpent
+Rykard- Lord of Blasphemy (Unscaled)
+Rykard- Lord of Blasphemy
+Rykard- Lord of Blasphemy (Unscaled)
+Rykard- Lord of Blasphemy (Unscaled)
+Rykard's Corpse
+Rykard's Corpse
+Godfrey- First Elden Lord (Unscaled)
+Godfrey- First Elden Lord
+Godfrey- First Elden Lord (Unscaled)
+Godfrey- First Elden Lord (Phantom)
+Hoarah Loux (Unscaled)
+Hoarah Loux
+Starscourge Radahn
+Starscourge Radahn
+Godrick the Grafted (Unscaled)
+Godrick the Grafted (Stormveil Castle)
+Godefroy the Grafted (Altus)
+Godrick the Grafted (Unscaled)
+Godrick - Head and Torso
+Godrick - Head and Torso (Stormveil Castle)
+Fire Giant
+Fire Giant
+Fire Giant
+Fire Giant
+Fire Giant
+Fire Giant
+Gargoyle
+Gargoyle (Capital Outskirts)
+Gargoyle (Leyndell - Royal Capital)
+Gargoyle (Leyndell - Ashen Capital)
+Gargoyle (Poison Breath)
+Valiant Gargoyle (Twinblade) (Nokron)
+Black Blade Kindred
+Black Blade Kindred (Forbidden Lands)
+Gargoyle (Greatsword)
+Gargoyle (Greatsword) (Leyndell - Royal Capital)
+Gargoyle (Greatsword + Poison Breath)
+Valiant Gargoyle (Nokron)
+Black Blade Kindred (Greatsword)
+Black Blade Kindred (Dragonbarrow - Bestial Sanctum)
+Ruined Gargoyle
+Ruined Gargoyle (Leyndell - Royal Capital)
+Ruined Gargoyle (Deeproot Depths)
+Gargoyle -Passive Battle State-
+Gargoyle (Greatsword) -Passive Battle State-
+Mohg- The Omen
+Mohg, Lord of Blood
+Mohg- The Omen
+Mohg- The Omen (Sewers)
+Mohg- The Omen
+Mohg- The Omen
+Erdtree Avatar
+Erdtree Avatar (Weeping Peninsula Boss)
+Erdtree Avatar (North Liurnia)
+Erdtree Avatar (Leyndell- Royal Capital)
+Erdtree Avatar
+Erdtree Avatar (Deeproot Depths)
+Erdtree Avatar
+Erdtree Avatar (Giants Mountaintops)
+Erdtree Avatar (South Liurnia)
+Erdtree Avatar
+Erdtree Avatar
+Erdtree Avatar
+Putrid Erdtree Avatar
+Putrid Erdtree Avatar
+Putrid Erdtree Avatar
+Putrid Erdtree Avatar (Snowfield)
+Putrid Erdtree Avatar
+Putrid Erdtree Avatar
+Omenkiller
+Omenkiller
+Omenkiller
+Omenkiller (Leyndell- Royal Capital)
+Omenkiller
+Omenkiller
+Omenkiller (Boss)
+Omenkiller (Boss Village)
+Omenkiller
+Omenkiller
+Omenkiller (Leyndell- Royal Capital)
+Omenkiller
+Omenkiller
+Omenkiller
+Magma Wyrm
+Magma Wyrm Makar (Boss)
+Magma Wyrm (Lava Lake Boss)
+Magma Wyrm (Volcano Manor)
+Magma Wyrm
+Magma Wyrm (Gael Tunnel Boss)
+Great Wyrm Theodorix
+Great Wyrm Theodorix (Boss)
+Tibia Mariner
+Tibia Mariner (Limgrave)
+Tibia Mariner (Boss)
+Tibia Mariner (Boss)
+Tibia Mariner
+Giant Skeleton Torso
+Giant Skeleton Torso
+Giant Skeleton Torso
+Giant Skeleton Torso
+Giant Skeleton Torso
+Death Bird
+Death Bird (Limgrave)
+Death Bird (Weeping Peninsula)
+Death Bird (Liurnia)
+Death Bird
+Death Bird (Altus)
+Death Rite Bird
+Death Rite Bird
+Death Rite Bird
+Death Rite Bird
+Death Rite Bird
+Commander Gaius
+Commander Gaius
+Commander Gaius (Boss)
+Golden Hippopotamus
+Golden Hippopotamus
+Golden Hippopotamus (Boss)
+Golden Hippopotamus (Golden Wings)
+Golden Hippopotamus (Charo's Hidden Grave)
+Golden Hippopotamus (Golden Wings)
+Golden Hippopotamus (Recluses' River)
+Golden Hippopotamus (Rauh)
+Putrescent Knight
+Putrescent Knight
+Putrescent Knight (Boss)
+Putrescent Knight
+Putrescent Knight
+Putrescent Knight
+Romina, Saint of the Bud
+Romina, Saint of the Bud
+Romina, Saint of the Bud (Boss)
+Curseblade
+Curseblade
+Curseblade
+Curseblade
+Curseblade
+Curseblade
+Curseblade
+Curseblade
+Curseblade
+Curseblade Labirith (Boss)
+Curseblade
+Curseblade
+Curseblade
+Curseblade
+Curseblade
+Curseblade
+Curseblade
+Curseblade
+Midra - Human
+Midra - Human
+Midra - Human
+Midra, Lord of Frenzied Flame
+Midra, Lord of Frenzied Flame
+Midra, Lord of Frenzied Flame (Boss)
+Lamprey
+Lamprey
+Lamprey
+Lamprey
+Lamprey
+Lamprey
+Lamprey
+Lamprey
+Lamprey
+Lamprey
+Lamprey
+Lamprey
+Lamprey
+Lamprey
+Lamprey
+Lamprey
+Lamprey
+Lamprey
+Lamprey
+Lamprey
+Lamprey
+Lamprey (Large)
+Lamprey (Large)
+Lamprey (Large)
+Lamprey (Large)
+Lamprey (Large)
+Lamprey (Large)
+Death Knight
+Death Knight (Fog Rift Catacombs Boss)
+Death Knight
+Death Knight
+Death Knight (Scorpion River Catacombs Boss)
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Bloodfiend
+Chief Bloodfiend
+Chief Bloodfiend
+Chief Bloodfiend
+Chief Bloodfiend
+Chief Bloodfiend
+Chief Bloodfiend
+Chief Bloodfiend
+Chief Bloodfiend
+Chief Bloodfiend
+Chief Bloodfiend (Boss)
+Chief Bloodfiend
+Chief Bloodfiend
+Gravebird
+Gravebird
+Gravebird
+Gravebird
+Gravebird
+Gravebird
+Gravebird
+Gravebird
+Gravebird
+Gravebird
+Gravebird
+Gravebird
+Gravebird
+Gravebird
+Gravebird
+Gravebird
+Gravebird
+Gravebird
+Gravebird
+Gravebird
+Gravebird
+Gravebird
+Gravebird
+Gravebird
+Gravebird
+Gravebird
+Ghostly Worm
+Ghostly Worm
+Ghostly Worm
+Ghostly Worm
+Ghostly Worm
+Ghostly Worm
+Ghostly Worm
+Ghostly Worm
+Ghostly Worm
+Ghostly Worm
+Ghostly Worm
+Ghostly Worm
+Ghostly Worm
+Ghostly Worm
+Ghostly Worm
+Ghostly Worm
+Ghostly Worm
+Ghostly Worm
+Ghostly Worm
+Ghostly Worm
+Ghostly Worm
+Ghostly Worm
+Ghostly Worm
+Ghostly Worm
+Bayle the Dread
+Bayle the Dread
+Bayle the Dread (Boss)
+Messmer the Impaler
+Messmer the Impaler
+Messmer the Impaler
+Messmer the Impaler
+Messmer the Impaler (Boss)
+Messmer the Impaler
+Messmer the Impaler
+Messmer: Base Serpent
+Messmer: Base Serpent
+Messmer: Base Serpent
+Messmer: Base Serpent
+Messmer: Base Serpent
+Messmer: Base Serpent
+Fire Knight
+Fire Knight
+Fire Knight
+Fire Knight
+Fire Knight
+Fire Knight
+Fire Knight
+Fire Knight
+Fire Knight
+Fire Knight
+Fire Knight
+Fire Knight
+Fire Knight
+Fire Knight
+Fire Knight
+Fire Knight
+Fire Knight
+Fire Knight
+Fire Knight
+Fire Knight
+Fire Knight
+Fire Knight
+Fire Knight
+Fire Knight
+Fire Knight
+Fire Knight
+Fire Knight
+Furnace Golem
+Furnace Golem
+Furnace Golem (Southwest Gravesite Plain - Scorched Ruins)
+Furnace Golem (Southeast Gravesite Plain - Ellac River End)
+Furnace Golem (Central Scadu Altus - Shadow Keep Main Gate)
+Furnace Golem (Central Scadu Altus - Ruins of Unte)
+Furnace Golem
+Furnace Golem
+Furnace Golem
+Furnace Golem (Southwest Cerulean Coast - Charo's Hidden Grave)
+Furnace Golem (Central Scadu Altus - Church District Highroad)
+Furnace Golem
+Furnace Golem
+Furnace Golem (Rauh Ruins)
+Furnace Golem
+Dummy Entity
+Dummy Entity
+Dummy Entity
+Dummy Entity
+Dummy Entity
+Dummy Entity
+Dummy Entity
+Dummy Entity
+Spider Scorpion
+Spider Scorpion
+Spider Scorpion
+Spider Scorpion
+Spider Scorpion
+Spider Scorpion
+Spider Scorpion
+Spider Scorpion
+Spider Scorpion
+Spider Scorpion
+Spider Scorpion
+Spider Scorpion
+Spider Scorpion
+Spider Scorpion
+Spider Scorpion
+Spider Scorpion
+Spider Scorpion
+Spider Scorpion
+Spider Scorpion
+Spider Scorpion
+Spider Scorpion
+Spider Scorpion
+Spider Scorpion
+Spider Scorpion
+Spider Scorpion
+Spider Scorpion
+Spider Scorpion
+Metyr, Mother of Fingers
+Metyr, Mother of Fingers
+Metyr, Mother of Fingers (Boss)
+Divine Beast Dancing Lion
+Divine Beast Dancing Lion
+Divine Beast Dancing Lion (Belurat Boss)
+Divine Beast Dancing Lion (Rauh Boss)
+Promised Consort Radahn
+Promised Consort Radahn
+Promised Consort Radahn
+Promised Consort Radahn
+Promised Consort Radahn (Boss)
+Promised Consort Radahn
+Miquella's Arms
+Scadutree Avatar
+Scadutree Avatar
+Scadutree Avatar (Boss)
+Scadutree Avatar
+Scadutree Avatar
+Scadutree Avatar
+Scadutree Avatar
+Scadutree Avatar
+Scadutree Avatar
+Scadutree Avatar
+Scadutree Avatar
+Scadutree Avatar
+Scadutree Avatar
+Scadutree Avatar
+Scadutree Avatar
+Scadutree Avatar
+Scadutree Avatar
+Scadutree Avatar
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner (Pot)
+Commoner
+Commoner
+Commoner
+Commoner
+Commoner
+Commoner
+Horned Warrior
+Horned Warrior
+Horned Warrior
+Horned Warrior
+Horned Warrior
+Horned Warrior
+Horned Warrior
+Horned Warrior
+Horned Warrior
+Horned Warrior
+Horned Warrior
+Horned Warrior
+Horned Warrior
+Horned Warrior
+Horned Warrior
+Horned Warrior
+Horned Warrior
+Horned Warrior
+Horned Warrior
+Horned Warrior
+Horned Warrior
+Horned Warrior
+Horned Warrior
+Horned Warrior
+Horned Warrior
+Horned Warrior
+Horned Warrior
+Horned Warrior
+Horned Warrior
+Horned Warrior
+Horned Warrior
+Horned Warrior
+Horned Warrior
+Horned Warrior
+Horned Warrior
+Horned Shaman
+Horned Shaman
+Horned Shaman
+Horned Shaman
+Golem Smith
+Golem Smith
+Golem Smith
+Golem Smith
+Golem Smith
+Golem Smith
+Golem Smith
+Golem Smith
+Golem Smith
+Golem Smith
+Golem Smith
+Golem Smith
+Golem Smith
+Golem Smith
+Golem Smith
+Golem Smith
+Golem Smith
+Golem Smith
+Golem Smith
+Golem Smith
+Golem Smith
+Golem Smith
+Golem Smith
+Golem Smith
+Golem Smith
+Golem Smith
+Golem Smith
+Golem Smith
+Golem Smith
+Golem Smith
+Golem Smith
+Golem Smith
+Golem Smith
+Golem Smith
+Golem Smith
+Jar Innards
+Jar Innards
+Jar Innards
+Jar Innards
+Jar Innards
+Jar Innards
+Jar Innards
+Jar Innards
+Jar Innards
+Jar Innards
+Jar Innards
+Jar Innards
+Jar Innards
+Jar Innards
+Jar Innards
+Jar Innards
+Jar Innards
+Jar Innards
+Jar Innards
+Jar Innards
+Jar Innards
+Jar Innards
+Jar Innards
+Jar Innards
+Jar Innards
+Jar Innards
+Jar Innards
+Jar Innards
+Jar Innards
+Jar Innards
+Jar Innards
+Jar Innards
+Jar Innards
+Winter-Lantern
+Winter-Lantern
+Winter-Lantern
+Rellana, Twin Moon Knight
+Rellana, Twin Moon Knight
+Rellana, Twin Moon Knight (Boss)
+Inquisitor
+Inquisitor
+Inquisitor
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Candles)
+Inquisitor (Staff)
+Inquisitor (Staff)
+Jori, Elder Inquisitor (Boss)
+Inquisitor (Staff)
+Inquisitor (Staff)
+Fat Inquisitor
+Fat Inquisitor
+Fat Inquisitor
+Fat Inquisitor
+Fat Inquisitor
+Fat Inquisitor
+Fat Inquisitor
+Fat Inquisitor
+Fat Inquisitor
+Fat Inquisitor
+Fat Inquisitor
+Fat Inquisitor
+St. Trina
+St. Trina
+Dummy Entity
+Basilisk Eyes
+Basilisk Eyes
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Ancient Dragon Senessax
+Ancient Dragon Senessax
+Ancient Dragon Senessax
+Ancient Dragon Senessax
+Ancient Dragon Senessax (Boss)
+Ancient Dragon Senessax
+Ancient Dragon Senessax
+Ancient Dragon Senessax
+Ancient Dragon Senessax
+Miranda Blossom
+Miranda Blossom
+Miranda Blossom
+Miranda Blossom
+Miranda Blossom
+Miranda Blossom
+Miranda Blossom
+Miranda Blossom
+Miranda Blossom
+Miranda Blossom
+Miranda Sprout
+Miranda Sprout
+Miranda Sprout
+Miranda Sprout
+Miranda Sprout
+Miranda Sprout
+Miranda Sprout
+Miranda Sprout
+Miranda Sprout
+Miranda Sprout
+Miranda Sprout
+Miranda Sprout
+Miranda Sprout
+Miranda Sprout
+Miranda Sprout
+Troll
+Troll
+Troll
+Troll
+Troll
+Troll
+Troll
+Troll
+Troll
+Troll
+Troll Knight
+Troll Knight
+Troll Knight
+Troll Knight
+Troll Knight
+Troll Knight
+Troll - Unknown
+Eagle
+Eagle
+Eagle
+Eagle
+Eagle
+Eagle
+Eagle
+Eagle
+Eagle
+Eagle
+Eagle
+Eagle
+Eagle
+Eagle
+Eagle
+Eagle
+Eagle
+Eagle
+Eagle
+Eagle
+Eagle
+Eagle
+Eagle
+Eagle
+Eagle
+Eagle
+Eagle
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Red Bear
+Red Bear
+Red Bear
+Red Bear
+Red Bear
+Red Bear
+Red Bear
+Red Bear
+Red Bear
+Red Bear
+Red Bear
+Red Bear
+Red Bear
+Red Bear
+Owl
+Owl
+Owl
+Owl
+Owl
+Owl
+Owl
+Owl
+Owl
+Owl
+Owl
+Owl
+Owl
+Owl
+Owl
+Owl
+Owl
+Owl
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Ram
+Murre
+Murre
+Murre
+Murre
+Murre
+Murre
+Dragonfly
+Dragonfly
+Dragonfly
+Dragonfly
+Dragonfly
+Dragonfly
+Dragonfly
+Dragonfly
+Dragonfly
+Yellow Dragonfly
+Yellow Dragonfly
+Yellow Dragonfly
+Yellow Dragonfly
+Yellow Dragonfly
+Yellow Dragonfly
+Great Dragonfly
+Great Dragonfly
+Great Dragonfly
+Great Dragonfly
+Great Dragonfly
+Turtle
+Turtle
+Turtle
+Turtle
+Turtle
+Turtle
+Turtle
+Turtle
+Turtle
+Turtle
+Turtle
+Turtle
+Turtle
+Turtle
+Turtle
+Turtle
+Turtle
+Turtle
+Turtle
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Living Magma
+Shade
+Shade
+Shade
+Shade
+Shade
+Shade
+Shade
+Shade
+Cemetary Shade
+Cemetary Shade
+Cemetary Shade
+Cemetary Shade
+Stray
+Stray
+Stray
+Stray
+Stray
+Stray
+Stray
+Stray
+Stray
+Stray
+Stray
+Stray
+Stray
+Stray
+Stray
+Stray
+Stray
+Stray
+Stray
+Stray
+Stray
+Stray
+Braided Stray
+Braided Stray
+Braided Stray
+Braided Stray
+Braided Stray
+Braided Stray
+Braided Stray
+Braided Stray
+Braided Stray
+Bloodbane Stray
+Bloodbane Stray
+Bloodbane Stray
+Bloodbane Stray
+Bloodbane Stray
+Bloodbane Stray
+Bloodbane Stray
+Bloodbane Stray
+Bloodbane Stray
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Man-Bat
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Wolf
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper
+Fingercreeper (Large)
+Fingercreeper (Large)
+Fingercreeper (Large)
+Fingercreeper (Small)
+Fingercreeper (Small)
+Fingercreeper (Small)
+Fingercreeper (Small)
+Fingercreeper (Small)
+Fingercreeper (Small)
+Fingercreeper (Small)
+Fingercreeper (Small)
+Marionette Soldier
+Marionette Soldier
+Marionette Soldier
+Marionette Soldier
+Marionette Soldier
+Marionette Soldier
+Marionette Soldier
+Marionette Soldier
+Marionette Soldier
+Marionette Soldier
+Jagged Peak Drake
+Jagged Peak Drake (Solo Boss)
+Jagged Peak Drake (Duo Mob)
+Jagged Peak Drake (Duo Boss)
+Jagged Peak Drake
+Jagged Peak Drake
+Jagged Peak Drake
+Putrid Flesh
+Putrid Flesh
+Putrid Flesh
+Putrid Flesh
+Putrid Flesh
+Putrid Flesh
+Putrid Flesh
+Putrid Flesh
+Putrid Flesh
+Putrid Flesh
+Putrid Flesh
+Putrid Flesh
+Putrid Flesh
+Putrid Flesh
+Putrid Flesh
+Putrid Flesh
+Putrid Flesh
+Putrid Flesh (Large)
+Putrid Flesh (Large)
+Putrid Flesh (Large)
+Putrid Flesh (Large)
+Putrid Flesh (Large)
+Putrid Flesh (Large)
+Putrid Flesh (Large)
+Catacomb Skeleton
+Catacomb Skeleton
+Catacomb Skeleton
+Catacomb Skeleton
+Catacomb Skeleton
+Catacomb Skeleton
+Catacomb Skeleton
+Catacomb Skeleton
+Catacomb Skeleton
+Catacomb Skeleton
+Catacomb Skeleton
+Catacomb Skeleton
+Catacomb Skeleton
+Catacomb Skeleton
+Catacomb Skeleton
+Catacomb Skeleton
+Catacomb Skeleton
+Catacomb Skeleton
+Catacomb Skeleton
+Catacomb Skeleton
+Catacomb Skeleton
+Catacomb Skeleton
+Catacomb Skeleton
+Tibia Mariner
+Tibia Mariner (Charo's Hidden Grave)
+Giant Crayfish
+Giant Crayfish
+Giant Crayfish
+Giant Crayfish
+Giant Crayfish
+Giant Crayfish
+Giant Crayfish
+Giant Crab
+Giant Crab
+Giant Crab
+Giant Crab
+Giant Crab
+Giant Crab
+Giant Crab
+Crab
+Crab
+Crab
+Crab
+Crab
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Messmer Foot Soldier
+Shadow Militia
+Shadow Militia
+Shadow Militia
+Shadow Militia
+Shadow Militia
+Shadow Militia
+Shadow Militia
+Shadow Militia
+Shadow Militia
+Shadow Militia
+Shadow Militia
+Shadow Militia
+Shadow Militia
+Shadow Militia
+Shadow Militia
+Shadow Militia
+Shadow Militia
+Shadow Militia
+Shadow Militia
+Shadow Militia
+Shadow Militia
+Shadow Militia
+Shadow Militia
+Shadow Militia
+
+
+Wheeled Ballista
+Wheeled Ballista
+Wheeled Ballista
+Dragon-faced Flamethrower
+Dragon-faced Flamethrower
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human
+Demi-Human (Large)
+Demi-Human (Large)
+Demi-Human (Large)
+Demi-Human Shaman
+Demi-Human Shaman
+Demi-Human Shaman
+Demi-Human Shaman
+Demi-Human Shaman
+Demi-Human Chief
+Demi-Human Chief
+Demi-Human Chief
+Demi-Human Chief
+Demi-Human Queen
+Demi-Human Queen Marigga (Boss)
+Demi-Human Queen
+Demi-Human Queen
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Kindred of Rot
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar Warrior
+Living Jar
+Living Jar
+Living Jar
+Living Jar
+Living Jar
+Living Jar
+Living Jar
+Living Jar
+Living Jar
+Living Jar
+Living Jar
+Living Jar
+Living Jar
+Rat
+Rat
+Rat
+Rat
+Rat
+Rat
+Rat
+Rat
+Rat
+Rat
+Giant Rat
+Giant Rat
+Giant Rat
+Giant Rat
+Giant Rat
+Giant Rat
+Giant Rat
+Giant Rat
+Giant Rat
+
+
+
+Runebear
+Runebear
+Runebear
+Runebear
+Runebear
+Runebear
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Guardian Golem
+Crucible Knight Devonia
+Crucible Knight Devonia
+Crucible Knight Devonia
+Demi-Human Swordmaster Onze
+Demi-Human Swordmaster Onze
+Demi-Human Swordmaster Onze
+Demi-Human Swordmaster Onze
+Demi-Human Swordmaster Onze (Boss)
+Demi-Human Swordmaster Onze
+Great Red Bear
+Great Red Bear
+Great Red Bear
+Great Red Bear
+Rugalea the Great Red Bear (Boss)
+Ralva the Great Red Bear (Boss)
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Messmer Soldier
+Black Knight
+Black Knight
+Black Knight
+Black Knight
+Black Knight
+Black Knight
+Black Knight
+Black Knight
+Black Knight
+Black Knight
+Black Knight
+Black Knight
+Black Knight
+Black Knight
+Black Knight
+Black Knight
+Black Knight
+Black Knight
+Black Knight
+Black Knight
+Black Knight
+Black Knight
+Black Knight
+Black Knight
+Black Knight
+Black Knight
+Black Knight Garrew (Boss)
+Black Knight
+Black Knight
+Black Knight Edredd (Boss)
+Black Knight
+Black Knight
+Black Knight
+Black Knight
+Giant Ram
+Giant Ram
+Giant Ram
+Giant Ram
+Giant Ram
+Giant Ram
+Giant Ram
+Giant Ram
+Ghostflame Dragon
+Ghostflame Dragon
+Ghostflame Dragon (Gravesite Plain Boss)
+Ghostflame Dragon (Cerulean Coast Boss)
+Ghostflame Dragon (Moorth Highway Boss)
+Imp (Lion Head)
+Imp (Lion Head)
+Imp (Lion Head)
+Imp (Lion Head)
+Imp (Lion Head)
+Imp (Lion Head)
+Imp (Lion Head)
+Imp (Lion Head)
+Imp (Lion Head)
+Imp (Lion Head)
+Imp (Lion Head)
+Imp (Lion Head)
+Imp (Lion Head)
+Imp (Lion Head)
+Imp (Lion Head)
+Imp (Lion Head)
+Imp (Lion Head)
+Imp (Lion Head)
+Imp (Lion Head)
+Imp (Lion Head)
+Imp (Lion Head)
+Imp (Lion Head)
+Imp (Lion Head)
+Imp (Lion Head)
+Imp (Lion Head)
+Imp (Lion Head)
+Imp (Lion Head)
+Imp (Lion Head)
+Imp (Dragon Head)
+Imp (Dragon Head)
+Imp (Dragon Head)
+Imp (Dragon Head)
+Imp (Dragon Head)
+Imp (Dragon Head)
+Imp (Dragon Head)
+Imp (Dragon Head)
+Imp (Dragon Head)
+Imp (Dragon Head)
+Imp (Dragon Head)
+Catacombs Sorcerer
+Catacombs Sorcerer
+Catacombs Sorcerer
+Catacombs Sorcerer
+Catacombs Sorcerer
+Catacombs Sorcerer
+Catacombs Sorcerer
+Catacombs Sorcerer
+Catacombs Sorcerer
+Catacombs Sorcerer
+Catacombs Sorcerer
+Catacombs Sorcerer
+Catacombs Sorcerer
+Catacombs Sorcerer
+Black Knight Horse
+Black Knight Horse
+Black Knight Horse
+Black Knight Horse
+Black Knight Horse
+Man-Fly
+Man-Fly
+Man-Fly
+Man-Fly
+Man-Fly
+Man-Fly
+Man-Fly
+Man-Fly
+Man-Fly
+Man-Fly
+Man-Fly
+Man-Fly
+Man-Fly
+Man-Fly
+Man-Fly
+Man-Fly
+Man-Fly
+Man-Fly
+Man-Fly
+Man-Fly
+Hornsent Grandam
+Hornsent Grandam
+Magma Wyrm
+Magma Wyrm
+Magma Wyrm (Dragon's Pit)
+Giant Skeleton
+Giant Skeleton
+Giant Skeleton
+Giant Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Giant Beast Skeleton
+Watcher Stones
+Watcher Stones
+Watcher Stones
+Watcher Stones
+Watcher Stones
+Watcher Stones
+Watcher Stones
+Watcher Stones
+Watcher Stones
+Watcher Stones
+Watcher Stones
+Watcher Stones
+Leonine Misbegotten
+Leonine Misbegotten
+Leonine Misbegotten
+Leonine Misbegotten
+Ulcerated Tree Spirit
+Ulcerated Tree Spirit (Ellac River)
+Ulcerated Tree Spirit (Belurat, Tower Settlement)
+Ulcerated Tree Spirit (Church District)
+Ulcerated Tree Spirit
+Ulcerated Tree Spirit
+Abductor Virgin
+Abductor Virgin
+Abductor Virgin
+Abductor Virgin
+Abductor Virgin
+Abductor Virgin
+Abductor Virgin
+Abductor Virgin
+Abductor Virgin
+Abductor Virgin
+Omenkiller
+Omenkiller
+Omenkiller
+Omenkiller
+Omenkiller
+Omenkiller
+Omenkiller
+Omenkiller
+Basilisk
+Basilisk
+Basilisk
+Basilisk
+Basilisk
+Basilisk
+Basilisk
+Eagle
+Eagle
+Eagle
+Eagle
+Eagle
+Eagle
+Eagle
+Eagle
+Eagle
+Eagle
+Eagle
+Eagle
+Eagle
+Eagle
+Eagle
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+Deer
+
+Bear
+Bear
+Bear
+Bear
+Bear
+Bear
+Bear
+Bear
+Bear
+Bear
+Owl
+Owl
+Owl
+Owl
+Owl
+Owl
+Owl
+Owl
+Owl
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Boar
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Goat
+Murre
+Murre
+Murre
+Murre
+Murre
+Murre
+Murre
+Murre
+Murre
+Murre
+Carrier Pigeon
+Carrier Pigeon
+Carrier Pigeon
+Carrier Pigeon
+Carrier Pigeon
+Carrier Pigeon
+Carrier Pigeon
+Carrier Pigeon
+Carrier Pigeon
+Carrier Pigeon (Leyndell- Royal Capital)
+Dragonfly
+Dragonfly
+Dragonfly
+Dragonfly
+Dragonfly
+Dragonfly
+Dragonfly
+Dragonfly
+Dragonfly
+Dragonfly
+Yellow Dragonfly
+Yellow Dragonfly
+Yellow Dragonfly
+Yellow Dragonfly
+Yellow Dragonfly
+Yellow Dragonfly
+Yellow Dragonfly
+Yellow Dragonfly
+Yellow Dragonfly
+Great Dragonfly
+Great Dragonfly
+Turtle
+Turtle
+Turtle
+Turtle
+Turtle
+Turtle
+Turtle
+Turtle
+Turtle
+Turtle
+Turtle
+Turtle
+Turtle
+Miriel, Pastor of Vows
+Miriel, Pastor of Vows
+Miriel, Pastor of Vows
+Miriel, Pastor of Vows
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Springhare
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Scarab
+Albinauric Archer
+Albinauric Archer
+Albinauric Archer
+Wolf
+Wolf
+Wolf
+Wolf
+Perfumer
+Perfumer
+Perfumer
+Perfumer
+Perfumer
+Perfumer
+Perfumer
+Perfumer
+Perfumer
+Glintstone Sorcerer
+Glintstone Sorcerer
+Page
+Page
+Page
+
+
+
+
+
+
+Tree Sentinel
+Tree Sentinel (Hinterland Boss)
+Tree Sentinel
+Tree Sentinel - Torch (Hinterland Boss)
+Death Rite Bird
+Death Rite Bird
+Death Rite Bird (Charo's Hidden Grave Boss)
+Royal Revenant
+Royal Revenant
+Royal Revenant
+Royal Revenant
+Royal Revenant
+Royal Revenant
+Royal Revenant
+Royal Revenant
+Royal Revenant
+Misbegotten
+Misbegotten
+Misbegotten
+Misbegotten
+Misbegotten
+Misbegotten
+Misbegotten
+Misbegotten
+Misbegotten
+Misbegotten
+Misbegotten
+Misbegotten
+Misbegotten
+Misbegotten
+Misbegotten
+Scaly Misbegotten
+Scaly Misbegotten
+Scaly Misbegotten
+Scaly Misbegotten
+Scaly Misbegotten
+Scaly Misbegotten
+Snail (Base)
+Snail (Rauh Base)
+Snail
+Snail
+Snail
+Snail
+Snail
+Snail
+Fallingstar Beast (Base)
+Fallingstar Beast
+Fallingstar Beast (Scaduview) - Hinterland [Boss]
+Wandering Noble (Base)
+Wandering Noble
+Wandering Noble (Gravesite Plain) - Castle Ensis
+Wandering Noble
+Wandering Noble
+Wandering Noble (Gravesite Plain) - Castle Ensis
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble
+Wandering Noble (Gravesite Plain) - Dragon Lake
+Wandering Noble (Jagged Peak)
+Wandering Noble
+Wandering Noble (Rauh Base)
+Fallen Hawks Soldier (Base)
+Fallen Hawks Soldier (Siofra River/Nokron)
+Fallen Hawks Soldier
+Fallen Hawks Soldier
+Fallen Hawks Soldier (Siofra River/Nokron)
+Fallen Hawks Soldier
+Fallen Hawks Soldier (Siofra River/Nokron)
+Fallen Hawks Soldier
+Fallen Hawks Soldier
+Fallen Hawks Soldier (Siofra River/Nokron)
+Ancient Hero of Zamor (Base)
+Ancient Hero of Zamor (Weeping Peninsula) - Weeping Evergaol [Boss]
+Ancient Hero of Zamor (Altus Plateau) - Sainted Hero's Grave [Boss]
+Ancient Hero of Zamor
+Ancient Hero of Zamor
+Ancient Hero of Zamor (Mountaintops of the Giants) - Zamor Ruins
+Ancient Hero of Zamor (Mountaintops of the Giants) - Giant-Conquering Hero's Grave [Boss]
+Torrent
+Ballista (Base)
+Ballista (Limgrave) - Fort Haight
+Ballista (Weeping Peninsula) - Tower of Return / Forest Lookout Tower
+Ballista (Stormveil Castle)
+Ballista (Altus Plateau)
+Ballista (Caelid) - Redmane Castle
+Ballista (Mountaintops of the Giants) - Castle Sol
+Ballista (Miquella's Haligtree)
+Trebuchet (Base)
+Trebuchet (Limgrave) - Stormhill
+Trebuchet (Weeping Peninsula) - Bridge of Sacrifice
+Trebuchet (Altus Plateau) - Altus Highway
+Trebuchet (Caelid) - Redmane Castle
+Trebuchet
+Dragon-faced Flamethrower (Base)
+Dragon-Faced Flamethrower (Stormveil Castle)
+Dragon-Faced Flamethrower (Liurnia) - Gate Town
+Dragon-Faced Flamethrower (Caelid) - Redmane Castle
+Dragon-faced Flamethrower
+Merciless Chariot (Base)
+Merciless Chariot (Limgrave) - Fringefolk Hero's Grave
+Merciless Chariot (Mt. Gelmer) - Gelmir Hero's Grave / Auriza Hero's Grave
+Merciless Chariot
+Merciless Chariot (Mt. Gelmer) - Gelmir Hero's Grave
+Beast Clergyman / Maliketh- the Black Blade
+
+
+
+
+Human
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+[Spirit Summon] Mimic Tear
+[Spirit Summon] Nepheli Loux Puppet
+[Spirit Summon] Dung Eater Puppet
+[Spirit Summon] Finger Maiden Therolina Puppet
+[Spirit Summon] Dolores the Sleeping Arrow
+[Spirit Summon] Jarwight Puppet
+[Spirit Summon] Black Knife Tiche
+[Spirit Summon] Banished Knight Oleg
+[Spirit Summon] Banished Knight Engvall
+[Spirit Summon] Fanged Imps
+[Spirit Summon] Latenna the Albinauric
+[Spirit Summon] Nomad
+[Spirit Summon] Nightmaiden
+[Spirit Summon] Swordstress
+[Spirit Summon] Mimic Tear - Blob
+[Spirit Summon] Crystalian
+[Spirit Summon] Ancestral Follower
+[Spirit Summon] Winged Misbegotten
+[Spirit Summon] Albinauric Ashes
+[Spirit Summon] Skeletal Militiaman
+[Spirit Summon] Skeletal Bandit
+[Spirit Summon] Oracle Envoy
+[Spirit Summon] Putrid Corpse
+[Spirit Summon] Depraved Perfumer
+[Spirit Summon] Perfumer Tricia
+[Spirit Summon] Glintstone Sorcerer Scholar
+[Spirit Summon] Twinsage Sorcerer
+[Spirit Summon] Page
+[Spirit Summon] Battlemage Hugues
+[Spirit Summon] Clayman
+[Spirit Summon] Cleanrot Knight Finlay
+[Spirit Summon] Kindred of Rot
+[Spirit Summon] Marionette Soldier
+[Spirit Summon] Avionette Soldier
+[Spirit Summon] Fire Monk
+[Spirit Summon] Blackflame Monk
+[Spirit Summon] Man-Serpent
+[Spirit Summon] Azula Beastman
+[Spirit Summon] Kaiden Sellsword
+[Spirit Summon] Lone Wolf
+[Spirit Summon] Giant Rat
+[Spirit Summon] Demi-Human 1
+[Spirit Summon] Demi-Human 2
+[Spirit Summon] Demi-Human 3
+[Spirit Summon] Demi-Human 4
+[Spirit Summon] Demi-Human 5
+[Spirit Summon] Rotten Dog
+[Spirit Summon] Spirit Jellyfish
+[Spirit Summon] Warhawk
+[Spirit Summon] Stormhawk
+[Spirit Summon] Bloodhound Knight Floh
+[Spirit Summon] Wandering Noble 1
+[Spirit Summon] Wandering Noble 2
+[Spirit Summon] Wandering Noble 3
+[Spirit Summon] Noble Sorcerer
+[Spirit Summon] Wandering Noble 4
+[Spirit Summon] Wandering Noble 5
+[Spirit Summon] Godrick Soldier 1
+[Spirit Summon] Godrick Soldier 2
+[Spirit Summon] Raya Lucaria Soldier 1
+[Spirit Summon] Leyndell Soldier
+[Spirit Summon] Radahn Soldier 1
+[Spirit Summon] Radahn Soldier 2
+[Spirit Summon] Mausoleum Soldier 1
+[Spirit Summon] Mausoleum Soldier 2
+[Spirit Summon] Mausoleum Soldier 3
+[Spirit Summon] Vulgar Militia
+[Spirit Summon] Mad Pumpkin Head
+[Spirit Summon] Ancient Dragon Knight Kristoff
+[Spirit Summon] Redmane Knight Ogha
+[Spirit Summon] Lhutel the Headless
+[Spirit Summon] Raya Lucaria Foot Soldier 2
+[Spirit Summon] Raya Lucaria Foot Soldier 3
+[Spirit Summon] Haligtree Foot Soldier
+[Spirit Summon] Haligtree Foot Soldier
+[Spirit Summon] Land Squirt
+[Spirit Summon] Miranda Sprout
+[Spirit Summon] Soldjars of Fortune
+[Spirit Summon] Omenkiller
+[Spirit Summon] Ancient Dragon Florissax
+
+[Spirit Summon] Fire Knight Queelign
+[Spirit Summon] Swordhand of Night Jolan
+[Spirit Summon] Jolan and Anna
+[Spirit Summon] Jolan and Anna
+
+
+
+
+
+
+
+[Spirit Summon] Curseblade Meera
+[Spirit Summon] Bloodfiend Hexer
+[Spirit Summon] Gravebird
+[Spirit Summon] Fire Knight Hilde
+[Spirit Summon] Spider Scorpion
+[Spirit Summon] Divine Bird Warrior Ornis
+[Spirit Summon] Horned Warrior
+[Spirit Summon] Golem Smith
+[Spirit Summon] Inquisitor 1
+[Spirit Summon] Inquisitor 2
+[Spirit Summon] Fingercreeper
+[Spirit Summon] Demi-Human Swordsman Yosh
+[Spirit Summon] Messmer Soldier 1
+[Spirit Summon] Messmer Soldier 2
+[Spirit Summon] Black Knight Commander
+[Spirit Summon] Black Knight Captain Huw
+[Spirit Summon] Bigmouth Imp
+[Spirit Summon] Man-Fly 1/2
+[Spirit Summon] Man-Fly 3
+[Spirit Summon] Fallen Hawks Greatshield Soldier
+[Spirit Summon] Fallen Hawks Archer
+
+
+
+Stormhill Colosseum Silent Spirit
+Caria Manor Silent Spirit
+Stormhill Colosseum Silent Spirit
+Stormhill Colosseum Silent Spirit
+Dragonbarrow Silent Spirit
+Stormhill Colosseum Silent Spirit
+
+Smithing Table
+Twin Maiden Husks
+
+Ranni/Renna
+Ranni/Renna
+Ranni/Renna
+Ranni/Renna
+Ranni/Renna
+Ranni/Renna
+Ranni/Renna
+Ranni/Renna
+Talk Dummy
+Rennala's Children
+Blaidd
+Blaidd
+
+Blaidd
+
+Asimi
+Asimi
+Asimi
+Asimi
+Asimi
+Asimi
+Asimi
+
+Latenna
+Latenna
+Yura
+Smithing Table
+Sword of Bernahl
+Basin of Atonement
+Smithing Table
+Smithing Table
+
+
+
+
+
+Church of Dragon Communion
+Cathedral of Dragon Communion
+Wandering Mausoleum Corpse
+Wandering Mausoleum Corpse
+Wandering Mausoleum Corpse
+Wandering Mausoleum Corpse
+Wandering Mausoleum Corpse
+
+Talk Dummy
+Clouded Mirror Stand
+
+
+
+
+
+Grand Altar of Dragon Communion
+Wandering Mausoleum Corpse
+Wandering Mausoleum Corpse
+Wandering Mausoleum Corpse
+Human
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Tanith, Volcano Manor Proprietress
+Tanith, Volcano Manor Proprietress
+Tanith, Volcano Manor Proprietress
+White Mask Varré
+White Mask Varré
+White Mask Varré
+White Mask Varré
+White Mask Varré
+White Mask Varré
+
+Guilbert
+Festering Fingerprint Vyke
+Festering Fingerprint Vyke
+Roundtable Knight Vyke (Boss)
+
+
+Preceptor Seluvis
+Preceptor Seluvis
+Preceptor Seluvis
+Preceptor Seluvis
+Preceptor Seluvis
+
+Patches
+Patches (Boss)
+Patches
+Patches
+Patches
+Patches
+Patches
+Patches
+Patches
+Patches
+Patches
+Irina of Morne
+Lightseeker Hyetta
+Irina of Morne
+Lightseeker Hyetta
+Finger Maiden Hyetta
+Irina of Morne
+Lightseeker Hyetta
+Lightseeker Hyetta
+Castellan Edgar
+Castellan Edgar
+Castellan Edgar
+Castellan Edgar
+Castellan Edgar
+Castellan Jerren
+Castellan Jerren
+Witch-Hunter Jerren
+Castellan Jerren
+Witch-Hunter Jerren
+Castellan Jerren
+Castellan Jerren
+Castellan Jerren
+Rya the Scout
+Rya the Scout
+Rya the Scout
+Rya the Scout
+Rya the Scout
+Zorayas the Scout
+Knight Diallos
+Knight Diallos
+Knight Diallos
+Knight Diallos
+Potentate Diallos
+Knight Diallos
+Potentate Diallos
+
+Human
+Sorceress Sellen
+Sorceress Sellen
+Sorceress Sellen
+Sorceress Sellen
+Sorceress Sellen
+Sorceress Sellen
+
+Yura, Hunter of Bloody Fingers
+Yura, Hunter of Bloody Fingers
+Yura, Hunter of Bloody Fingers
+Yura, Hunter of Bloody Fingers
+Shabriri
+Yura, Hunter of Bloody Fingers
+Yura, Hunter of Bloody Fingers
+Yura, Hunter of Bloody Fingers
+Yura, Hunter of Bloody Fingers
+Yura, Hunter of Bloody Fingers
+Yura, Hunter of Bloody Fingers
+D, Hunter of the Dead
+D, Hunter of the Dead
+D, Beholder of Death
+D, Beholder of Death
+D, Hunter of the Dead
+D, Hunter of the Dead
+D, Hunter of the Dead
+Heartbroken Maiden
+Heartbroken Maiden
+Roderika
+Roderika, Spirit Tuner
+Roderika, Spirit Tuner
+Kenneth Haight, Limgrave Heir
+Kenneth Haight, Limgrave Heir
+Kenneth Haight, Limgrave Heir
+Kenneth Haight, Limgrave Heir
+Fia, Deathbed Companion
+Fia, Deathbed Companion
+Fia, Deathbed Companion
+Fia, Deathbed Companion
+Fia, Deathbed Companion
+Fia, Deathbed Companion
+Fia, Deathbed Companion
+Dung Eater
+Dung Eater
+Dung Eater
+Dung Eater
+Dung Eater
+Dung Eater
+Dung Eater
+Dung Eater
+Sir Gideon Ofnir, the All-Knowing
+Sir Gideon Ofnir, the All-Knowing
+Sir Gideon Ofnir, the All-Knowing
+Sir Gideon Ofnir, the All-Knowing
+Sorcerer Rogier
+Sorcerer Rogier
+Sorcerer Rogier
+Sorcerer Rogier (Fia's Champions Boss)
+Sorcerer Rogier
+Sorcerer Rogier
+Sorcerer Rogier
+Sorcerer Rogier
+Knight Bernahl
+Knight Bernahl
+Recusant Bernahl
+Recusant Bernahl
+Eleonora, Violet Bloody Finger
+Eleonora, Violet Bloody Finger
+Eleonora, Violet Bloody Finger
+
+Human
+Lionel the Lionhearted (Fia's Champions Boss)
+Blackguard
+Blackguard
+Blackguard
+Blackguard
+
+Rykard-Hating Ghost
+Sorcerer Thops
+Sorcerer Thops
+Sorcerer Thops
+Nepheli Loux, Warrior
+Nepheli Loux, Warrior
+Nepheli Loux, Warrior
+Nepheli Loux, Warrior
+Nepheli Loux, Warrior
+Nepheli Loux, Warrior
+Nepheli Loux, Warrior
+Nepheli Loux, Warrior
+Reeling Rico
+Reeling Rico
+Reeling Rico
+Reeling Rico
+Reeling Rico
+Vyke's Finger Maiden
+Vyke's Finger Maiden
+
+
+
+Finger Maiden
+Finger Maiden
+Ensha of the Royal Remains
+Ensha of the Royal Remains
+Bloody Finger Ravenmount Assassin
+Bloody Finger Ravenmount Assassin
+
+Boc the Seamster
+Boc the Seamster
+Bloody Finger Nerijus
+Great Horned Tragoth
+Great Horned Tragoth
+Great Horned Tragoth
+Old Knight Istvan
+Old Knight Istvan
+Rileigh the Idle
+Rileigh the Idle
+Juno Hoslow, Knight of Blood
+Juno Hoslow, Knight of Blood
+Millicent
+Millicent
+Millicent
+Millicent
+Millicent
+Millicent
+Millicent
+Millicent
+Millicent
+Millicent
+Millicent
+Millicent
+Millicent
+Sage Gowry
+Sage Gowry
+Sage Gowry
+Sage Gowry
+Sage Gowry
+
+
+Scribe Corhyn
+Brother Corhyn
+Scribe Corhyn
+Scribe Corhyn
+Scribe Corhyn
+Brother Corhyn
+Scribe Corhyn
+Scribe Corhyn
+Preceptor Miriam
+Preceptor Miriam
+Preceptor Miriam
+Preceptor Miriam
+Anastasia, Tarnished-Eater
+Anastasia, Tarnished-Eater
+Anastasia, Tarnished-Eater
+Anastasia, Tarnished-Eater
+
+Okina
+Okina
+Bloody Finger Okina
+Adan, Thief of Fire
+Adan, Thief of Fire (Boss)
+
+
+Moongrum, Carian Knight
+Moongrum, Carian Knight
+Vargram the Raging Wolf
+Vargram the Raging Wolf
+Fia's Champion
+Fia's Champion 1
+
+Finger Maiden Therolina
+Finger Maiden Therolina
+Finger Maiden Therolina
+Dolores the Sleeping Arrow
+Dolores the Sleeping Arrow
+Jarwight
+Jarwight
+Inaba, Disciple of Okina
+Inaba, Disciple of Okina
+Silver Tear
+Silver Tear
+Silver Tear
+Recusant Henricus
+Fia's Champion
+Fia's Champion
+Maleigh Marais, Shaded Castle Castellan
+Maleigh Marais, Shaded Castle Castellan
+Knight of the Great Jar
+Knight of the Great Jar
+Knight of the Great Jar
+Knight of the Great Jar
+Knight of the Great Jar
+Knight of the Great Jar
+Necromancer Garris
+Necromancer Garris (Boss)
+Nameless White Mask
+Nameless White Mask
+
+Errant Sorcerer Wilhelm
+Errant Sorcerer Wilhelm
+
+Chief Guardian Arghanthy
+Chief Guardian Arghanthy
+Flame Guardian
+Flame Guardian
+Inquisitor Ghiza
+Inquisitor Ghiza
+Mad Tongue Alberich
+Esgar, Priest of Blood (Boss)
+Mary, Eldest Sister
+Mary, Eldest Sister
+Maureen, Second Sister
+Maureen, Second Sister
+Amy, Third Sister
+Amy, Third Sister
+Polyanna, Youngest Sister
+Polyanna, Youngest Sister
+Magnus the Beast Claw
+Magnus the Beast Claw
+
+
+Igon
+Igon (NPC) (Gravesite Plain - Pillar Path Waypoint)
+Igon (NPC) (Foot of the Jagged Peak - Drake Duo Area)
+Dragon Communion Priestess
+Dragon Communion Priestess (NPC) (Foot of the Jagged Peak - Grand Altar)
+Ancient Dragon-Man
+Ancient Dragon-Man
+Ancient Dragon-Man (Boss) (Dragon's Pit)
+Swordhand of Night Jolan
+Swordhand of Night Jolan (NPC) (Scadu Altus - Cathedral of Manus Metyr)
+Swordhand of Night Jolan
+Swordhand of Night Jolan (Invader) (Scadu Altus - Cathedral of Manus Metyr)
+Swordhand of Night Jolan (NPC) (Scadu Altus - Cathedral of Manus Metyr)
+Swordhand of Night Anna
+Swordhand of Night Anna (NPC) (Scadu Altus - Rabbath's Rise)
+Fire Knight Queelign
+Fire Knight Queelign (NPC) (Shadow Keep - Church District)
+Hornsent
+Hornsent (NPC) (Gravesite Plain - Three-Path Cross)
+Hornsent (NPC) (Enir-Ilim)
+Hornsent (NPC) (Scadu Altus - Highroad Cross)
+Hornsent (NPC) (Specimen Storehouse)
+Hornsent (Boss) (Enir-Ilim)
+Hornsent (Invasion Target) (Shadow Keep)
+Hornsent
+Moore
+Moore (NPC) (Gravesite Plain - Belurat Main Gate Cross)
+Moore (NPC) (Enir-Ilim)
+Moore (NPC) (Scadu Altus - Church of the Crusade)
+Moore (Boss) (Enir-Ilim)
+Moore
+Sir Ansbach
+Sir Ansbach (NPC) (Gravesite Plain - Belurat Main Gate Cross)
+Sir Ansbach (NPC) (Enir-Ilim)
+Sir Ansbach (NPC) (Specimen Storehouse)
+Sir Ansbach (Invasion Target) (Specimen Storehouse)
+Pureblood Knight Ansbach
+Redmane Freyja
+Redmane Freyja (NPC) (Gravesite Plain - Three-Path Cross)
+Redmane Freyja (NPC) (Enir-Ilim)
+Redmane Freyja (NPC) (Specimen Storehouse)
+Redmane Freyja (Boss) (Enir-Ilim)
+Redmane Freyja
+Needle Knight Leda
+Needle Knight Leda (NPC) (Mohgwyn Palace)
+Needle Knight Leda (NPC) (Enir-Ilim)
+Needle Knight Leda (NPC) (Scadu Altus - Highroad Cross)
+Needle Knight Leda (Boss) (Enir-Ilim)
+Needle Knight Leda (Invasion Target) (Shadow Keep)
+Needle Knight Leda (Invasion Target) (Specimen Storehouse)
+Needle Knight Leda
+Thiollier
+Thiollier (NPC) (Gravesite Plain - Pillar Path Cross)
+Thiollier (NPC) (Stone Coffin Fissure)
+Thiollier (NPC) (Enir-Ilim)
+Thiollier
+Count Ymir, High Priest
+Count Ymir, High Priest (NPC) (Scadu Altus - Cathedral of Manus Metyr)
+Count Ymir, Mother of Fingers (Boss)
+(Tarnished) Red Bear
+(Tarnished) Red Bear
+(Tarnished) Red Bear
+(Tarnished) Red Bear (Boss) (Gravesite Plain - Northern Nameless Mausoleum)
+Dancer of Ranah
+Dancer of Ranah
+Dancer of Ranah (Boss) (Cerulean Coast - Southern Nameless Mausoleum)
+Rakshasa
+Rakshasa
+Rakshasa (Boss) (Scadu Altus - Western Nameless Mausoleum)
+Knight of the Solitary Gaol
+Knight of the Solitary Gaol (Boss) (Gravesite Plain - Western Nameless Mausoleum)
+Dryleaf Dane
+Dryleaf Dane
+Dryleaf Dane
+Dryleaf Dane (NPC) (Enir-Ilim)
+Dryleaf Dane (NPC) (Scadu Altus - Moorth Ruins)
+Dryleaf Dane (Boss) (Enir-Ilim)
+Dryleaf Dane (Miniboss) (Scadu Altus - Moorth Ruins)
+Dryleaf Dane
+Lamenter
+Lamenter (Illusion) (Lamenter's Gaol)
+Lamenter (Boss) (Lamenter's Gaol)
+Greater Potentate
+Greater Potentate (Scadu Altus - Bonny Village)
+Madding Hand
+Madding Hand (Abyssal Woods - Woodland Trail)
+Logur, the Beast Claw
+Logur, the Beast Claw (Gravesite Plain - South of Scorched Ruins)
+Moonrithyll, Carian Knight
+Moonrithyll, Carian Knight (Gravesite Plain - West Castle Ensis)
+
+
+
+
+Stray Mimic Tear
+Mimic Tear
+
+Human
+
+
+
+
+Roundtable Knight Vyke
+Patches
+Patches
+Castellan Edgar
+Castellan Edgar
+Witch-Hunter Jerren
+Witch-Hunter Jerren
+Castellan Jerren
+Castellan Jerren
+Sorceress Sellen
+Sorceress Sellen
+Sorceress Sellen
+Yura, Hunter of Bloody Fingers
+Yura, Hunter of Bloody Fingers
+Yura, Hunter of Bloody Fingers
+Yura, Hunter of Bloody Fingers
+Yura, Hunter of Bloody Fingers
+Shabriri
+Yura, Hunter of Bloody Fingers
+D, Hunter of the Dead
+D, Hunter of the Dead
+D, Beholder of Death
+D, Hunter of the Dead
+Dung Eater
+Dung Eater
+Dung Eater
+Sorcerer Rogier
+Sorcerer Rogier
+Knight Bernahl
+Recusant Bernahl
+Recusant Bernahl
+Recusant Bernahl
+Human
+Blackguard
+Blackguard
+Nepheli Loux, Warrior
+Nepheli Loux, Warrior
+Nepheli Loux, Warrior
+Nepheli Loux, Warrior
+Reeling Rico
+Reeling Rico
+Great Horned Tragoth
+Great Horned Tragoth
+Great Horned Tragoth
+Great Horned Tragoth
+Old Knight Istvan
+Old Knight Istvan
+Millicent
+Millicent
+Millicent
+Millicent
+Millicent
+Millicent
+Millicent
+Okina
+Okina
+Finger Maiden Therolina
+Finger Maiden Therolina
+Mary, Eldest Sister
+Mary, Eldest Sister
+Maureen, Second Sister
+Maureen, Second Sister
+Amy, Third Sister
+Amy, Third Sister
+Polyanna, Youngest Sister
+Polyanna, Adopted Daughter
+Polyanna, Youngest Sister
+
+Igon
+Drake Warrior Igon (Co-op) (Jagged Peak)
+Swordhand of Night Jolan
+Swordhand of Night Jolan (Co-op) (Cerulean Coast - Dragon Area)
+Swordhand of Night Jolan (Co-op) (Scadu Altus - Hinterlands)
+Swordhand of Night Jolan (Co-op) (Specimen Storehouse)
+
+Hornsent
+Hornsent (Co-op) (Shadow Keep)
+Hornsent (Co-op) (Specimen Storehouse)
+Hornsent (Assisted Spirit) (Shadow Keep)
+Sir Ansbach
+Pureblood Knight Ansbach (Co-op) (Enir-Ilim)
+Sir Ansbach (Assisted Spirit) (Specimen Storehouse)
+Pureblood Knight Ansbach (Helpful Spirit) (Enir-Ilim)
+Pureblood Knight Ansbach
+Redmane Freyja
+Redmane Freyja (Co-op) (Belurat, Tower Settlement)
+Redmane Freyja (Co-op) (Rauh Base - Northwest Great Red Bear)
+Redmane Freyja (Co-op) (Shadow Keep)
+Needle Knight Leda
+Needle Knight Leda (Co-op) (Gravesite Plain - East Castle Ensis)
+Needle Knight Leda
+Needle Knight Leda (Helpful Spirit) (Shadow Keep)
+Needle Knight Leda (Helpful Spirit) (Specimen Storehouse)
+Needle Knight Leda
+Thiollier
+Thiollier (Co-op) (Stone Coffin Fissure)
+Thiollier (Co-op) (Enir-Ilim)
+Thiollier (Helpful Spirit) (Enir-Ilim)
+Thiollier
+Count Ymir, Hight Priest
+Dryleaf Dane
+Dryleaf Dane (Co-op) (Gravesite Plain - East Castle Ensis) (REMOVED)
+Dryleaf Dane (Co-op) (Ancient Ruins of Rauh - North Church of the Bud)
+Sanguine Noble Nataan
+Sanguine Noble Nataan (Helpful Spirit) (Enir-Ilim)
+Sanguine Noble Nataan
+
+
+
+
+
+
+
+
+Edgar the Revenger
+Edgar the Revenger
+Knight Bernahl
+Recusant Bernahl
+Eleonora, Violet Bloody Finger
+Eleonora, Violet Bloody Finger
+Eleonora, Violet Bloody Finger
+Ensha of the Royal Remains
+Ensha of the Royal Remains
+Bloody Finger Nerijus
+Bloody Finger Nerijus
+Sanguine Noble
+Millicent
+Millicent
+Recusant Henricus
+Recusant Henricus
+Mad Tongue Alberich
+Mad Tongue Alberich
+
+Ancient Dragon-Man
+Ancient Dragon-Man (Invader) (Gravesite Plain - North of Scorched Ruins)
+Swordhand of Night Jolan
+
+Swordhand of Night Anna
+Swordhand of Night Anna (Invader) (Scadu Altus - Finger Ruins of Miyr)
+Fire Knight Queelign
+Fire Knight Queelign (Invader) (Belurat, Tower Settlement)
+Fire Knight Queelign (Invader) (Scadu Altus - Church of the Crusade)
+Fire Knight Queelign
+Fire Knight Queelign
+Hornsent
+Hornsent (Invader) (Ancient Ruins of Rauh - Rot Ruins)
+Moore
+Moore (Invader) (Gravesite Plain - Prospect Town)
+Moore
+Moore (Invader) (Gravesite Plain - Ellac River End)
+Moore (Invader) (Scadu Altus)
+Moore (Hostile) (Gravesite Plain - Prospect Town)
+Moore
+Moore (Hostile) (Gravesite Plain - Ellac River End)
+Moore (Hostile) (Scadu Altus)
+Sir Ansbach
+Redmane Freyja
+Needle Knight Leda
+Thiollier
+Thiollier (Invader) (Stone Coffin Fissure)
+
+Dryleaf Dane
+
+
+
+
+
+
+
+

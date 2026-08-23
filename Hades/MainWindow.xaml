@@ -15,6 +15,11 @@
         <DataTemplate DataType="{x:Type viewModels:ShowdownOfTheErdtree3ViewModel}">
             <views:ShowdownOfTheErdtree3View />
         </DataTemplate>
+        
+        <!-- ViewModel -> View -->
+        <DataTemplate DataType="{x:Type viewModels:TwoWorldsCollideViewModel}">
+            <views:TwoWorldsCollideView />
+        </DataTemplate>
 
     </Window.Resources>
 

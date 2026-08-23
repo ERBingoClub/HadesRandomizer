@@ -4,8 +4,8 @@ profileVersion = "v1"
 game = "eldenring"
 
 [[package]]
-id = "hades-sote-3"
-path = "sote3/bingo"
+id = "hades-twc"
+path = "twc/bingo"
 
 [[natives]]
 path = 'skip-intro/SkipTheIntro.dll'
