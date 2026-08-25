@@ -1,35 +1,44 @@
 name: Build and Release
-
 on:
   release:
     types: [published]
-
 jobs:
   build:
     runs-on: windows-latest
     permissions:
       contents: write
-
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
         with:
           submodules: recursive
+          fetch-depth: 0   # nbgv needs full history to compute the version
 
       - name: Setup .NET
         uses: actions/setup-dotnet@v4
         with:
           dotnet-version: '8.0.x'
 
+      - name: Install nbgv
+        run: dotnet tool install -g nbgv
+
+      - name: Compute version
+        id: version
+        run: |
+          $ver = nbgv get-version -v NuGetPackageVersion
+          echo "VERSION=$ver" >> $env:GITHUB_ENV
+        shell: pwsh
+
       - name: Build
-        run: dotnet build Hades/Hades.csproj -c Release -o HadesBuilds
+        run: dotnet build Hades/Hades.csproj -c Release -o "Hades-${{ env.VERSION }}"
 
       - name: Zip build output
-        run: Compress-Archive -Path HadesBuilds/* -DestinationPath Hades.zip
+        run: Compress-Archive -Path "Hades-${{ env.VERSION }}/*" -DestinationPath "Hades-${{ env.VERSION }}.zip"
+        shell: pwsh
 
       - name: Upload asset to release
         uses: softprops/action-gh-release@v2
         with:
-          files: Hades.zip
+          files: Hades-*.zip
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}

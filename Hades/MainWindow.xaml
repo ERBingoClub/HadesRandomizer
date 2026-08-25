@@ -3,7 +3,7 @@
         xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
         xmlns:views="clr-namespace:Hades.Views"
         xmlns:viewModels="clr-namespace:Hades.ViewModels"
-        Title="Hades Randomizer v0.0.1"
+        Title="Hades Randomizer "
         Height="420"
         Width="800"
         ResizeMode="CanMinimize"

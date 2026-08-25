@@ -29,6 +29,9 @@ class ShowdownOfTheErdtree3 : IRandomizerFormat
 
         statusCallback?.Invoke($"seeding...: {baseSeed}");
 
+        // Formatting seed
+        baseSeed = $"sote3_{baseSeed}_{Utils.GetVersion()}";
+
         var regulationFilepath = Path.Combine(
             Constants.ModEngineWorkingDirectory,
             Id,
@@ -44,6 +47,8 @@ class ShowdownOfTheErdtree3 : IRandomizerFormat
         randomizeTalismans(editor, talismanResult);
 
         // Shop AoW
+        var aowResult = getRandomAoW(baseSeed);
+        randomizeAoW(editor, aowResult);
 
         // Classes
         var classResult = getRandomArmoredClasses(baseSeed);

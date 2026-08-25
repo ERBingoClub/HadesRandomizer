@@ -1,4 +1,5 @@
 using System;
+using System.Reflection;
 using System.Security.Cryptography;
 
 public static class Utils
@@ -17,5 +18,14 @@ public static class Utils
         }
 
         return new string(result);
+    }
+
+    public static string GetVersion()
+    {
+        return Assembly
+                .GetExecutingAssembly()
+                .GetCustomAttribute<AssemblyInformationalVersionAttribute>()
+                ?.InformationalVersion
+            ?? "unknown";
     }
 }

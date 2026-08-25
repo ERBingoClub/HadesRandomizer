@@ -22,6 +22,7 @@ public partial class MainWindow : Window
     {
         InitializeComponent();
         DataContext = new MainWindowViewModel();
+        Title = $"Hades Randomizer v{Utils.GetVersion()}";
     }
 
     private void AboutButton_Click(object sender, RoutedEventArgs e)
