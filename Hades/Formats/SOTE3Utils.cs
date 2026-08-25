@@ -1,5 +1,12 @@
 namespace Hades.Formats;
 
+public struct AoWResults
+{
+    public int amazingAoW;
+    public int goodAoW;
+    public int weakAoW;
+}
+
 public struct TalismanResults
 {
     public int fillerTalisman_1;
@@ -37,6 +44,42 @@ public static class SOTE3Constants
         ["fillerTalisman_2"] = 1700160,
         ["goodTalisman_1"] = 1700159,
         ["goodTalisman_2"] = 1700158,
+        ["amazingAoW"] = 1700155,
+        ["goodAoW"] = 1700156,
+        ["weakAoW"] = 1700157,
+    };
+
+    public static readonly int[] AmazingAoW =
+    {
+        10000, // Lion's Claw
+        21000, // Stormblade
+        10100, // Impaling Thrust
+        21400, // Flaming Strike
+        21700, // Lightning Slash
+        22700, // Chilling Mist
+        50100, // Hoarfrost Stomp
+        20200, // Ice Spear
+    };
+
+    public static readonly int[] GoodAoW =
+    {
+        80100, // Bloodhound's Step
+        60700, // Cragblade
+        50500, // Flame of the Redmanes
+        20100, // Sacred Blade
+        22800, // Poisonous Mist
+        10800, // Blood Tax
+        22600, // Spectral Lance
+    };
+
+    public static readonly int[] WeakAoW =
+    {
+        21800, // Carian Grandeur
+        20000, // Glintblade Phalanx
+        21600, // Thunderbolt
+        22200, // Sacred Ring of Light
+        60200, // Assassin's Gambit
+        22100, // Black Flame Tornado
     };
     public static readonly int[] FillerTalismans =
     [

@@ -1,0 +1,7 @@
+title = "ESDStudioProject"
+[project_info]
+name = "MyProject"
+base_directory = "\\\\wsl.localhost\\FedoraLinux-44\\home\\nucleo\\HadesRandomizer\\Hades\\Resources\\me3-v0.8.0\\sote3\\bingo\\script\\talk\\MyProject"
+game_directory = "D:\\Steam\\steamapps\\common\\ELDEN RING\\Game"
+mod_directory = "\\\\wsl.localhost\\FedoraLinux-44\\home\\nucleo\\HadesRandomizer\\Hades\\Resources\\me3-v0.8.0\\sote3\\bingo"
+game = "er"

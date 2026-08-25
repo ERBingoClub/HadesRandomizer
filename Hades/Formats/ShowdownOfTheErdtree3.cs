@@ -14,8 +14,19 @@ class ShowdownOfTheErdtree3 : IRandomizerFormat
     public string Me3File => "sote3.me3";
     private EldenRingLauncherService _launcherService = new EldenRingLauncherService();
 
-    public void Exec(string baseSeed, Action<string>? statusCallback = null)
+    public void Exec(
+        string baseSeed,
+        Action<string>? statusCallback = null,
+        Action<string>? seedCallback = null
+    )
     {
+        if (baseSeed == "")
+        {
+            var seed = Utils.GenerateRandomString();
+            seedCallback?.Invoke(seed);
+            baseSeed = seed;
+        }
+
         statusCallback?.Invoke($"seeding...: {baseSeed}");
 
         var regulationFilepath = Path.Combine(
@@ -28,9 +39,11 @@ class ShowdownOfTheErdtree3 : IRandomizerFormat
 
         // Randomization Logic
 
-        // Talisman
+        // Shop Talisman
         var talismanResult = getTalismans(baseSeed);
         randomizeTalismans(editor, talismanResult);
+
+        // Shop AoW
 
         // Classes
         var classResult = getRandomArmoredClasses(baseSeed);
@@ -52,6 +65,16 @@ class ShowdownOfTheErdtree3 : IRandomizerFormat
         var seedInt = BitConverter.ToInt32(hash, 0);
         Random rng = new Random(seedInt);
         return rng.Next(len);
+    }
+
+    private AoWResults getRandomAoW(string seed)
+    {
+        return new AoWResults
+        {
+            amazingAoW = getRandomNumber(seed + "_amazing", SOTE3Constants.AmazingAoW.Count()),
+            goodAoW = getRandomNumber(seed + "_good", SOTE3Constants.GoodAoW.Count()),
+            weakAoW = getRandomNumber(seed + "_weak", SOTE3Constants.WeakAoW.Count()),
+        };
     }
 
     private ClassArmorResults getRandomArmoredClasses(string seed)
@@ -121,6 +144,22 @@ class ShowdownOfTheErdtree3 : IRandomizerFormat
             goodTalisman_1 = goodTali_1,
             goodTalisman_2 = goodTali_2,
         };
+    }
+
+    private void randomizeAoW(ParamsEditor editor, AoWResults aowResults)
+    {
+        editor.SetShopLineupEquipId(
+            SOTE3Constants.shopLineupMap["amazingAoW"],
+            SOTE3Constants.AmazingAoW[aowResults.amazingAoW]
+        );
+        editor.SetShopLineupEquipId(
+            SOTE3Constants.shopLineupMap["goodAoW"],
+            SOTE3Constants.GoodAoW[aowResults.goodAoW]
+        );
+        editor.SetShopLineupEquipId(
+            SOTE3Constants.shopLineupMap["weakAoW"],
+            SOTE3Constants.WeakAoW[aowResults.weakAoW]
+        );
     }
 
     private void randomizeClasses(ParamsEditor editor, ClassArmorResults results)

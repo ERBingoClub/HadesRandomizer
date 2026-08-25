@@ -5,6 +5,10 @@ public interface IRandomizerFormat
     string Id { get; }
     string DisplayName { get; }
     string Me3File { get; }
-    void Exec(string baseSeed, Action<string>? statusCallback = null);
+    void Exec(
+        string baseSeed,
+        Action<string>? statusCallback = null,
+        Action<string>? seedCallback = null
+    );
     void Launch();
 }

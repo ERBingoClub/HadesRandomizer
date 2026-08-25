@@ -22,6 +22,65 @@ $Event(0, Default, function() {
     ForceAnimationPlayback(1042360710, 930011, false, false, false, Equal);
     ForceAnimationPlayback(1042360711, 930017, false, false, false, Equal);
 
+    $InitializeEvent(0, 111037051, 11100706); // Enia
+    $InitializeCommonEvent(0, 90005708, 11100705, 3480, 0); // Enia
+});
+
+// NPC102指読み_NPC初期化イベント -- NPC102 finger reading_NPC initialization event
+$Event(111037051, Restart, function(chrEntityId) {
+    WaitFixedTimeFrames(1);
+    DisableNetworkSync();
+    if (PlayerIsInOwnWorld()) {
+        if (EventFlag(3480)) {
+            SetEventFlagID(11109355, OFF);
+        }
+    }
+L10:
+    if (!EventFlag(3489)) {
+        if (!(EventFlag(3485) || EventFlag(3486) || EventFlag(3487) || EventFlag(3488))) {
+            DisableCharacter(chrEntityId);
+            SetCharacterBackreadState(chrEntityId, true);
+            WaitFor(
+                EventFlag(3485)
+                    || EventFlag(3486)
+                    || EventFlag(3487)
+                    || EventFlag(3488)
+                    || EventFlag(3489));
+            RestartEvent();
+        }
+L5:
+        GotoIf(L1, EventFlag(3480));
+        GotoIf(L2, EventFlag(3481));
+        GotoIf(L3, EventFlag(3482));
+        GotoIf(L4, EventFlag(3483));
+L1:
+        SetCharacterBackreadState(chrEntityId, false);
+        EnableCharacter(chrEntityId);
+        GotoIf(L20, mainGroupAbuse);
+L2:
+        SetCharacterBackreadState(chrEntityId, false);
+        EnableCharacter(chrEntityId);
+        SetCharacterTeamType(chrEntityId, TeamType.HostileNPC);
+        Goto(L20);
+L3:
+        SetCharacterBackreadState(chrEntityId, false);
+        EnableCharacter(chrEntityId);
+        SetCharacterTeamType(chrEntityId, TeamType.HostileNPC);
+    } else {
+L4:
+        EnableCharacter(chrEntityId);
+        SetCharacterBackreadState(chrEntityId, false);
+        ForceAnimationPlayback(chrEntityId, 930010, false, false, false);
+        Goto(L20);
+    }
+L20:
+    WaitFor(
+        !(EventFlag(3485)
+            || EventFlag(3486)
+            || EventFlag(3487)
+            || EventFlag(3488)
+            || EventFlag(3489)));
+    RestartEvent();
 });
 
 $Event(50, Default, function() {
@@ -141,5 +200,3 @@ $Event(1063640001, Default, function() {
     AwardItemLot(100000);
     SetEventFlagID(71190, ON);
 });
-
-

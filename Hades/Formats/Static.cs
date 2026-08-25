@@ -18,7 +18,8 @@ public static class FormatRegistry
         {
             sote3.Exec(
                 baseSeed: sote3Vm.Seed,
-                statusCallback: status => sote3Vm.StatusText = status
+                statusCallback: status => sote3Vm.StatusText = status,
+                seedCallback: seed => sote3Vm.Seed = seed
             );
         });
         sote3Vm.LaunchCommand = new RelayCommand(() =>
