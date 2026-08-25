@@ -12,29 +12,22 @@ jobs:
         uses: actions/checkout@v4
         with:
           submodules: recursive
-          fetch-depth: 0
 
       - name: Setup .NET
         uses: actions/setup-dotnet@v4
         with:
           dotnet-version: '8.0.x'
 
-      - name: Install MinVer CLI
-        run: dotnet tool install -g minver-cli
-
-      - name: Add dotnet tools to PATH
-        run: echo "$env:USERPROFILE\.dotnet\tools" >> $env:GITHUB_PATH
-        shell: pwsh
-
-      - name: Compute version
+      - name: Extract version from tag
         id: version
         run: |
-          $ver = minver-cli
+          $tag = "${{ github.event.release.tag_name }}"
+          $ver = $tag.TrimStart('v')
           echo "VERSION=$ver" >> $env:GITHUB_ENV
         shell: pwsh
 
       - name: Build
-        run: dotnet build Hades/Hades.csproj -c Release -o "Hades-${{ env.VERSION }}"
+        run: dotnet build Hades/Hades.csproj -c Release -o "Hades-${{ env.VERSION }}" -p:Version=${{ env.VERSION }}
 
       - name: Zip build output
         run: Compress-Archive -Path "Hades-${{ env.VERSION }}/*" -DestinationPath "Hades-${{ env.VERSION }}.zip"
