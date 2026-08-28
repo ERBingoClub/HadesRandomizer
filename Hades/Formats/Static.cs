@@ -34,7 +34,11 @@ public static class FormatRegistry
 
         twcVm.RandomizeCommand = new RelayCommand(() =>
         {
-            twc.Exec(baseSeed: sote3Vm.Seed, statusCallback: status => sote3Vm.StatusText = status);
+            twc.Exec(
+                baseSeed: twcVm.Seed,
+                statusCallback: status => twcVm.StatusText = status,
+                seedCallback: seed => twcVm.Seed = seed
+            );
         });
         twcVm.LaunchCommand = new RelayCommand(() =>
         {

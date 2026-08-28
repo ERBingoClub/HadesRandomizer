@@ -1,10 +1,11 @@
 using System;
 using System.Reflection;
 using System.Security.Cryptography;
+using System.Text;
 
 public static class Utils
 {
-    private const string Chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789";
+    private const string Chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
 
     public static string GenerateRandomString(int length = 15)
     {
@@ -27,5 +28,13 @@ public static class Utils
                 .GetCustomAttribute<AssemblyInformationalVersionAttribute>()
                 ?.InformationalVersion
             ?? "unknown";
+    }
+
+    public static int GetRandomNumber(string seed, int len)
+    {
+        var hash = SHA256.HashData(Encoding.UTF8.GetBytes(seed));
+        var seedInt = BitConverter.ToInt32(hash, 0);
+        Random rng = new Random(seedInt);
+        return rng.Next(len);
     }
 }

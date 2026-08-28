@@ -15,27 +15,6 @@ public struct TalismanResults
     public int goodTalisman_2;
 }
 
-public struct ClassArmorResults
-{
-    public ArmorResults Vagabond;
-    public ArmorResults Warrior;
-    public ArmorResults Hero;
-    public ArmorResults Bandit;
-    public ArmorResults Astrologer;
-    public ArmorResults Confessor;
-    public ArmorResults Samurai;
-    public ArmorResults Prisoner;
-    public ArmorResults Prophet;
-}
-
-public struct ArmorResults
-{
-    public int Arms;
-    public int Legs;
-    public int Chest;
-    public int Helm;
-}
-
 public static class SOTE3Constants
 {
     public static readonly Dictionary<string, int> shopLineupMap = new Dictionary<string, int>()

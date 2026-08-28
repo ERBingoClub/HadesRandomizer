@@ -51,7 +51,7 @@ class ShowdownOfTheErdtree3 : IRandomizerFormat
         randomizeAoW(editor, aowResult);
 
         // Classes
-        var classResult = getRandomArmoredClasses(baseSeed);
+        var classResult = ArmorRandomizerService.GetRandomArmoredClasses(baseSeed, ArmorLocation.Base);
         randomizeClasses(editor, classResult);
 
         editor.WriteToRegulationPath(regulationFilepath);
@@ -64,63 +64,26 @@ class ShowdownOfTheErdtree3 : IRandomizerFormat
         _launcherService.LaunchEldenRingFromMe3File(Me3File);
     }
 
-    private int getRandomNumber(string seed, int len)
-    {
-        var hash = SHA256.HashData(Encoding.UTF8.GetBytes(seed));
-        var seedInt = BitConverter.ToInt32(hash, 0);
-        Random rng = new Random(seedInt);
-        return rng.Next(len);
-    }
-
     private AoWResults getRandomAoW(string seed)
     {
         return new AoWResults
         {
-            amazingAoW = getRandomNumber(seed + "_amazing", SOTE3Constants.AmazingAoW.Count()),
-            goodAoW = getRandomNumber(seed + "_good", SOTE3Constants.GoodAoW.Count()),
-            weakAoW = getRandomNumber(seed + "_weak", SOTE3Constants.WeakAoW.Count()),
-        };
-    }
-
-    private ClassArmorResults getRandomArmoredClasses(string seed)
-    {
-        return new ClassArmorResults
-        {
-            Vagabond = getRandomArmor(seed + "_vagabond"),
-            Warrior = getRandomArmor(seed + "_warrior"),
-            Hero = getRandomArmor(seed + "_hero"),
-            Astrologer = getRandomArmor(seed + "_astrologer"),
-            Prisoner = getRandomArmor(seed + "_prisoner"),
-            Prophet = getRandomArmor(seed + "_prophet"),
-            Confessor = getRandomArmor(seed + "_confessor"),
-            Samurai = getRandomArmor(seed + "_samurai"),
-            Bandit = getRandomArmor(seed + "_bandit"),
-        };
-    }
-
-    private ArmorResults getRandomArmor(string seed)
-    {
-        var arm = getRandomNumber(seed + "_arms", Constants.BaseArms.Count());
-        var legs = getRandomNumber(seed + "_legs", Constants.BaseLegs.Count());
-        var chest = getRandomNumber(seed + "_chest", Constants.BaseChest.Count());
-        var helm = getRandomNumber(seed + "_helm", Constants.BaseHelm.Count());
-
-        return new ArmorResults
-        {
-            Arms = arm,
-            Legs = legs,
-            Chest = chest,
-            Helm = helm,
+            amazingAoW = Utils.GetRandomNumber(
+                seed + "_amazing",
+                SOTE3Constants.AmazingAoW.Count()
+            ),
+            goodAoW = Utils.GetRandomNumber(seed + "_good", SOTE3Constants.GoodAoW.Count()),
+            weakAoW = Utils.GetRandomNumber(seed + "_weak", SOTE3Constants.WeakAoW.Count()),
         };
     }
 
     private TalismanResults getTalismans(string seed)
     {
-        var fillerTali_1 = getRandomNumber(
+        var fillerTali_1 = Utils.GetRandomNumber(
             seed + "_filler1",
             SOTE3Constants.FillerTalismans.Count()
         );
-        var fillerTali_2 = getRandomNumber(
+        var fillerTali_2 = Utils.GetRandomNumber(
             seed + "_filler2",
             SOTE3Constants.FillerTalismans.Count()
         );
@@ -132,8 +95,14 @@ class ShowdownOfTheErdtree3 : IRandomizerFormat
                 fillerTali_2++;
         }
 
-        var goodTali_1 = getRandomNumber(seed + "_good1", SOTE3Constants.GoodTalismans.Count());
-        var goodTali_2 = getRandomNumber(seed + "_good2", SOTE3Constants.GoodTalismans.Count());
+        var goodTali_1 = Utils.GetRandomNumber(
+            seed + "_good1",
+            SOTE3Constants.GoodTalismans.Count()
+        );
+        var goodTali_2 = Utils.GetRandomNumber(
+            seed + "_good2",
+            SOTE3Constants.GoodTalismans.Count()
+        );
         if (goodTali_1 == goodTali_2)
         {
             if (goodTali_2 == SOTE3Constants.GoodTalismans.Count() - 1)
@@ -182,10 +151,22 @@ class ShowdownOfTheErdtree3 : IRandomizerFormat
 
     private void randomizeClass(ParamsEditor editor, int classId, ArmorResults result)
     {
-        editor.SetInitialEquipArm(classId, Constants.BaseArms[result.Arms]);
-        editor.SetInitialEquipHelm(classId, Constants.BaseHelm[result.Helm]);
-        editor.SetInitialEquipLeg(classId, Constants.BaseLegs[result.Legs]);
-        editor.SetInitialEquipTorso(classId, Constants.BaseChest[result.Chest]);
+        editor.SetInitialEquipArm(
+            classId,
+            Armors.Get(Gauntlets.All, ArmorLocation.Base).ElementAt(result.Arms).Id
+        );
+        editor.SetInitialEquipHelm(
+            classId,
+            Armors.Get(Helms.All, ArmorLocation.Base).ElementAt(result.Helm).Id
+        );
+        editor.SetInitialEquipLeg(
+            classId,
+            Armors.Get(Greaves.All, ArmorLocation.Base).ElementAt(result.Legs).Id
+        );
+        editor.SetInitialEquipTorso(
+            classId,
+            Armors.Get(ChestArmor.All, ArmorLocation.Base).ElementAt(result.Chest).Id
+        );
     }
 
     private void randomizeTalismans(ParamsEditor editor, TalismanResults results)
