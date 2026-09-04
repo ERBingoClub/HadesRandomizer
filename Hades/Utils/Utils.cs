@@ -3,7 +3,9 @@ using System.Reflection;
 using System.Security.Cryptography;
 using System.Text;
 
-public static class Utils
+namespace Hades.Utils;
+
+public static class RandoUtils
 {
     private const string Chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
 

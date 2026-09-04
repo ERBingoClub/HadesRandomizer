@@ -1,4 +1,4 @@
-using Hades.Config;
+using Hades.Constants;
 
 namespace Hades.Services;
 
@@ -43,19 +43,19 @@ public static class ArmorRandomizerService
 
     public static ArmorResults GetRandomArmor(string seed, ArmorLocation locn)
     {
-        var arm = Utils.GetRandomNumber(
+        var arm = Utils.RandoUtils.GetRandomNumber(
             seed + "_arms",
             Armors.Get(Gauntlets.All, locn).Count()
         );
-        var legs = Utils.GetRandomNumber(
+        var legs = Utils.RandoUtils.GetRandomNumber(
             seed + "_legs",
             Armors.Get(Greaves.All, locn).Count()
         );
-        var chest = Utils.GetRandomNumber(
+        var chest = Utils.RandoUtils.GetRandomNumber(
             seed + "_chest",
             Armors.Get(ChestArmor.All, locn).Count()
         );
-        var helm = Utils.GetRandomNumber(
+        var helm = Utils.RandoUtils.GetRandomNumber(
             seed + "_helm",
             Armors.Get(Helms.All, locn).Count()
         );

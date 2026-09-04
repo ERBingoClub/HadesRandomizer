@@ -1,10 +1,10 @@
-namespace Hades.Config;
+namespace Hades.Constants;
 
 public enum ArmorLocation
 {
     Base,
     Dlc,
-    Both
+    Both,
 }
 
 public readonly record struct ArmorEntry(int Id, string Name, ArmorLocation Location);

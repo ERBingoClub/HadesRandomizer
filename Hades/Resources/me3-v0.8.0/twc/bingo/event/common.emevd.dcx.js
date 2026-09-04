@@ -9229,9 +9229,21 @@ $Event(9950, Default, function(eventFlagId, eventFlagId2) {
 $Event(99992, Default, function() {
     EndIf(!PlayerIsInOwnWorld());
     EndIf(EventFlag(99990));
-    
-    WarpPlayer(11, 10, 0, 0, 99991, 10000);
-    
+
     SetEventFlagID(99990, ON);
+
+    // Torrent's Whistle
+    DirectlyGivePlayerItem(ItemType.Goods, 130, 99990, 1);
+
+    // 3 Crimson Flasks
+    DirectlyGivePlayerItem(ItemType.Goods, 1001, 99990, 1);    
+    DirectlyGivePlayerItem(ItemType.Goods, 1001, 99990, 1);    
+    DirectlyGivePlayerItem(ItemType.Goods, 1001, 99990, 1);
+
+    // 1 Cerulean Flask
+    DirectlyGivePlayerItem(ItemType.Goods, 1051, 99990, 1);
+
+    WarpPlayer(11, 10, 0, 0, 99991, 10000);
+
     EndEvent();
 });
