@@ -9524,6 +9524,12 @@ $Event(99992, Default, function() {
     DirectlyGivePlayerItem(ItemType.Goods, 1001, 99990, 1);
     DirectlyGivePlayerItem(ItemType.Goods, 1001, 99990, 1);
     DirectlyGivePlayerItem(ItemType.Goods, 1051, 99990, 1);
+    
+    // Talisman Pouches
+    DirectlyGivePlayerItem(ItemType.Goods, 10040, 99990, 1);
+    DirectlyGivePlayerItem(ItemType.Goods, 10040, 99990, 1);
+    DirectlyGivePlayerItem(ItemType.Goods, 10040, 99990, 1);
+    DirectlyGivePlayerItem(ItemType.Goods, 10040, 99990, 1);
 
     SetEventFlagID(104, ON);
     // SetEventFlagID(105, ON);

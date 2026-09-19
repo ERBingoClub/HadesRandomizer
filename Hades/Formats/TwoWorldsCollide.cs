@@ -61,7 +61,7 @@ class TwoWorldsCollide : IRandomizerFormat
 
             var urr = new UniversalReplacementRandomizer.OptimizedReplacementRandomizer(
                 "twc",
-                baseSeed.GetHashCode()
+                Utils.RandoUtils.GetStableSeed(baseSeed)
             );
 
             // Weapons

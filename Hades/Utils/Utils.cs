@@ -39,4 +39,10 @@ public static class RandoUtils
         Random rng = new Random(seedInt);
         return rng.Next(len);
     }
+
+    public static int GetStableSeed(string seed)
+    {
+        var hash = SHA256.HashData(Encoding.UTF8.GetBytes(seed));
+        return BitConverter.ToInt32(hash, 0);
+    }
 }
