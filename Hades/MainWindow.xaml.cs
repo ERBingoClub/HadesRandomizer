@@ -11,7 +11,6 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
-using Hades.Config;
 using Hades.ViewModels;
 
 namespace Hades;
@@ -22,7 +21,7 @@ public partial class MainWindow : Window
     {
         InitializeComponent();
         DataContext = new MainWindowViewModel();
-        Title = $"Hades Randomizer v{Utils.GetVersion()}";
+        Title = $"Hades Randomizer v{Utils.RandoUtils.GetVersion()}";
     }
 
     private void AboutButton_Click(object sender, RoutedEventArgs e)

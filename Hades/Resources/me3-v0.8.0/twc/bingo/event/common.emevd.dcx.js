@@ -165,7 +165,7 @@ $Event(0, Default, function() {
     $InitializeEvent(17, 1720, 69510, 710910, 1910, 2009161);
     $InitializeEvent(0, 1790);
     $InitializeEvent(0, 1770, 700800, 710800, 1800);
-    $InitializeEvent(0, 950);
+    //    $InitializeEvent(0, 950);
     $InitializeEvent(0, 960, 76100);
     $InitializeEvent(1, 960, 76108);
     $InitializeEvent(2, 960, 76104);
@@ -446,7 +446,293 @@ $Event(0, Default, function() {
     $InitializeEvent(0, 11100090);
     
     // Custom Events
-    $InitializeEvent(0, 99992); // Rountable Spawn
+    $InitializeEvent(0, 99992); // Rountable Spawn & Initialization
+    
+    // Progression Grace events
+    $InitializeEvent(0, 11120300);
+    $InitializeEvent(0, 11120301);
+    $InitializeEvent(0, 11120302);
+    $InitializeEvent(0, 11120303);
+    $InitializeEvent(0, 11120304);
+    
+    // 2 Remembrance Events
+    $InitializeEvent(0, 11120000);
+    $InitializeEvent(0, 11120001);
+    $InitializeEvent(0, 11120002);
+    $InitializeEvent(0, 11120003);
+    $InitializeEvent(0, 11120004);
+    $InitializeEvent(0, 11120005);
+    $InitializeEvent(0, 11120006);
+    $InitializeEvent(0, 11120007);
+    $InitializeEvent(0, 11120008);
+    $InitializeEvent(0, 11120009);
+    $InitializeEvent(0, 11120010);
+    $InitializeEvent(0, 11120011);
+    $InitializeEvent(0, 11120012);
+    $InitializeEvent(0, 11120013);
+    $InitializeEvent(0, 11120014);
+    $InitializeEvent(0, 11120015);
+    $InitializeEvent(0, 11120016);
+    $InitializeEvent(0, 11120017);
+    $InitializeEvent(0, 11120018);
+    $InitializeEvent(0, 11120019);
+    $InitializeEvent(0, 11120020);
+    $InitializeEvent(0, 11120021);
+    $InitializeEvent(0, 11120022);
+    $InitializeEvent(0, 11120023);
+    $InitializeEvent(0, 11120024);
+    $InitializeEvent(0, 11120025);
+    $InitializeEvent(0, 11120026);
+    $InitializeEvent(0, 11120027);
+    $InitializeEvent(0, 11120028);
+    $InitializeEvent(0, 11120029);
+    $InitializeEvent(0, 11120030);
+    $InitializeEvent(0, 11120031);
+    $InitializeEvent(0, 11120032);
+    $InitializeEvent(0, 11120033);
+    $InitializeEvent(0, 11120034);
+    $InitializeEvent(0, 11120035);
+    $InitializeEvent(0, 11120036);
+    $InitializeEvent(0, 11120037);
+    $InitializeEvent(0, 11120038);
+    $InitializeEvent(0, 11120039);
+    $InitializeEvent(0, 11120040);
+    $InitializeEvent(0, 11120041);
+    $InitializeEvent(0, 11120042);
+    $InitializeEvent(0, 11120043);
+    $InitializeEvent(0, 11120044);
+    $InitializeEvent(0, 11120045);
+    $InitializeEvent(0, 11120046);
+    $InitializeEvent(0, 11120047);
+    $InitializeEvent(0, 11120048);
+    $InitializeEvent(0, 11120049);
+    $InitializeEvent(0, 11120050);
+    $InitializeEvent(0, 11120051);
+    $InitializeEvent(0, 11120052);
+    $InitializeEvent(0, 11120053);
+    $InitializeEvent(0, 11120054);
+    $InitializeEvent(0, 11120055);
+    $InitializeEvent(0, 11120056);
+    $InitializeEvent(0, 11120057);
+    $InitializeEvent(0, 11120058);
+    $InitializeEvent(0, 11120059);
+    $InitializeEvent(0, 11120060);
+    $InitializeEvent(0, 11120061);
+    $InitializeEvent(0, 11120062);
+    $InitializeEvent(0, 11120063);
+    $InitializeEvent(0, 11120064);
+    $InitializeEvent(0, 11120065);
+    $InitializeEvent(0, 11120066);
+    $InitializeEvent(0, 11120067);
+    $InitializeEvent(0, 11120068);
+    $InitializeEvent(0, 11120069);
+    $InitializeEvent(0, 11120070);
+    $InitializeEvent(0, 11120071);
+    $InitializeEvent(0, 11120072);
+    $InitializeEvent(0, 11120073);
+    $InitializeEvent(0, 11120074);
+    $InitializeEvent(0, 11120075);
+    $InitializeEvent(0, 11120076);
+    $InitializeEvent(0, 11120077);
+    $InitializeEvent(0, 11120078);
+    $InitializeEvent(0, 11120079);
+    $InitializeEvent(0, 11120080);
+    $InitializeEvent(0, 11120081);
+    $InitializeEvent(0, 11120082);
+    $InitializeEvent(0, 11120083);
+    $InitializeEvent(0, 11120084);
+    $InitializeEvent(0, 11120085);
+    $InitializeEvent(0, 11120086);
+    $InitializeEvent(0, 11120087);
+    $InitializeEvent(0, 11120088);
+    $InitializeEvent(0, 11120089);
+    $InitializeEvent(0, 11120090);
+    $InitializeEvent(0, 11120091);
+    $InitializeEvent(0, 11120092);
+    $InitializeEvent(0, 11120093);
+    $InitializeEvent(0, 11120094);
+    $InitializeEvent(0, 11120095);
+    $InitializeEvent(0, 11120096);
+    $InitializeEvent(0, 11120097);
+    $InitializeEvent(0, 11120098);
+    $InitializeEvent(0, 11120099);
+    $InitializeEvent(0, 11120100);
+    $InitializeEvent(0, 11120101);
+    $InitializeEvent(0, 11120102);
+    $InitializeEvent(0, 11120103);
+    $InitializeEvent(0, 11120104);
+    $InitializeEvent(0, 11120105);
+    $InitializeEvent(0, 11120106);
+    $InitializeEvent(0, 11120107);
+    $InitializeEvent(0, 11120108);
+    $InitializeEvent(0, 11120109);
+    $InitializeEvent(0, 11120110);
+    $InitializeEvent(0, 11120111);
+    $InitializeEvent(0, 11120112);
+    $InitializeEvent(0, 11120113);
+    $InitializeEvent(0, 11120114);
+    $InitializeEvent(0, 11120115);
+    $InitializeEvent(0, 11120116);
+    $InitializeEvent(0, 11120117);
+    $InitializeEvent(0, 11120118);
+    $InitializeEvent(0, 11120119);
+    $InitializeEvent(0, 11120120);
+    $InitializeEvent(0, 11120121);
+    $InitializeEvent(0, 11120122);
+    $InitializeEvent(0, 11120123);
+    $InitializeEvent(0, 11120124);
+    $InitializeEvent(0, 11120125);
+    $InitializeEvent(0, 11120126);
+    $InitializeEvent(0, 11120127);
+    $InitializeEvent(0, 11120128);
+    $InitializeEvent(0, 11120129);
+    $InitializeEvent(0, 11120130);
+    $InitializeEvent(0, 11120131);
+    $InitializeEvent(0, 11120132);
+    $InitializeEvent(0, 11120133);
+    $InitializeEvent(0, 11120134);
+    $InitializeEvent(0, 11120135);
+    $InitializeEvent(0, 11120136);
+    $InitializeEvent(0, 11120137);
+    $InitializeEvent(0, 11120138);
+    $InitializeEvent(0, 11120139);
+    $InitializeEvent(0, 11120140);
+    $InitializeEvent(0, 11120141);
+    $InitializeEvent(0, 11120142);
+    $InitializeEvent(0, 11120143);
+    $InitializeEvent(0, 11120144);
+    $InitializeEvent(0, 11120145);
+    $InitializeEvent(0, 11120146);
+    $InitializeEvent(0, 11120147);
+    $InitializeEvent(0, 11120148);
+    $InitializeEvent(0, 11120149);
+    $InitializeEvent(0, 11120150);
+    $InitializeEvent(0, 11120151);
+    $InitializeEvent(0, 11120152);
+    $InitializeEvent(0, 11120153);
+    $InitializeEvent(0, 11120154);
+    $InitializeEvent(0, 11120155);
+    $InitializeEvent(0, 11120156);
+    $InitializeEvent(0, 11120157);
+    $InitializeEvent(0, 11120158);
+    $InitializeEvent(0, 11120159);
+    $InitializeEvent(0, 11120160);
+    $InitializeEvent(0, 11120161);
+    $InitializeEvent(0, 11120162);
+    $InitializeEvent(0, 11120163);
+    $InitializeEvent(0, 11120164);
+    $InitializeEvent(0, 11120165);
+    $InitializeEvent(0, 11120166);
+    $InitializeEvent(0, 11120167);
+    $InitializeEvent(0, 11120168);
+    $InitializeEvent(0, 11120169);
+    $InitializeEvent(0, 11120170);
+    $InitializeEvent(0, 11120171);
+    $InitializeEvent(0, 11120172);
+    $InitializeEvent(0, 11120173);
+    $InitializeEvent(0, 11120174);
+    $InitializeEvent(0, 11120175);
+    $InitializeEvent(0, 11120176);
+    $InitializeEvent(0, 11120177);
+    $InitializeEvent(0, 11120178);
+    $InitializeEvent(0, 11120179);
+    $InitializeEvent(0, 11120180);
+    $InitializeEvent(0, 11120181);
+    $InitializeEvent(0, 11120182);
+    $InitializeEvent(0, 11120183);
+    $InitializeEvent(0, 11120184);
+    $InitializeEvent(0, 11120185);
+    $InitializeEvent(0, 11120186);
+    $InitializeEvent(0, 11120187);
+    $InitializeEvent(0, 11120188);
+    $InitializeEvent(0, 11120189);
+    $InitializeEvent(0, 11120190);
+    $InitializeEvent(0, 11120191);
+    $InitializeEvent(0, 11120192);
+    $InitializeEvent(0, 11120193);
+    $InitializeEvent(0, 11120194);
+    $InitializeEvent(0, 11120195);
+    $InitializeEvent(0, 11120196);
+    $InitializeEvent(0, 11120197);
+    $InitializeEvent(0, 11120198);
+    $InitializeEvent(0, 11120199);
+    $InitializeEvent(0, 11120200);
+    $InitializeEvent(0, 11120201);
+    $InitializeEvent(0, 11120202);
+    $InitializeEvent(0, 11120203);
+    $InitializeEvent(0, 11120204);
+    $InitializeEvent(0, 11120205);
+    $InitializeEvent(0, 11120206);
+    $InitializeEvent(0, 11120207);
+    $InitializeEvent(0, 11120208);
+    $InitializeEvent(0, 11120209);
+    $InitializeEvent(0, 11120210);
+    $InitializeEvent(0, 11120211);
+    $InitializeEvent(0, 11120212);
+    $InitializeEvent(0, 11120213);
+    $InitializeEvent(0, 11120214);
+    $InitializeEvent(0, 11120215);
+    $InitializeEvent(0, 11120216);
+    $InitializeEvent(0, 11120217);
+    $InitializeEvent(0, 11120218);
+    $InitializeEvent(0, 11120219);
+    $InitializeEvent(0, 11120220);
+    $InitializeEvent(0, 11120221);
+    $InitializeEvent(0, 11120222);
+    $InitializeEvent(0, 11120223);
+    $InitializeEvent(0, 11120224);
+    $InitializeEvent(0, 11120225);
+    $InitializeEvent(0, 11120226);
+    $InitializeEvent(0, 11120227);
+    $InitializeEvent(0, 11120228);
+    $InitializeEvent(0, 11120229);
+    $InitializeEvent(0, 11120230);
+    $InitializeEvent(0, 11120231);
+    $InitializeEvent(0, 11120232);
+    $InitializeEvent(0, 11120233);
+    $InitializeEvent(0, 11120234);
+    $InitializeEvent(0, 11120235);
+    $InitializeEvent(0, 11120236);
+    $InitializeEvent(0, 11120237);
+    $InitializeEvent(0, 11120238);
+    $InitializeEvent(0, 11120239);
+    $InitializeEvent(0, 11120240);
+    $InitializeEvent(0, 11120241);
+    $InitializeEvent(0, 11120242);
+    $InitializeEvent(0, 11120243);
+    $InitializeEvent(0, 11120244);
+    $InitializeEvent(0, 11120245);
+    $InitializeEvent(0, 11120246);
+    $InitializeEvent(0, 11120247);
+    $InitializeEvent(0, 11120248);
+    $InitializeEvent(0, 11120249);
+    $InitializeEvent(0, 11120250);
+    $InitializeEvent(0, 11120251);
+    $InitializeEvent(0, 11120252);
+    $InitializeEvent(0, 11120253);
+    $InitializeEvent(0, 11120254);
+    $InitializeEvent(0, 11120255);
+    $InitializeEvent(0, 11120256);
+    $InitializeEvent(0, 11120257);
+    $InitializeEvent(0, 11120258);
+    $InitializeEvent(0, 11120259);
+    $InitializeEvent(0, 11120260);
+    $InitializeEvent(0, 11120261);
+    $InitializeEvent(0, 11120262);
+    $InitializeEvent(0, 11120263);
+    $InitializeEvent(0, 11120264);
+    $InitializeEvent(0, 11120265);
+    $InitializeEvent(0, 11120266);
+    $InitializeEvent(0, 11120267);
+    $InitializeEvent(0, 11120268);
+    $InitializeEvent(0, 11120269);
+    $InitializeEvent(0, 11120270);
+    $InitializeEvent(0, 11120271);
+    $InitializeEvent(0, 11120272);
+    $InitializeEvent(0, 11120273);
+    $InitializeEvent(0, 11120274);
+    $InitializeEvent(0, 11120275);
+      
 });
 
 // プリコンストラクタ -- preconstructor
@@ -1711,97 +1997,97 @@ $Event(945, Default, function() {
 });
 
 // 娘マリカとの出会い -- Meeting my daughter Marika
-$Event(950, Restart, function() {
-    EndIf(EventFlag(951));
-    online = PlayerIsInOwnWorld();
-    area = EntityInRadiusOfEntity(10000, 1042361950, 2, 1);
-    area2 = EntityInRadiusOfEntity(10000, 1043371950, 2, 1);
-    area3 = EntityInRadiusOfEntity(10000, 1046381950, 2, 1);
-    area4 = EntityInRadiusOfEntity(10000, 1041381950, 2, 1);
-    area5 = EntityInRadiusOfEntity(10000, 1044351950, 2, 1);
-    area6 = EntityInRadiusOfEntity(10000, 1042371950, 2, 1);
-    area7 = EntityInRadiusOfEntity(10000, 1044341950, 2, 1);
-    area8 = EntityInRadiusOfEntity(10000, 1043351950, 2, 1);
-    areaFlag = (area || area2 || area3 || area4 || area5 || area6 || area7 || area8) && EventFlag(9000);
-    flag = EventValue(955, 3) == 2;
-    flag2 = EventValue(955, 3) >= 3;
-    onlineAreaFlag = online && areaFlag && (flag || flag2 || area2 || area6);
-    WaitFor(onlineAreaFlag || ElapsedSeconds(3));
-    EndIf(!onlineAreaFlag.Passed);
-    SetEventFlagID(9001, ON);
-    WaitFixedTimeFrames(1);
-    SetEventFlagID(951, ON);
-    SetEventFlagID(953, ON);
-    SetEventFlagID(9021, ON);
-    GotoIf(L8, area8.Passed);
-    GotoIf(L7, area7.Passed);
-    GotoIf(L6, area6.Passed);
-    GotoIf(L5, area5.Passed);
-    GotoIf(L4, area4.Passed);
-    GotoIf(L3, area3.Passed);
-    GotoIf(L2, area2.Passed);
-    GotoIf(L1, area.Passed);
-    Goto(L10);
-    EndEvent();
-L1:
-    PlayCutsceneToPlayer(60420000, CutscenePlayMode.SkippableWithFadeOutSkip, 10000);
-    WaitFixedTimeRealFrames(1);
-    IssueShortWarpRequest(10000, TargetEntityType.Area, 1042362980, -1);
-    SetCameraAngle(5, -150.63);
-    ChangeWeather(Weather.Default, 300, true);
-    Goto(L10);
-L2:
-    PlayCutsceneToPlayer(60420001, CutscenePlayMode.SkippableWithFadeOutSkip, 10000);
-    WaitFixedTimeRealFrames(1);
-    IssueShortWarpRequest(10000, TargetEntityType.Area, 1043372980, -1);
-    SetCameraAngle(5, 108.82);
-    ChangeWeather(Weather.Default, 300, true);
-    Goto(L10);
-L3:
-    PlayCutsceneToPlayer(60420002, CutscenePlayMode.SkippableWithFadeOutSkip, 10000);
-    WaitFixedTimeRealFrames(1);
-    IssueShortWarpRequest(10000, TargetEntityType.Area, 1046382980, -1);
-    SetCameraAngle(5, -155.69);
-    ChangeWeather(Weather.Default, 300, true);
-    Goto(L10);
-L4:
-    PlayCutsceneToPlayer(60420003, CutscenePlayMode.SkippableWithFadeOutSkip, 10000);
-    WaitFixedTimeRealFrames(1);
-    IssueShortWarpRequest(10000, TargetEntityType.Area, 1041382980, -1);
-    SetCameraAngle(5, 49.13);
-    ChangeWeather(Weather.Default, 300, true);
-    Goto(L10);
-L5:
-    PlayCutsceneToPlayer(60420004, CutscenePlayMode.SkippableWithFadeOutSkip, 10000);
-    WaitFixedTimeRealFrames(1);
-    IssueShortWarpRequest(10000, TargetEntityType.Area, 1044352980, -1);
-    SetCameraAngle(5, -144.18);
-    ChangeWeather(Weather.Default, 300, true);
-    Goto(L10);
-L6:
-    PlayCutsceneToPlayer(60420005, CutscenePlayMode.SkippableWithFadeOutSkip, 10000);
-    WaitFixedTimeRealFrames(1);
-    IssueShortWarpRequest(10000, TargetEntityType.Area, 1042372980, -1);
-    SetCameraAngle(4.02, 18.7);
-    ChangeWeather(Weather.Default, 300, true);
-    Goto(L10);
-L7:
-    PlayCutsceneToPlayer(60420006, CutscenePlayMode.SkippableWithFadeOutSkip, 10000);
-    WaitFixedTimeRealFrames(1);
-    IssueShortWarpRequest(10000, TargetEntityType.Area, 1044342980, -1);
-    SetCameraAngle(5, 17.42);
-    ChangeWeather(Weather.Default, 300, true);
-    Goto(L10);
-L8:
-    PlayCutsceneToPlayer(60420007, CutscenePlayMode.SkippableWithFadeOutSkip, 10000);
-    WaitFixedTimeRealFrames(1);
-    IssueShortWarpRequest(10000, TargetEntityType.Area, 1043352980, -1);
-    SetCameraAngle(5, -126.77);
-    ChangeWeather(Weather.Default, 300, true);
-    Goto(L10);
-L10:
-    SetEventFlagID(9001, OFF);
-});
+//$Event(950, Restart, function() {
+//    EndIf(EventFlag(951));
+//    online = PlayerIsInOwnWorld();
+//    area = EntityInRadiusOfEntity(10000, 1042361950, 2, 1);
+//    area2 = EntityInRadiusOfEntity(10000, 1043371950, 2, 1);
+//    area3 = EntityInRadiusOfEntity(10000, 1046381950, 2, 1);
+//    area4 = EntityInRadiusOfEntity(10000, 1041381950, 2, 1);
+//    area5 = EntityInRadiusOfEntity(10000, 1044351950, 2, 1);
+//    area6 = EntityInRadiusOfEntity(10000, 1042371950, 2, 1);
+//    area7 = EntityInRadiusOfEntity(10000, 1044341950, 2, 1);
+//    area8 = EntityInRadiusOfEntity(10000, 1043351950, 2, 1);
+//    areaFlag = (area || area2 || area3 || area4 || area5 || area6 || area7 || area8) && EventFlag(9000);
+//    flag = EventValue(955, 3) == 2;
+//    flag2 = EventValue(955, 3) >= 3;
+//    onlineAreaFlag = online && areaFlag && (flag || flag2 || area2 || area6);
+//    WaitFor(onlineAreaFlag || ElapsedSeconds(3));
+//    EndIf(!onlineAreaFlag.Passed);
+//    SetEventFlagID(9001, ON);
+//    WaitFixedTimeFrames(1);
+//    SetEventFlagID(951, ON);
+//    SetEventFlagID(953, ON);
+  //  SetEventFlagID(9021, ON);
+  //  GotoIf(L8, area8.Passed);
+//    GotoIf(L7, area7.Passed);
+//    GotoIf(L6, area6.Passed);
+//    GotoIf(L5, area5.Passed);
+//    GotoIf(L4, area4.Passed);
+//    GotoIf(L3, area3.Passed);
+//    GotoIf(L2, area2.Passed);
+//    GotoIf(L1, area.Passed);
+//    Goto(L10);
+//    EndEvent();
+//L1:
+ //   PlayCutsceneToPlayer(60420000, CutscenePlayMode.SkippableWithFadeOutSkip, 10000);
+ //   WaitFixedTimeRealFrames(1);
+//    IssueShortWarpRequest(10000, TargetEntityType.Area, 1042362980, -1);
+//    SetCameraAngle(5, -150.63);
+//    ChangeWeather(Weather.Default, 300, true);
+//    Goto(L10);
+//L2:
+//    PlayCutsceneToPlayer(60420001, CutscenePlayMode.SkippableWithFadeOutSkip, 10000);
+//    WaitFixedTimeRealFrames(1);
+//    IssueShortWarpRequest(10000, TargetEntityType.Area, 1043372980, -1);
+//    SetCameraAngle(5, 108.82);
+//    ChangeWeather(Weather.Default, 300, true);
+//    Goto(L10);
+//L3:
+//    PlayCutsceneToPlayer(60420002, CutscenePlayMode.SkippableWithFadeOutSkip, 10000);
+//    WaitFixedTimeRealFrames(1);
+//    IssueShortWarpRequest(10000, TargetEntityType.Area, 1046382980, -1);
+//    SetCameraAngle(5, -155.69);
+//    ChangeWeather(Weather.Default, 300, true);
+//    Goto(L10);
+//L4:
+//    PlayCutsceneToPlayer(60420003, CutscenePlayMode.SkippableWithFadeOutSkip, 10000);
+//    WaitFixedTimeRealFrames(1);
+//    IssueShortWarpRequest(10000, TargetEntityType.Area, 1041382980, -1);
+//    SetCameraAngle(5, 49.13);
+//    ChangeWeather(Weather.Default, 300, true);
+//    Goto(L10);
+//L5:
+//    PlayCutsceneToPlayer(60420004, CutscenePlayMode.SkippableWithFadeOutSkip, 10000);
+//    WaitFixedTimeRealFrames(1);
+//    IssueShortWarpRequest(10000, TargetEntityType.Area, 1044352980, -1);
+//    SetCameraAngle(5, -144.18);
+//    ChangeWeather(Weather.Default, 300, true);
+//    Goto(L10);
+//L6:
+//    PlayCutsceneToPlayer(60420005, CutscenePlayMode.SkippableWithFadeOutSkip, 10000);
+//    WaitFixedTimeRealFrames(1);
+//    IssueShortWarpRequest(10000, TargetEntityType.Area, 1042372980, -1);
+//   SetCameraAngle(4.02, 18.7);
+ //   ChangeWeather(Weather.Default, 300, true);
+//    Goto(L10);
+//L7:
+//    PlayCutsceneToPlayer(60420006, CutscenePlayMode.SkippableWithFadeOutSkip, 10000);
+//    WaitFixedTimeRealFrames(1);
+//    IssueShortWarpRequest(10000, TargetEntityType.Area, 1044342980, -1);
+//    SetCameraAngle(5, 17.42);
+//    ChangeWeather(Weather.Default, 300, true);
+//    Goto(L10);
+//L8:
+//    PlayCutsceneToPlayer(60420007, CutscenePlayMode.SkippableWithFadeOutSkip, 10000);
+//    WaitFixedTimeRealFrames(1);
+//    IssueShortWarpRequest(10000, TargetEntityType.Area, 1043352980, -1);
+//    SetCameraAngle(5, -126.77);
+//    ChangeWeather(Weather.Default, 300, true);
+//    Goto(L10);
+//L10:
+//    SetEventFlagID(9001, OFF);
+//});
 
 // 娘マリカとの出会い_解放トリガー監視_XX -- Encounter with daughter Marika_Release trigger monitoring_XX
 $Event(960, Default, function(eventFlagId) {
@@ -9229,9 +9515,1967 @@ $Event(9950, Default, function(eventFlagId, eventFlagId2) {
 $Event(99992, Default, function() {
     EndIf(!PlayerIsInOwnWorld());
     EndIf(EventFlag(99990));
-    
-    WarpPlayer(11, 10, 0, 0, 99991, 10000);
-    
     SetEventFlagID(99990, ON);
+
+    DirectlyGivePlayerItem(ItemType.Goods, 130, 99990, 1);
+    SetEventFlagID(4680, ON);
+
+    DirectlyGivePlayerItem(ItemType.Goods, 1001, 99990, 1);
+    DirectlyGivePlayerItem(ItemType.Goods, 1001, 99990, 1);
+    DirectlyGivePlayerItem(ItemType.Goods, 1001, 99990, 1);
+    DirectlyGivePlayerItem(ItemType.Goods, 1051, 99990, 1);
+    
+    // Talisman Pouches
+    DirectlyGivePlayerItem(ItemType.Goods, 10040, 99990, 1);
+    DirectlyGivePlayerItem(ItemType.Goods, 10040, 99990, 1);
+    DirectlyGivePlayerItem(ItemType.Goods, 10040, 99990, 1);
+    DirectlyGivePlayerItem(ItemType.Goods, 10040, 99990, 1);
+
+    SetEventFlagID(104, ON);
+    // SetEventFlagID(105, ON);
+    // WarpPlayer(11, 10, 0, 0, 11100980, 61000);
+    EndEvent();
+});
+
+
+
+// Progression Grace events
+$Event(11120300, Restart, function() { EndIf(EventFlag(71271)); WaitFor(EventFlag(1252380800)); SetEventFlagID(71271, ON); EndEvent(); }); // Starscourge Radahn -> Nokron
+$Event(11120301, Restart, function() { EndIf(EventFlag(76250)); WaitFor(EventFlag(12040800)); SetEventFlagID(76250, ON); EndEvent(); }); // Astel -> Moonlight Altar
+$Event(11120302, Restart, function() { EndIf(EventFlag(71307)); WaitFor(EventFlag(1052520800)); SetEventFlagID(71307, ON); EndEvent(); }); //Fire Giant - Dragon Temple Transept
+$Event(11120303, Restart, function() { EndIf(EventFlag(71504)); WaitFor(EventFlag(15000850)); SetEventFlagID(71504, ON); EndEvent(); }); // Loretta - Haligtree Roots
+$Event(11120304, Restart, function() { EndIf(EventFlag(76862)); WaitFor(EventFlag(2052430800)); SetEventFlagID(76862, ON); EndEvent(); }); // Jori -> Manse Hall
+
+// 2 Remembrance Events
+$Event(11120000, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(10000800) && EventFlag(11050800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120001, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(10000800) && EventFlag(12030850));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120002, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(10000800) && EventFlag(12040800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120003, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(10000800) && EventFlag(12050800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120004, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(10000800) && EventFlag(12090800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120005, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(10000800) && EventFlag(13000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120006, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(10000800) && EventFlag(13000830));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120007, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(10000800) && EventFlag(14000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120008, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(10000800) && EventFlag(15000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120009, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(10000800) && EventFlag(16000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120010, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(10000800) && EventFlag(19000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120011, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(10000800) && EventFlag(21010800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120012, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(10000800) && EventFlag(22000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120013, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(10000800) && EventFlag(25000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120014, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(10000800) && EventFlag(1252380800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120015, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(10000800) && EventFlag(28000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120016, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(10000800) && EventFlag(2046460800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120017, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(10000800) && EventFlag(1052520800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120018, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(10000800) && EventFlag(2048440800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120019, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(10000800) && EventFlag(2050480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120020, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(10000800) && EventFlag(2049480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120021, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(10000800) && EventFlag(2054390800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120022, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(10000800) && EventFlag(2044450800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120023, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(11050800) && EventFlag(12030850));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120024, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(11050800) && EventFlag(12040800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120025, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(11050800) && EventFlag(12050800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120026, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(11050800) && EventFlag(12090800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120027, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(11050800) && EventFlag(13000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120028, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(11050800) && EventFlag(13000830));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120029, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(11050800) && EventFlag(14000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120030, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(11050800) && EventFlag(15000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120031, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(11050800) && EventFlag(16000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120032, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(11050800) && EventFlag(19000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120033, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(11050800) && EventFlag(21010800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120034, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(11050800) && EventFlag(22000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120035, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(11050800) && EventFlag(25000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120036, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(11050800) && EventFlag(1252380800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120037, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(11050800) && EventFlag(28000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120038, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(11050800) && EventFlag(2046460800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120039, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(11050800) && EventFlag(1052520800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120040, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(11050800) && EventFlag(2048440800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120041, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(11050800) && EventFlag(2050480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120042, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(11050800) && EventFlag(2049480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120043, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(11050800) && EventFlag(2054390800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120044, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(11050800) && EventFlag(2044450800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120045, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12030850) && EventFlag(12040800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120046, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12030850) && EventFlag(12050800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120047, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12030850) && EventFlag(12090800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120048, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12030850) && EventFlag(13000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120049, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12030850) && EventFlag(13000830));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120050, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12030850) && EventFlag(14000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120051, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12030850) && EventFlag(15000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120052, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12030850) && EventFlag(16000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120053, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12030850) && EventFlag(19000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120054, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12030850) && EventFlag(21010800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120055, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12030850) && EventFlag(22000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120056, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12030850) && EventFlag(25000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120057, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12030850) && EventFlag(1252380800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120058, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12030850) && EventFlag(28000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120059, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12030850) && EventFlag(2046460800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120060, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12030850) && EventFlag(1052520800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120061, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12030850) && EventFlag(2048440800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120062, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12030850) && EventFlag(2050480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120063, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12030850) && EventFlag(2049480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120064, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12030850) && EventFlag(2054390800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120065, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12030850) && EventFlag(2044450800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120066, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12040800) && EventFlag(12050800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120067, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12040800) && EventFlag(12090800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120068, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12040800) && EventFlag(13000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120069, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12040800) && EventFlag(13000830));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120070, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12040800) && EventFlag(14000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120071, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12040800) && EventFlag(15000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120072, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12040800) && EventFlag(16000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120073, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12040800) && EventFlag(19000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120074, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12040800) && EventFlag(21010800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120075, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12040800) && EventFlag(22000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120076, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12040800) && EventFlag(25000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120077, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12040800) && EventFlag(1252380800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120078, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12040800) && EventFlag(28000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120079, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12040800) && EventFlag(2046460800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120080, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12040800) && EventFlag(1052520800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120081, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12040800) && EventFlag(2048440800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120082, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12040800) && EventFlag(2050480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120083, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12040800) && EventFlag(2049480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120084, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12040800) && EventFlag(2054390800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120085, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12040800) && EventFlag(2044450800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120086, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12050800) && EventFlag(12090800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120087, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12050800) && EventFlag(13000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120088, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12050800) && EventFlag(13000830));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120089, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12050800) && EventFlag(14000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120090, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12050800) && EventFlag(15000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120091, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12050800) && EventFlag(16000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120092, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12050800) && EventFlag(19000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120093, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12050800) && EventFlag(21010800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120094, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12050800) && EventFlag(22000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120095, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12050800) && EventFlag(25000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120096, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12050800) && EventFlag(1252380800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120097, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12050800) && EventFlag(28000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120098, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12050800) && EventFlag(2046460800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120099, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12050800) && EventFlag(1052520800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120100, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12050800) && EventFlag(2048440800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120101, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12050800) && EventFlag(2050480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120102, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12050800) && EventFlag(2049480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120103, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12050800) && EventFlag(2054390800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120104, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12050800) && EventFlag(2044450800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120105, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12090800) && EventFlag(13000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120106, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12090800) && EventFlag(13000830));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120107, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12090800) && EventFlag(14000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120108, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12090800) && EventFlag(15000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120109, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12090800) && EventFlag(16000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120110, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12090800) && EventFlag(19000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120111, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12090800) && EventFlag(21010800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120112, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12090800) && EventFlag(22000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120113, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12090800) && EventFlag(25000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120114, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12090800) && EventFlag(1252380800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120115, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12090800) && EventFlag(28000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120116, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12090800) && EventFlag(2046460800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120117, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12090800) && EventFlag(1052520800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120118, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12090800) && EventFlag(2048440800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120119, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12090800) && EventFlag(2050480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120120, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12090800) && EventFlag(2049480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120121, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12090800) && EventFlag(2054390800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120122, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(12090800) && EventFlag(2044450800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120123, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(13000800) && EventFlag(13000830));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120124, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(13000800) && EventFlag(14000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120125, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(13000800) && EventFlag(15000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120126, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(13000800) && EventFlag(16000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120127, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(13000800) && EventFlag(19000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120128, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(13000800) && EventFlag(21010800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120129, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(13000800) && EventFlag(22000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120130, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(13000800) && EventFlag(25000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120131, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(13000800) && EventFlag(1252380800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120132, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(13000800) && EventFlag(28000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120133, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(13000800) && EventFlag(2046460800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120134, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(13000800) && EventFlag(1052520800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120135, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(13000800) && EventFlag(2048440800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120136, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(13000800) && EventFlag(2050480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120137, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(13000800) && EventFlag(2049480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120138, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(13000800) && EventFlag(2054390800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120139, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(13000800) && EventFlag(2044450800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120140, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(13000830) && EventFlag(14000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120141, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(13000830) && EventFlag(15000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120142, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(13000830) && EventFlag(16000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120143, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(13000830) && EventFlag(19000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120144, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(13000830) && EventFlag(21010800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120145, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(13000830) && EventFlag(22000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120146, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(13000830) && EventFlag(25000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120147, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(13000830) && EventFlag(1252380800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120148, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(13000830) && EventFlag(28000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120149, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(13000830) && EventFlag(2046460800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120150, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(13000830) && EventFlag(1052520800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120151, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(13000830) && EventFlag(2048440800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120152, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(13000830) && EventFlag(2050480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120153, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(13000830) && EventFlag(2049480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120154, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(13000830) && EventFlag(2054390800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120155, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(13000830) && EventFlag(2044450800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120156, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(14000800) && EventFlag(15000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120157, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(14000800) && EventFlag(16000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120158, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(14000800) && EventFlag(19000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120159, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(14000800) && EventFlag(21010800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120160, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(14000800) && EventFlag(22000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120161, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(14000800) && EventFlag(25000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120162, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(14000800) && EventFlag(1252380800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120163, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(14000800) && EventFlag(28000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120164, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(14000800) && EventFlag(2046460800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120165, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(14000800) && EventFlag(1052520800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120166, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(14000800) && EventFlag(2048440800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120167, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(14000800) && EventFlag(2050480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120168, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(14000800) && EventFlag(2049480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120169, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(14000800) && EventFlag(2054390800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120170, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(14000800) && EventFlag(2044450800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120171, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(15000800) && EventFlag(16000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120172, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(15000800) && EventFlag(19000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120173, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(15000800) && EventFlag(21010800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120174, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(15000800) && EventFlag(22000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120175, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(15000800) && EventFlag(25000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120176, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(15000800) && EventFlag(1252380800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120177, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(15000800) && EventFlag(28000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120178, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(15000800) && EventFlag(2046460800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120179, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(15000800) && EventFlag(1052520800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120180, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(15000800) && EventFlag(2048440800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120181, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(15000800) && EventFlag(2050480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120182, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(15000800) && EventFlag(2049480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120183, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(15000800) && EventFlag(2054390800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120184, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(15000800) && EventFlag(2044450800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120185, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(16000800) && EventFlag(19000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120186, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(16000800) && EventFlag(21010800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120187, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(16000800) && EventFlag(22000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120188, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(16000800) && EventFlag(25000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120189, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(16000800) && EventFlag(1252380800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120190, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(16000800) && EventFlag(28000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120191, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(16000800) && EventFlag(2046460800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120192, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(16000800) && EventFlag(1052520800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120193, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(16000800) && EventFlag(2048440800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120194, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(16000800) && EventFlag(2050480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120195, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(16000800) && EventFlag(2049480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120196, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(16000800) && EventFlag(2054390800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120197, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(16000800) && EventFlag(2044450800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120198, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(19000800) && EventFlag(21010800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120199, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(19000800) && EventFlag(22000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120200, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(19000800) && EventFlag(25000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120201, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(19000800) && EventFlag(1252380800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120202, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(19000800) && EventFlag(28000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120203, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(19000800) && EventFlag(2046460800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120204, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(19000800) && EventFlag(1052520800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120205, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(19000800) && EventFlag(2048440800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120206, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(19000800) && EventFlag(2050480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120207, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(19000800) && EventFlag(2049480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120208, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(19000800) && EventFlag(2054390800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120209, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(19000800) && EventFlag(2044450800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120210, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(21010800) && EventFlag(22000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120211, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(21010800) && EventFlag(25000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120212, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(21010800) && EventFlag(1252380800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120213, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(21010800) && EventFlag(28000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120214, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(21010800) && EventFlag(2046460800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120215, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(21010800) && EventFlag(1052520800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120216, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(21010800) && EventFlag(2048440800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120217, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(21010800) && EventFlag(2050480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120218, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(21010800) && EventFlag(2049480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120219, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(21010800) && EventFlag(2054390800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120220, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(21010800) && EventFlag(2044450800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120221, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(22000800) && EventFlag(25000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120222, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(22000800) && EventFlag(1252380800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120223, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(22000800) && EventFlag(28000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120224, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(22000800) && EventFlag(2046460800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120225, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(22000800) && EventFlag(1052520800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120226, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(22000800) && EventFlag(2048440800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120227, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(22000800) && EventFlag(2050480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120228, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(22000800) && EventFlag(2049480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120229, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(22000800) && EventFlag(2054390800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120230, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(22000800) && EventFlag(2044450800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120231, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(25000800) && EventFlag(1252380800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120232, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(25000800) && EventFlag(28000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120233, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(25000800) && EventFlag(2046460800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120234, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(25000800) && EventFlag(1052520800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120235, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(25000800) && EventFlag(2048440800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120236, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(25000800) && EventFlag(2050480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120237, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(25000800) && EventFlag(2049480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120238, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(25000800) && EventFlag(2054390800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120239, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(25000800) && EventFlag(2044450800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120240, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(1252380800) && EventFlag(28000800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120241, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(1252380800) && EventFlag(2046460800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120242, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(1252380800) && EventFlag(1052520800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120243, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(1252380800) && EventFlag(2048440800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120244, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(1252380800) && EventFlag(2050480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120245, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(1252380800) && EventFlag(2049480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120246, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(1252380800) && EventFlag(2054390800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120247, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(1252380800) && EventFlag(2044450800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120248, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(28000800) && EventFlag(2046460800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120249, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(28000800) && EventFlag(1052520800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120250, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(28000800) && EventFlag(2048440800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120251, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(28000800) && EventFlag(2050480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120252, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(28000800) && EventFlag(2049480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120253, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(28000800) && EventFlag(2054390800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120254, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(28000800) && EventFlag(2044450800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120255, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(2046460800) && EventFlag(1052520800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120256, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(2046460800) && EventFlag(2048440800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120257, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(2046460800) && EventFlag(2050480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120258, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(2046460800) && EventFlag(2049480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120259, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(2046460800) && EventFlag(2054390800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120260, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(2046460800) && EventFlag(2044450800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120261, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(1052520800) && EventFlag(2048440800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120262, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(1052520800) && EventFlag(2050480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120263, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(1052520800) && EventFlag(2049480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120264, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(1052520800) && EventFlag(2054390800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120265, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(1052520800) && EventFlag(2044450800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120266, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(2048440800) && EventFlag(2050480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120267, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(2048440800) && EventFlag(2049480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120268, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(2048440800) && EventFlag(2054390800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120269, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(2048440800) && EventFlag(2044450800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120270, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(2050480800) && EventFlag(2049480800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120271, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(2050480800) && EventFlag(2054390800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120272, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(2050480800) && EventFlag(2044450800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120273, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(2049480800) && EventFlag(2054390800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120274, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(2049480800) && EventFlag(2044450800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
+    EndEvent();
+});
+$Event(11120275, Restart, function() {
+    EndIf(EventFlag(71102) && EventFlag(72012));
+    WaitFor(EventFlag(2054390800) && EventFlag(2044450800));
+    SetEventFlagID(71102, ON);
+    SetEventFlagID(72012, ON);
     EndEvent();
 });

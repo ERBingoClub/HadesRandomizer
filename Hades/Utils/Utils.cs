@@ -3,7 +3,9 @@ using System.Reflection;
 using System.Security.Cryptography;
 using System.Text;
 
-public static class Utils
+namespace Hades.Utils;
+
+public static class RandoUtils
 {
     private const string Chars = "ABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
 
@@ -36,5 +38,11 @@ public static class Utils
         var seedInt = BitConverter.ToInt32(hash, 0);
         Random rng = new Random(seedInt);
         return rng.Next(len);
+    }
+
+    public static int GetStableSeed(string seed)
+    {
+        var hash = SHA256.HashData(Encoding.UTF8.GetBytes(seed));
+        return BitConverter.ToInt32(hash, 0);
     }
 }

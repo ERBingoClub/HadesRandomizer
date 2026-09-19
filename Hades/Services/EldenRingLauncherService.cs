@@ -1,6 +1,6 @@
 ﻿// SPDX-License-Identifier: GPL-3.0-only
 using System.Diagnostics;
-using Hades.Config;
+using Hades.Constants;
 
 namespace Hades.Services;
 
@@ -20,7 +20,7 @@ public class EldenRingLauncherService
             {
                 FileName = "cmd.exe",
                 Arguments = $"/c \"\"launch-me3.bat\" \"{path}\"\"",
-                WorkingDirectory = Constants.ModEngineWorkingDirectory,
+                WorkingDirectory = GlobalConstants.ModEngineWorkingDirectory,
                 UseShellExecute = false,
                 CreateNoWindow = true,
             }
@@ -36,7 +36,7 @@ public class EldenRingLauncherService
     //         {
     //             FileName = "cmd.exe",
     //             Arguments = $"/c \"\"launch-me3.bat\" \"{path}\"\"",
-    //             WorkingDirectory = Constants.ModEngineWorkingDirectory,
+    //             WorkingDirectory = GlobalConstants.ModEngineWorkingDirectory,
     //             UseShellExecute = false,
     //             CreateNoWindow = true,
     //             RedirectStandardOutput = true,

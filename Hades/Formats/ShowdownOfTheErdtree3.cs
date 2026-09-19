@@ -2,7 +2,7 @@ using System.IO;
 using System.Security.Cryptography;
 using System.Text;
 using EldenRingParamsEditor;
-using Hades.Config;
+using Hades.Constants;
 using Hades.Services;
 
 namespace Hades.Formats;
@@ -20,43 +20,77 @@ class ShowdownOfTheErdtree3 : IRandomizerFormat
         Action<string>? seedCallback = null
     )
     {
-        if (baseSeed == "")
+        try
         {
-            var seed = Utils.GenerateRandomString();
-            seedCallback?.Invoke(seed);
-            baseSeed = seed;
+            if (baseSeed == "")
+            {
+                var seed = Utils.RandoUtils.GenerateRandomString();
+                seedCallback?.Invoke(seed);
+                baseSeed = seed;
+            }
+
+            statusCallback?.Invoke($"seeding...: {baseSeed}");
+
+            // Formatting seed
+            baseSeed = $"sote3_{baseSeed}_{Utils.RandoUtils.GetVersion()}";
+
+            var regulationFilepath = Path.Combine(
+                GlobalConstants.ModEngineWorkingDirectory,
+                Id,
+                "bingo",
+                "regulation.bin"
+            );
+            if (!File.Exists(regulationFilepath))
+            {
+                var msg = $"regulation.bin not found at {Path.GetFullPath(regulationFilepath)}";
+                statusCallback?.Invoke(msg);
+                System.Windows.MessageBox.Show(
+                    msg,
+                    "SOTE3 Error",
+                    System.Windows.MessageBoxButton.OK,
+                    System.Windows.MessageBoxImage.Error
+                );
+                return;
+            }
+            var swTotal = System.Diagnostics.Stopwatch.StartNew();
+            var editor = ParamsEditor.ReadFromRegulationPath(regulationFilepath);
+
+            // Randomization Logic
+
+            // Shop Talisman
+            var talismanResult = getTalismans(baseSeed);
+            randomizeTalismans(editor, talismanResult);
+
+            // Shop AoW
+            var aowResult = getRandomAoW(baseSeed);
+            randomizeAoW(editor, aowResult);
+
+            // Classes
+            var classResult = ArmorRandomizerService.GetRandomArmoredClasses(
+                baseSeed,
+                ArmorLocation.Base
+            );
+            randomizeClasses(editor, classResult);
+
+            editor.WriteToRegulationPath(regulationFilepath);
+
+            statusCallback?.Invoke("successfully randomized!");
         }
-
-        statusCallback?.Invoke($"seeding...: {baseSeed}");
-
-        // Formatting seed
-        baseSeed = $"sote3_{baseSeed}_{Utils.GetVersion()}";
-
-        var regulationFilepath = Path.Combine(
-            Constants.ModEngineWorkingDirectory,
-            Id,
-            "bingo",
-            "regulation.bin"
-        );
-        var editor = ParamsEditor.ReadFromRegulationPath(regulationFilepath);
-
-        // Randomization Logic
-
-        // Shop Talisman
-        var talismanResult = getTalismans(baseSeed);
-        randomizeTalismans(editor, talismanResult);
-
-        // Shop AoW
-        var aowResult = getRandomAoW(baseSeed);
-        randomizeAoW(editor, aowResult);
-
-        // Classes
-        var classResult = ArmorRandomizerService.GetRandomArmoredClasses(baseSeed, ArmorLocation.Base);
-        randomizeClasses(editor, classResult);
-
-        editor.WriteToRegulationPath(regulationFilepath);
-
-        statusCallback?.Invoke("successfully randomized!");
+        catch (Exception ex)
+        {
+            try
+            {
+                File.AppendAllText("Hades.crash.log", $"[{DateTime.Now}] SOTE3 crash: {ex}\n");
+            }
+            catch { }
+            statusCallback?.Invoke($"crashed: {ex.Message}");
+            System.Windows.MessageBox.Show(
+                $"SOTE3 randomization crashed:\n{ex.Message}\n\nCheck Hades.crash.log",
+                "Hades Crash",
+                System.Windows.MessageBoxButton.OK,
+                System.Windows.MessageBoxImage.Error
+            );
+        }
     }
 
     public void Launch()
@@ -68,22 +102,28 @@ class ShowdownOfTheErdtree3 : IRandomizerFormat
     {
         return new AoWResults
         {
-            amazingAoW = Utils.GetRandomNumber(
+            amazingAoW = Utils.RandoUtils.GetRandomNumber(
                 seed + "_amazing",
                 SOTE3Constants.AmazingAoW.Count()
             ),
-            goodAoW = Utils.GetRandomNumber(seed + "_good", SOTE3Constants.GoodAoW.Count()),
-            weakAoW = Utils.GetRandomNumber(seed + "_weak", SOTE3Constants.WeakAoW.Count()),
+            goodAoW = Utils.RandoUtils.GetRandomNumber(
+                seed + "_good",
+                SOTE3Constants.GoodAoW.Count()
+            ),
+            weakAoW = Utils.RandoUtils.GetRandomNumber(
+                seed + "_weak",
+                SOTE3Constants.WeakAoW.Count()
+            ),
         };
     }
 
     private TalismanResults getTalismans(string seed)
     {
-        var fillerTali_1 = Utils.GetRandomNumber(
+        var fillerTali_1 = Utils.RandoUtils.GetRandomNumber(
             seed + "_filler1",
             SOTE3Constants.FillerTalismans.Count()
         );
-        var fillerTali_2 = Utils.GetRandomNumber(
+        var fillerTali_2 = Utils.RandoUtils.GetRandomNumber(
             seed + "_filler2",
             SOTE3Constants.FillerTalismans.Count()
         );
@@ -95,11 +135,11 @@ class ShowdownOfTheErdtree3 : IRandomizerFormat
                 fillerTali_2++;
         }
 
-        var goodTali_1 = Utils.GetRandomNumber(
+        var goodTali_1 = Utils.RandoUtils.GetRandomNumber(
             seed + "_good1",
             SOTE3Constants.GoodTalismans.Count()
         );
-        var goodTali_2 = Utils.GetRandomNumber(
+        var goodTali_2 = Utils.RandoUtils.GetRandomNumber(
             seed + "_good2",
             SOTE3Constants.GoodTalismans.Count()
         );
@@ -138,15 +178,15 @@ class ShowdownOfTheErdtree3 : IRandomizerFormat
 
     private void randomizeClasses(ParamsEditor editor, ClassArmorResults results)
     {
-        randomizeClass(editor, Constants.CharaInitClassMap["Vagabond"], results.Vagabond);
-        randomizeClass(editor, Constants.CharaInitClassMap["Warrior"], results.Warrior);
-        randomizeClass(editor, Constants.CharaInitClassMap["Hero"], results.Hero);
-        randomizeClass(editor, Constants.CharaInitClassMap["Astrologer"], results.Astrologer);
-        randomizeClass(editor, Constants.CharaInitClassMap["Prophet"], results.Prophet);
-        randomizeClass(editor, Constants.CharaInitClassMap["Confessor"], results.Confessor);
-        randomizeClass(editor, Constants.CharaInitClassMap["Bandit"], results.Bandit);
-        randomizeClass(editor, Constants.CharaInitClassMap["Samurai"], results.Samurai);
-        randomizeClass(editor, Constants.CharaInitClassMap["Prisoner"], results.Prisoner);
+        randomizeClass(editor, GlobalConstants.CharaInitClassMap["Vagabond"], results.Vagabond);
+        randomizeClass(editor, GlobalConstants.CharaInitClassMap["Warrior"], results.Warrior);
+        randomizeClass(editor, GlobalConstants.CharaInitClassMap["Hero"], results.Hero);
+        randomizeClass(editor, GlobalConstants.CharaInitClassMap["Astrologer"], results.Astrologer);
+        randomizeClass(editor, GlobalConstants.CharaInitClassMap["Prophet"], results.Prophet);
+        randomizeClass(editor, GlobalConstants.CharaInitClassMap["Confessor"], results.Confessor);
+        randomizeClass(editor, GlobalConstants.CharaInitClassMap["Bandit"], results.Bandit);
+        randomizeClass(editor, GlobalConstants.CharaInitClassMap["Samurai"], results.Samurai);
+        randomizeClass(editor, GlobalConstants.CharaInitClassMap["Prisoner"], results.Prisoner);
     }
 
     private void randomizeClass(ParamsEditor editor, int classId, ArmorResults result)
