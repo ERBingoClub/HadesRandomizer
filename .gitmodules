@@ -1,6 +1,3 @@
 [submodule "dependencies/UniversalReplacementRandomizer"]
 	path = dependencies/UniversalReplacementRandomizer
 	url = https://github.com/ignitesouls/UniversalReplacementRandomizer.git
-[submodule "dependencies/EldenRingParamsEditor"]
-	path = dependencies/EldenRingParamsEditor
-	url = https://github.com/ignitesouls/EldenRingParamsEditor.git
