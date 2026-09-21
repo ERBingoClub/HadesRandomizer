@@ -1,0 +1,41 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <TargetFramework>net10.0-windows</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\..\Andre\Andre.Formats\Andre.Formats.csproj" />
+    <ProjectReference Include="..\..\Andre\SoulsFormats\SoulsFormats\SoulsFormats.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Content Include="Resources\ParamDefs\**\*.*">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>Always</CopyToPublishDirectory>
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+    </Content>
+    <Content Include="Resources\Metadata\**\*.*">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <CopyToPublishDirectory>Always</CopyToPublishDirectory>
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+    </Content>
+  </ItemGroup>
+
+  <!--<ItemGroup>
+	<None Remove="Resources\ParamDefs\ItemLotParam.xml" />
+	<EmbeddedResource Include="Resources\ParamDefs\ItemLotParam.xml" />
+	<None Remove="Resources\ParamDefs\ShopLineupParam.xml" />
+	<EmbeddedResource Include="Resources\ParamDefs\ShopLineupParam.xml" />
+	<None Remove="Resources\ParamDefs\CharaInitParam.xml" />
+	<EmbeddedResource Include="Resources\ParamDefs\CharaInitParam.xml" />
+	<None Remove="Resources\ParamDefs\EquipParamWeapon.xml" />
+	<EmbeddedResource Include="Resources\ParamDefs\EquipParamWeapon.xml" />
+	<None Remove="Resources\ParamDefs\GameSystemCommonParam.xml" />
+	<EmbeddedResource Include="Resources\ParamDefs\GameSystemCommonParam.xml" />
+	<None Remove="Resources\Metadata\WeaponIdToItemLotIdsMap.json" />
+	<EmbeddedResource Include="Resources\Metadata\WeaponIdToItemLotIdsMap.json" />
+  </ItemGroup>-->
+
+</Project>
