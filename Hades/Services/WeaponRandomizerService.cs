@@ -31,6 +31,7 @@ public static class WeaponRandomizerService
         {
             foreach (var location in locations)
             {
+                if (location.ID == 16000690) continue;
                 foreach (int itemSlot in location.LotItems)
                 {
                     editor.SetItemLotMapLotItemId(location.ID, itemSlot, replacementId);

@@ -33,7 +33,7 @@ class TwoWorldsCollide : IRandomizerFormat
             statusCallback?.Invoke($"seeding...: {baseSeed}");
 
             // Formatting seed
-            baseSeed = $"sote3_{baseSeed}_{Utils.RandoUtils.GetVersion()}";
+            baseSeed = $"twc_{baseSeed}";
 
             var regulationFilepath = Path.Combine(
                 GlobalConstants.ModEngineWorkingDirectory,
