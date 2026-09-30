@@ -599,6 +599,20 @@ public static class Weapons
             WeaponLocation.Base,
             WeaponUpgrade.Somber
         ),
+        new(
+            3560000,
+            "Leontiels Greatsword",
+            WeaponCategory.Greatsword,
+            WeaponLocation.Base,
+            WeaponUpgrade.Smithing
+        ),
+        new(
+            67530000,
+            "Idus Sword",
+            WeaponCategory.Greatsword,
+            WeaponLocation.Base,
+            WeaponUpgrade.Smithing
+        ),
         // Colossal Swords
         new(
             4500000,
@@ -835,6 +849,13 @@ public static class Weapons
             WeaponLocation.Base,
             WeaponUpgrade.Somber
         ),
+        new(
+            64530000,
+            "Reverse-Bladed Sword",
+            WeaponCategory.CurvedSword,
+            WeaponLocation.Base,
+            WeaponUpgrade.Smithing
+        ),
         // Curved Greatswords
         new(
             8520000,
@@ -877,6 +898,13 @@ public static class Weapons
             WeaponCategory.CurvedGreatsword,
             WeaponLocation.Base,
             WeaponUpgrade.Somber
+        ),
+        new(
+            8530000,
+            "Hefty Scimitar",
+            WeaponCategory.CurvedGreatsword,
+            WeaponLocation.Base,
+            WeaponUpgrade.Smithing
         ),
         // Katanas & Great Katanas
         new(
@@ -956,6 +984,13 @@ public static class Weapons
             WeaponCategory.Katana,
             WeaponLocation.Base,
             WeaponUpgrade.Somber
+        ),
+        new(
+            66530000,
+            "Reed's Great Katana",
+            WeaponCategory.Katana,
+            WeaponLocation.Base,
+            WeaponUpgrade.Smithing
         ),
         // Twinblades
         new(
@@ -1285,6 +1320,13 @@ public static class Weapons
         new(
             13020000,
             "Family Heads",
+            WeaponCategory.Flail,
+            WeaponLocation.Base,
+            WeaponUpgrade.Somber
+        ),
+        new(
+            13510000,
+            "Golden Order Flail",
             WeaponCategory.Flail,
             WeaponLocation.Base,
             WeaponUpgrade.Somber
@@ -2062,7 +2104,7 @@ public static class Weapons
             62520000,
             "Ritual Thrusting Shield",
             WeaponCategory.MediumShield,
-            WeaponLocation.Dlc,
+            WeaponLocation.Base,
             WeaponUpgrade.Smithing
         ),
         new(

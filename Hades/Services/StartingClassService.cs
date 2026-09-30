@@ -21,6 +21,8 @@ public static class StartingClassService
         "Samurai",
         "Prisoner",
         "Wretch",
+        "Heavy Knight",
+        "Idus Knight",
     };
 
     public static void RandomizeAllStartingWeapons(ParamsEditor editor, string seed)
@@ -104,6 +106,8 @@ public static class StartingClassService
                 continue;
             menuEditor.SetClassDescription(i, string.Join(", ", descs));
         }
+        for (int i = 10; i < ParamsEditor.TotalStartingClasses && i < ClassNames.Length; i++)
+            menuEditor.SetClassName(i, ClassNames[i]);
         menuEditor.WriteToMenuBndFilePath(menuOut);
     }
 

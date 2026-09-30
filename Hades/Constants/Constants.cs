@@ -21,5 +21,7 @@ internal partial class GlobalConstants
         ["Samurai"] = 3007,
         ["Prisoner"] = 3008,
         ["Wretch"] = 3009,
+        ["Heavy Knight"] = 3010,
+        ["Idus Knight"] = 3011,
     };
 }
