@@ -21,6 +21,9 @@ public struct ClassArmorResults
     public ArmorResults Samurai;
     public ArmorResults Prisoner;
     public ArmorResults Prophet;
+    public ArmorResults Wretch;
+    public ArmorResults HeavyKnight;
+    public ArmorResults IdusKnight;
 }
 
 public static class ArmorRandomizerService
@@ -38,6 +41,9 @@ public static class ArmorRandomizerService
             Confessor = GetRandomArmor(seed + "_confessor", locn),
             Samurai = GetRandomArmor(seed + "_samurai", locn),
             Bandit = GetRandomArmor(seed + "_bandit", locn),
+            Wretch = GetRandomArmor(seed + "_wretch", locn),
+            HeavyKnight = GetRandomArmor(seed + "_heavyknight", locn),
+            IdusKnight = GetRandomArmor(seed + "_idusknight", locn),
         };
     }
 

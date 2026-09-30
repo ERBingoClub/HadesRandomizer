@@ -261,6 +261,9 @@ class TwoWorldsCollide : IRandomizerFormat
         randomizeClass(editor, GlobalConstants.CharaInitClassMap["Bandit"], results.Bandit);
         randomizeClass(editor, GlobalConstants.CharaInitClassMap["Samurai"], results.Samurai);
         randomizeClass(editor, GlobalConstants.CharaInitClassMap["Prisoner"], results.Prisoner);
+        randomizeClass(editor, GlobalConstants.CharaInitClassMap["Wretch"], results.Wretch);
+        randomizeClass(editor, GlobalConstants.CharaInitClassMap["Heavy Knight"], results.HeavyKnight);
+        randomizeClass(editor, GlobalConstants.CharaInitClassMap["Idus Knight"], results.IdusKnight);
     }
 
     private void randomizeClass(ParamsEditor editor, int classId, ArmorResults result)
