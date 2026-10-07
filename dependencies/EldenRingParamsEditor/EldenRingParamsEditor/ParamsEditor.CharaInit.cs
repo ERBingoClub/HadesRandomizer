@@ -261,6 +261,11 @@ public partial class ParamsEditor
     public byte GetInitialFaith(int charaInitId) => (byte)GetValueAtCell(CharaInit, _idToRowIndexCharaInit, charaInitId, ColIndexFaith);
     public byte GetInitialArcane(int charaInitId) => (byte)GetValueAtCell(CharaInit, _idToRowIndexCharaInit, charaInitId, ColIndexArcane);
 
+    public int GetInitialEquipHelm(int charaInitId) => (int)GetValueAtCell(CharaInit, _idToRowIndexCharaInit, charaInitId, ColIndexEquipHelm);
+    public int GetInitialEquipTorso(int charaInitId) => (int)GetValueAtCell(CharaInit, _idToRowIndexCharaInit, charaInitId, ColIndexEquipTorso);
+    public int GetInitialEquipArm(int charaInitId) => (int)GetValueAtCell(CharaInit, _idToRowIndexCharaInit, charaInitId, ColIndexEquipArm);
+    public int GetInitialEquipLeg(int charaInitId) => (int)GetValueAtCell(CharaInit, _idToRowIndexCharaInit, charaInitId, ColIndexEquipLeg);
+
     public int GetInitialEquipWepRight(int charaInitId, int weaponEquipSlot)
     {
         int colIndex;

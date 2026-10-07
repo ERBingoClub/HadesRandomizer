@@ -229,24 +229,21 @@ class TwoWorldsCollide : IRandomizerFormat
 
     public int StatRandomizer(string seed)
     {
-        var isExtreme = Utils.RandoUtils.GetRandomNumber(seed + "_extremity", 10) >= 7;
-        if (isExtreme)
+        const double mean = 15.0;
+        const double stdDev = 5.0;
+
+        for (var attempt = 0; ; attempt++)
         {
-            // stat to be between [8,10] U [21,23]
-            var stat = Utils.RandoUtils.GetRandomNumber(seed + "_stat", 6);
-            if (stat < 3)
-            {
-                return 8 + stat;
-            }
-            else
-            {
-                return 21 + stat - 3;
-            }
-        }
-        else
-        {
-            // Higher weight to a stat between [11,20]
-            return Utils.RandoUtils.GetRandomNumber(seed + "_stat", 10) + 11;
+            var s = seed + "_stat" + attempt;
+
+            var u1 = (Utils.RandoUtils.GetRandomNumber(s + "_u1", 10000) + 1) / 10001.0;
+            var u2 = Utils.RandoUtils.GetRandomNumber(s + "_u2", 10000) / 10000.0;
+
+            var z = Math.Sqrt(-2.0 * Math.Log(u1)) * Math.Cos(2.0 * Math.PI * u2);
+            var stat = (int)Math.Round(mean + stdDev * z);
+
+            if (stat >= 8 && stat <= 23)
+                return stat;
         }
     }
 
@@ -262,8 +259,16 @@ class TwoWorldsCollide : IRandomizerFormat
         randomizeClass(editor, GlobalConstants.CharaInitClassMap["Samurai"], results.Samurai);
         randomizeClass(editor, GlobalConstants.CharaInitClassMap["Prisoner"], results.Prisoner);
         randomizeClass(editor, GlobalConstants.CharaInitClassMap["Wretch"], results.Wretch);
-        randomizeClass(editor, GlobalConstants.CharaInitClassMap["Heavy Knight"], results.HeavyKnight);
-        randomizeClass(editor, GlobalConstants.CharaInitClassMap["Idus Knight"], results.IdusKnight);
+        randomizeClass(
+            editor,
+            GlobalConstants.CharaInitClassMap["Heavy Knight"],
+            results.HeavyKnight
+        );
+        randomizeClass(
+            editor,
+            GlobalConstants.CharaInitClassMap["Idus Knight"],
+            results.IdusKnight
+        );
     }
 
     private void randomizeClass(ParamsEditor editor, int classId, ArmorResults result)
