@@ -37,7 +37,6 @@ public static class StartingClassService
     {
         RandomizeAllStartingWeapons(editor, seed);
         MenuBndEditorService? menuEditor = null;
-        // TWC: ModEngineWorkingDirectory/twc/bingo/msg/engus/... (mirrors sote3/bingo/msg/engus/... which exists)
         var candidates = new[]
         {
             Path.Combine(
@@ -92,7 +91,7 @@ public static class StartingClassService
                 editor.GetInitialEquipWepLeft(charaInitId, 0),
                 editor.GetInitialEquipWepLeft2(charaInitId),
             };
-            int[] buffed = GetClassStats(editor, charaInitId);
+            int[] buffed = GetBuffedStats(editor, charaInitId);
             var descs = new System.Collections.Generic.List<string>();
             foreach (int wep in wepIds)
             {
@@ -157,6 +156,51 @@ public static class StartingClassService
         };
     }
 
+    public static int[] GetBuffedStats(ParamsEditor editor, int charaInitId)
+    {
+        // Str-first order to match GetWeaponDescriptionWithDeficit (j = 0..4).
+        int[] stats =
+        {
+            (int)editor.GetInitialStrength(charaInitId),
+            (int)editor.GetInitialDexterity(charaInitId),
+            (int)editor.GetInitialIntelligence(charaInitId),
+            (int)editor.GetInitialFaith(charaInitId),
+            (int)editor.GetInitialArcane(charaInitId),
+        };
+        int[] armorIds =
+        {
+            editor.GetInitialEquipHelm(charaInitId),
+            editor.GetInitialEquipTorso(charaInitId),
+            editor.GetInitialEquipArm(charaInitId),
+            editor.GetInitialEquipLeg(charaInitId),
+        };
+        foreach (int armorId in armorIds)
+        {
+            if (armorId <= 0)
+                continue;
+            int spEffectId;
+            try
+            {
+                spEffectId = editor.GetEquipProtectorResidentSpEffectId(armorId);
+            }
+            catch
+            {
+                continue;
+            }
+            if (spEffectId == -1)
+                continue;
+            for (int j = 0; j < 5; j++)
+            {
+                try
+                {
+                    stats[j] += editor.GetSpEffectAddStat(spEffectId, j + 3);
+                }
+                catch { }
+            }
+        }
+        return stats;
+    }
+
     public static int GetRandomStartingWeapon(int weaponId, string seed)
     {
         if (weaponId == -1)
@@ -189,22 +233,44 @@ public static class StartingClassService
 
     public static void RandomizeStats(ParamsEditor editor, string seed, Func<string, int> getStat)
     {
+        string[] keys = { "vigor", "mind", "end", "str", "dex", "int", "fai", "arc" };
+        const int totalPoints = 120;
+
         foreach (var className in ClassNames)
         {
             int charaInitId = GlobalConstants.CharaInitClassMap[className];
+            var stats = new int[keys.Length];
 
-            editor.SetInitialVigor(charaInitId, (byte)getStat(seed + $"_{className}" + "_vigor"));
-            editor.SetInitialMind(charaInitId, (byte)getStat(seed + $"_{className}" + "_mind"));
-            editor.SetInitialEndurance(charaInitId, (byte)getStat(seed + $"_{className}" + "_end"));
-            editor.SetInitialStrength(charaInitId, (byte)getStat(seed + $"_{className}" + "_str"));
-            editor.SetInitialDexterity(charaInitId, (byte)getStat(seed + $"_{className}" + "_dex"));
-            editor.SetInitialIntelligence(
-                charaInitId,
-                (byte)getStat(seed + $"_{className}" + "_int")
-            );
-            editor.SetInitialFaith(charaInitId, (byte)getStat(seed + $"_{className}" + "_fai"));
-            editor.SetInitialArcane(charaInitId, (byte)getStat(seed + $"_{className}" + "_arc"));
+            for (var attempt = 0; ; attempt++)
+            {
+                var sum = 0;
+                for (var i = 0; i < keys.Length; i++)
+                {
+                    stats[i] = getStat($"{seed}_{className}_{keys[i]}_{attempt}");
+                    sum += stats[i];
+                }
+                if (sum == totalPoints)
+                    break;
+            }
+
+            editor.SetInitialVigor(charaInitId, (byte)(stats[0] + 5));
+            editor.SetInitialMind(charaInitId, (byte)(stats[1] - 5));
+            editor.SetInitialEndurance(charaInitId, (byte)stats[2]);
+            editor.SetInitialStrength(charaInitId, (byte)stats[3]);
+            editor.SetInitialDexterity(charaInitId, (byte)stats[4]);
+            editor.SetInitialIntelligence(charaInitId, (byte)stats[5]);
+            editor.SetInitialFaith(charaInitId, (byte)stats[6]);
+            editor.SetInitialArcane(charaInitId, (byte)stats[7]);
         }
+    }
+
+    private static readonly System.Collections.Generic.HashSet<WeaponCategory> NoTwoHandBonusCategories =
+        new() { WeaponCategory.Claw, WeaponCategory.Fist };
+
+    private static bool AppliesTwoHandBonus(int weaponId)
+    {
+        var entry = Weapons.AllWeapons.FirstOrDefault(w => w.Id == weaponId);
+        return entry.Id == 0 || !NoTwoHandBonusCategories.Contains(entry.Category);
     }
 
     public static string GetWeaponDescriptionWithDeficit(
@@ -228,7 +294,7 @@ public static class StartingClassService
             }
             if (req == 0)
                 continue;
-            if (j == 0)
+            if (j == 0 && AppliesTwoHandBonus(weaponId))
             {
                 int num = req * 2;
                 req = num % 3 > 0 ? num / 3 + 1 : num / 3;
