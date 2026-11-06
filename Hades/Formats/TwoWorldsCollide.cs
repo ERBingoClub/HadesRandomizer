@@ -1,7 +1,4 @@
 using System.IO;
-using System.Linq;
-using System.Security.Cryptography;
-using System.Text;
 using EldenRingParamsEditor;
 using Hades.Constants;
 using Hades.Services;
@@ -18,169 +15,147 @@ class TwoWorldsCollide : IRandomizerFormat
     public void Exec(
         string baseSeed,
         Action<string>? statusCallback = null,
-        Action<string>? seedCallback = null
+        Action<string>? seedCallback = null,
+        IRandomizerOptions? options = null
     )
     {
-        try
+
+        if (baseSeed == "")
         {
-            if (baseSeed == "")
-            {
-                var seed = Utils.RandoUtils.GenerateRandomString();
-                seedCallback?.Invoke(seed);
-                baseSeed = seed;
-            }
+            var seed = Utils.RandoUtils.GenerateRandomString();
+            seedCallback?.Invoke(seed);
+            baseSeed = seed;
+        }
 
-            statusCallback?.Invoke($"seeding...: {baseSeed}");
+        statusCallback?.Invoke($"seeding...: {baseSeed}");
 
-            // Formatting seed
-            baseSeed = $"twc_{baseSeed}";
+        // Formatting seed
+        baseSeed = $"twc_{baseSeed}";
 
-            var regulationFilepath = Path.Combine(
-                GlobalConstants.ModEngineWorkingDirectory,
-                Id,
-                "bingo",
-                "regulation.bin"
-            );
-            if (!File.Exists(regulationFilepath))
-            {
-                var msg = $"regulation.bin not found at {Path.GetFullPath(regulationFilepath)}";
-                statusCallback?.Invoke(msg);
-                System.Windows.MessageBox.Show(
-                    msg,
-                    "TWC Error",
-                    System.Windows.MessageBoxButton.OK,
-                    System.Windows.MessageBoxImage.Error
-                );
-                return;
-            }
+        var regulationFilepath = Path.Combine(
+            GlobalConstants.ModEngineWorkingDirectory,
+            Id,
+            "bingo",
+            "regulation.bin"
+        );
+        if (!File.Exists(regulationFilepath))
+        {
+            var msg = $"regulation.bin not found at {Path.GetFullPath(regulationFilepath)}";
+            throw new RandomizerException(msg);
+        }
 
-            var editor = ParamsEditor.ReadFromRegulationPath(regulationFilepath);
+        var editor = ParamsEditor.ReadFromRegulationPath(regulationFilepath);
 
-            // Randomization Logic
-            var swTotal = System.Diagnostics.Stopwatch.StartNew();
+        // Randomization Logic
+        var swTotal = System.Diagnostics.Stopwatch.StartNew();
 
-            var urr = new UniversalReplacementRandomizer.OptimizedReplacementRandomizer(
-                "twc",
-                Utils.RandoUtils.GetStableSeed(baseSeed)
-            );
+        var urr = new UniversalReplacementRandomizer.OptimizedReplacementRandomizer(
+            "twc",
+            Utils.RandoUtils.GetStableSeed(baseSeed)
+        );
 
-            // Weapons
-            var allNormalWeapons = Weapons.GuaranteedWeapons.Concat(Weapons.ChanceWeapons).ToList();
+        // Weapons
+        var allNormalWeapons = Weapons.GuaranteedWeapons.Concat(Weapons.ChanceWeapons).ToList();
 
-            var weaponCategories = allNormalWeapons
-                .GroupBy(w => w.Category)
-                .OrderBy(g => g.Key.ToString())
-                .ToList();
-            foreach (var group in weaponCategories)
-            {
-                var category = group.Key;
-                var weaponsInCategory = group.ToList();
-                var sw = System.Diagnostics.Stopwatch.StartNew();
+        var weaponCategories = allNormalWeapons
+            .GroupBy(w => w.Category)
+            .OrderBy(g => g.Key.ToString())
+            .ToList();
+        foreach (var group in weaponCategories)
+        {
+            var category = group.Key;
+            var weaponsInCategory = group.ToList();
+            var sw = System.Diagnostics.Stopwatch.StartNew();
 
-                WeaponRandomizerService.RandomizeWeaponWorldGroup(
-                    editor,
-                    urr,
-                    $"weapon_category_{category}",
-                    weaponsInCategory,
-                    weaponsInCategory
-                );
-                sw.Stop();
-            }
-
-            // Remembrance Weapons
-            {
-                var sw = System.Diagnostics.Stopwatch.StartNew();
-                ShopRandomizerService.RandomizeRemembranceWeaponShops(
-                    editor,
-                    urr,
-                    "shop_remembrance_weapons"
-                );
-                sw.Stop();
-            }
-
-            // Spells
-            var worldSpells = Spells.WorldSpells;
-            var remSpells = Spells.RemembranceSpells;
-            var spellGroups = worldSpells
-                .GroupBy(s => s.Type)
-                .OrderBy(g => g.Key.ToString())
-                .ToList();
-            foreach (var group in spellGroups)
-            {
-                var spellType = group.Key;
-                var spellsInType = group.ToList();
-                var sw = System.Diagnostics.Stopwatch.StartNew();
-
-                SpellRandomizerService.RandomizeSpellWorldGroup(
-                    editor,
-                    urr,
-                    $"spell_type_{spellType}",
-                    spellsInType,
-                    spellsInType
-                );
-                sw.Stop();
-            }
-
-            // Weapons in Shop
-            {
-                var sw = System.Diagnostics.Stopwatch.StartNew();
-                ShopRandomizerService.RandomizeWeaponShopsByCategory(
-                    editor,
-                    urr,
-                    "shop_weapon_category_",
-                    includeRemembranceInPool: false
-                );
-                sw.Stop();
-            }
-            {
-                var sw = System.Diagnostics.Stopwatch.StartNew();
-                ShopRandomizerService.RandomizeSpellShopsByCategory(editor, urr);
-                sw.Stop();
-            }
-            {
-                var sw = System.Diagnostics.Stopwatch.StartNew();
-                ShopRandomizerService.RandomizeRemembranceSpellShops(editor, urr);
-                sw.Stop();
-            }
-
-            // Class Armor
-            var classResult = ArmorRandomizerService.GetRandomArmoredClasses(
-                baseSeed,
-                ArmorLocation.Both
-            );
-            randomizeClasses(editor, classResult);
-
-            // Starting Stats
-            StartingClassService.RandomizeStats(editor, baseSeed + "_statrando", StatRandomizer);
-
-            // Class Weapons + deficit description (WeaponName (-X) with 2H Str buff)
-            StartingClassService.RandomizeAllStartingWeaponsWithDescriptions(
+            WeaponRandomizerService.RandomizeWeaponWorldGroup(
                 editor,
-                baseSeed + "_classweapons"
+                urr,
+                $"weapon_category_{category}",
+                weaponsInCategory,
+                weaponsInCategory
             );
-
-            // Twin Maiden Shop
-            RandomizeTwinMaidenShop(editor, baseSeed + "_twinmaiden");
-
-            editor.WriteToRegulationPath(regulationFilepath);
-
-            statusCallback?.Invoke("successfully randomized!");
+            sw.Stop();
         }
-        catch (Exception ex)
+
+        // Remembrance Weapons
         {
-            try
-            {
-                File.AppendAllText("Hades.crash.log", $"[{DateTime.Now}] TWC Exec crash: {ex}\n");
-            }
-            catch { }
-            statusCallback?.Invoke($"crashed: {ex.Message}");
-            System.Windows.MessageBox.Show(
-                $"TWC randomization crashed:\n{ex.Message}\n\nCheck Hades.crash.log for details.\n\n{ex}",
-                "Hades Crash",
-                System.Windows.MessageBoxButton.OK,
-                System.Windows.MessageBoxImage.Error
+            var sw = System.Diagnostics.Stopwatch.StartNew();
+            ShopRandomizerService.RandomizeRemembranceWeaponShops(
+                editor,
+                urr,
+                "shop_remembrance_weapons"
             );
+            sw.Stop();
         }
+
+        // Spells
+        var worldSpells = Spells.WorldSpells;
+        var remSpells = Spells.RemembranceSpells;
+        var spellGroups = worldSpells
+            .GroupBy(s => s.Type)
+            .OrderBy(g => g.Key.ToString())
+            .ToList();
+        foreach (var group in spellGroups)
+        {
+            var spellType = group.Key;
+            var spellsInType = group.ToList();
+            var sw = System.Diagnostics.Stopwatch.StartNew();
+
+            SpellRandomizerService.RandomizeSpellWorldGroup(
+                editor,
+                urr,
+                $"spell_type_{spellType}",
+                spellsInType,
+                spellsInType
+            );
+            sw.Stop();
+        }
+
+        // Weapons in Shop
+        {
+            var sw = System.Diagnostics.Stopwatch.StartNew();
+            ShopRandomizerService.RandomizeWeaponShopsByCategory(
+                editor,
+                urr,
+                "shop_weapon_category_",
+                includeRemembranceInPool: false
+            );
+            sw.Stop();
+        }
+        {
+            var sw = System.Diagnostics.Stopwatch.StartNew();
+            ShopRandomizerService.RandomizeSpellShopsByCategory(editor, urr);
+            sw.Stop();
+        }
+        {
+            var sw = System.Diagnostics.Stopwatch.StartNew();
+            ShopRandomizerService.RandomizeRemembranceSpellShops(editor, urr);
+            sw.Stop();
+        }
+
+        // Class Armor
+        var classResult = ArmorRandomizerService.GetRandomArmoredClasses(
+            baseSeed,
+            ArmorLocation.Both
+        );
+        randomizeClasses(editor, classResult);
+
+        // Starting Stats
+        StartingClassService.RandomizeStats(editor, baseSeed + "_statrando", StatRandomizer);
+
+        // Class Weapons + deficit description (WeaponName (-X) with 2H Str buff)
+        StartingClassService.RandomizeAllStartingWeaponsWithDescriptions(
+            editor,
+            baseSeed + "_classweapons",
+            Id
+        );
+
+        // Twin Maiden Shop
+        RandomizeTwinMaidenShop(editor, baseSeed + "_twinmaiden");
+
+        editor.WriteToRegulationPath(regulationFilepath);
+
+        statusCallback?.Invoke("successfully randomized!");
     }
 
     public void Launch()
@@ -227,24 +202,68 @@ class TwoWorldsCollide : IRandomizerFormat
         }
     }
 
-    public int StatRandomizer(string seed)
+    public StartingStats StatRandomizer(string className, string seed)
     {
-        const double mean = 15.0;
-        const double stdDev = 5.0;
+        static int GenerateStat(string seed, int min, int max, double mean, double stdDev)
+        {
+            const int maxAttempts = 300;
+            for (var attempt = 0; ; attempt++)
+            {
+                var s = seed + "_stat" + attempt;
+
+                var u1 = (Utils.RandoUtils.GetRandomNumber(s + "_u1", 10000) + 1) / 10001.0;
+                var u2 = Utils.RandoUtils.GetRandomNumber(s + "_u2", 10000) / 10000.0;
+
+                var z = Math.Sqrt(-2.0 * Math.Log(u1)) * Math.Cos(2.0 * Math.PI * u2);
+                var stat = (int)Math.Round(mean + stdDev * z);
+
+                if (stat >= min && stat <= max)
+                    return stat;
+                if (attempt >= maxAttempts)
+                    throw new RandomizerException("Failed to generate stats, attempt maximum reached.");
+            }
+        }
+
+        int total = 120;
+        int statMin = 8;
+        int statMax = 23;
+        double mean = 15.0;
+        double stdDev = 5.0;
+        const int maxAttempts = 300;
+
+        string[] keys = { "vigor", "mind", "end", "str", "dex", "int", "fai", "arc" };
+        int[] stats = new int[keys.Length];
+
 
         for (var attempt = 0; ; attempt++)
         {
-            var s = seed + "_stat" + attempt;
-
-            var u1 = (Utils.RandoUtils.GetRandomNumber(s + "_u1", 10000) + 1) / 10001.0;
-            var u2 = Utils.RandoUtils.GetRandomNumber(s + "_u2", 10000) / 10000.0;
-
-            var z = Math.Sqrt(-2.0 * Math.Log(u1)) * Math.Cos(2.0 * Math.PI * u2);
-            var stat = (int)Math.Round(mean + stdDev * z);
-
-            if (stat >= 8 && stat <= 23)
-                return stat;
+            var sum = 0;
+            for (var i = 0; i < keys.Length; i++)
+            {
+                string classedSeed = $"{seed}_{className}_{keys[i]}_{attempt}";
+                stats[i] = GenerateStat(classedSeed, statMin, statMax, mean, stdDev);
+                sum += stats[i];
+            }
+            if (sum == total)
+                break;
+            if (attempt >= maxAttempts)
+                throw new RandomizerException("Failed to generate stats, attempt maximum reached.");
         }
+
+        int vigorMod = 5;
+        int mindMod = 5;
+
+        return new StartingStats
+        {
+            Vigor = stats[0] + vigorMod,
+            Mind = stats[1] - mindMod,
+            Endurance = stats[2],
+            Strength = stats[3],
+            Dexterity = stats[4],
+            Intelligence = stats[5],
+            Faith = stats[6],
+            Arcane = stats[7],
+        };
     }
 
     private void randomizeClasses(ParamsEditor editor, ClassArmorResults results)

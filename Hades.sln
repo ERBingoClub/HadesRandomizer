@@ -9,11 +9,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "UniversalReplacementRandomi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "EldenRingParamsEditor", "dependencies\EldenRingParamsEditor\EldenRingParamsEditor\EldenRingParamsEditor.csproj", "{5E2631C5-B7D8-4AD8-4DF2-210AFDDBD217}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Andre.Formats", "dependencies\EldenRingParamsEditor\dependencies\Andre\Andre.Formats\Andre.Formats.csproj", "{0B5C210A-ED5E-10A9-AAEF-C965BE70C97B}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Andre.Formats", "dependencies\Andre\Andre.Formats\Andre.Formats.csproj", "{0B5C210A-ED5E-10A9-AAEF-C965BE70C97B}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoulsFormats", "dependencies\EldenRingParamsEditor\dependencies\Andre\SoulsFormats\SoulsFormats\SoulsFormats.csproj", "{8C2213CC-E065-1C93-FC02-8E9532EC0F98}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SoulsFormats", "dependencies\Andre\SoulsFormats\SoulsFormats\SoulsFormats.csproj", "{8C2213CC-E065-1C93-FC02-8E9532EC0F98}"
 EndProject
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Andre.Core", "dependencies\EldenRingParamsEditor\dependencies\Andre\Andre.Core\Andre.Core.csproj", "{6461186C-75B3-5175-0EC9-AB75D40E8EA3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Andre.Core", "dependencies\Andre\Andre.Core\Andre.Core.csproj", "{6461186C-75B3-5175-0EC9-AB75D40E8EA3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

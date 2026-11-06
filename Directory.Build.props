@@ -6,4 +6,7 @@
       <Version>3.10.91</Version>
     </PackageReference>
   </ItemGroup>
+  <PropertyGroup>
+    <DebugType>embedded</DebugType>
+  </PropertyGroup>
 </Project>

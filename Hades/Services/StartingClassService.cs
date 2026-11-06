@@ -33,7 +33,12 @@ public static class StartingClassService
         }
     }
 
-    public static void RandomizeAllStartingWeaponsWithDescriptions(ParamsEditor editor, string seed)
+    // formatId: the format's folder under ModEngineWorkingDirectory; the menu is written there.
+    public static void RandomizeAllStartingWeaponsWithDescriptions(
+        ParamsEditor editor,
+        string seed,
+        string formatId
+    )
     {
         RandomizeAllStartingWeapons(editor, seed);
         MenuBndEditorService? menuEditor = null;
@@ -41,7 +46,7 @@ public static class StartingClassService
         {
             Path.Combine(
                 GlobalConstants.ModEngineWorkingDirectory,
-                "twc",
+                formatId,
                 "bingo",
                 "msg",
                 "engus",
@@ -49,15 +54,7 @@ public static class StartingClassService
             ),
             Path.Combine(
                 GlobalConstants.ModEngineWorkingDirectory,
-                "twc",
-                "msg",
-                "engus",
-                "menu_dlc02.msgbnd.dcx"
-            ),
-            Path.Combine(
-                GlobalConstants.ModEngineWorkingDirectory,
-                "sote3",
-                "bingo",
+                formatId,
                 "msg",
                 "engus",
                 "menu_dlc02.msgbnd.dcx"
@@ -65,7 +62,7 @@ public static class StartingClassService
         };
         var menuOut = Path.Combine(
             GlobalConstants.ModEngineWorkingDirectory,
-            "twc",
+            formatId,
             "bingo",
             "msg",
             "engus",
@@ -231,37 +228,24 @@ public static class StartingClassService
             .Id;
     }
 
-    public static void RandomizeStats(ParamsEditor editor, string seed, Func<string, int> getStat)
+    public static void RandomizeStats(ParamsEditor editor, string seed, ClassStatRoller getStats)
     {
-        string[] keys = { "vigor", "mind", "end", "str", "dex", "int", "fai", "arc" };
-        const int totalPoints = 120;
-
         foreach (var className in ClassNames)
         {
             int charaInitId = GlobalConstants.CharaInitClassMap[className];
-            var stats = new int[keys.Length];
-
-            for (var attempt = 0; ; attempt++)
-            {
-                var sum = 0;
-                for (var i = 0; i < keys.Length; i++)
-                {
-                    stats[i] = getStat($"{seed}_{className}_{keys[i]}_{attempt}");
-                    sum += stats[i];
-                }
-                if (sum == totalPoints)
-                    break;
-            }
-
-            editor.SetInitialVigor(charaInitId, (byte)(stats[0] + 5));
-            editor.SetInitialMind(charaInitId, (byte)(stats[1] - 5));
-            editor.SetInitialEndurance(charaInitId, (byte)stats[2]);
-            editor.SetInitialStrength(charaInitId, (byte)stats[3]);
-            editor.SetInitialDexterity(charaInitId, (byte)stats[4]);
-            editor.SetInitialIntelligence(charaInitId, (byte)stats[5]);
-            editor.SetInitialFaith(charaInitId, (byte)stats[6]);
-            editor.SetInitialArcane(charaInitId, (byte)stats[7]);
+            var stats = getStats(className, seed);
+            editor.SetInitialVigor(charaInitId, (byte)stats.Vigor);
+            editor.SetInitialMind(charaInitId, (byte)stats.Mind);
+            editor.SetInitialEndurance(charaInitId, (byte)stats.Endurance);
+            editor.SetInitialStrength(charaInitId, (byte)stats.Strength);
+            editor.SetInitialDexterity(charaInitId, (byte)stats.Dexterity);
+            editor.SetInitialIntelligence(charaInitId, (byte)stats.Intelligence);
+            editor.SetInitialFaith(charaInitId, (byte)stats.Faith);
+            editor.SetInitialArcane(charaInitId, (byte)stats.Arcane);
+            if (stats.RuneLevel is short level)
+                editor.SetInitialRuneLevel(charaInitId, level);
         }
+
     }
 
     private static readonly System.Collections.Generic.HashSet<WeaponCategory> NoTwoHandBonusCategories =

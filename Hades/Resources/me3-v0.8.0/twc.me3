@@ -1,4 +1,5 @@
 profileVersion = "v1"
+savefile = "twc"
 
 [[supports]]
 game = "eldenring"
@@ -6,12 +7,6 @@ game = "eldenring"
 [[package]]
 id = "hades-twc"
 path = "twc/bingo"
-
-[[natives]]
-path = 'skip-intro/SkipTheIntro.dll'
-
-[[natives]]
-path = 'alt-saves/eldenring_alt_saves.dll'
 
 [[natives]]
 path = 'randomizer-helper/RandomizerHelper.dll'

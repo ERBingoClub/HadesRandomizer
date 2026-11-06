@@ -8,7 +8,8 @@ public interface IRandomizerFormat
     void Exec(
         string baseSeed,
         Action<string>? statusCallback = null,
-        Action<string>? seedCallback = null
+        Action<string>? seedCallback = null,
+        IRandomizerOptions? options = null
     );
     void Launch();
 }

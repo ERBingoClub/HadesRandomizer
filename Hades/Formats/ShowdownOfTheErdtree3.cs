@@ -1,6 +1,4 @@
 using System.IO;
-using System.Security.Cryptography;
-using System.Text;
 using EldenRingParamsEditor;
 using Hades.Constants;
 using Hades.Services;
@@ -17,80 +15,56 @@ class ShowdownOfTheErdtree3 : IRandomizerFormat
     public void Exec(
         string baseSeed,
         Action<string>? statusCallback = null,
-        Action<string>? seedCallback = null
+        Action<string>? seedCallback = null,
+        IRandomizerOptions? options = null
     )
     {
-        try
+        if (baseSeed == "")
         {
-            if (baseSeed == "")
-            {
-                var seed = Utils.RandoUtils.GenerateRandomString();
-                seedCallback?.Invoke(seed);
-                baseSeed = seed;
-            }
-
-            statusCallback?.Invoke($"seeding...: {baseSeed}");
-
-            // Formatting seed
-            baseSeed = $"sote3_{baseSeed}_{Utils.RandoUtils.GetVersion()}";
-
-            var regulationFilepath = Path.Combine(
-                GlobalConstants.ModEngineWorkingDirectory,
-                Id,
-                "bingo",
-                "regulation.bin"
-            );
-            if (!File.Exists(regulationFilepath))
-            {
-                var msg = $"regulation.bin not found at {Path.GetFullPath(regulationFilepath)}";
-                statusCallback?.Invoke(msg);
-                System.Windows.MessageBox.Show(
-                    msg,
-                    "SOTE3 Error",
-                    System.Windows.MessageBoxButton.OK,
-                    System.Windows.MessageBoxImage.Error
-                );
-                return;
-            }
-            var swTotal = System.Diagnostics.Stopwatch.StartNew();
-            var editor = ParamsEditor.ReadFromRegulationPath(regulationFilepath);
-
-            // Randomization Logic
-
-            // Shop Talisman
-            var talismanResult = getTalismans(baseSeed);
-            randomizeTalismans(editor, talismanResult);
-
-            // Shop AoW
-            var aowResult = getRandomAoW(baseSeed);
-            randomizeAoW(editor, aowResult);
-
-            // Classes
-            var classResult = ArmorRandomizerService.GetRandomArmoredClasses(
-                baseSeed,
-                ArmorLocation.Base
-            );
-            randomizeClasses(editor, classResult);
-
-            editor.WriteToRegulationPath(regulationFilepath);
-
-            statusCallback?.Invoke("successfully randomized!");
+            var seed = Utils.RandoUtils.GenerateRandomString();
+            seedCallback?.Invoke(seed);
+            baseSeed = seed;
         }
-        catch (Exception ex)
+
+        statusCallback?.Invoke($"seeding...: {baseSeed}");
+
+        // Formatting seed
+        baseSeed = $"sote3_{baseSeed}_{Utils.RandoUtils.GetVersion()}";
+
+        var regulationFilepath = Path.Combine(
+            GlobalConstants.ModEngineWorkingDirectory,
+            Id,
+            "bingo",
+            "regulation.bin"
+        );
+        if (!File.Exists(regulationFilepath))
         {
-            try
-            {
-                File.AppendAllText("Hades.crash.log", $"[{DateTime.Now}] SOTE3 crash: {ex}\n");
-            }
-            catch { }
-            statusCallback?.Invoke($"crashed: {ex.Message}");
-            System.Windows.MessageBox.Show(
-                $"SOTE3 randomization crashed:\n{ex.Message}\n\nCheck Hades.crash.log",
-                "Hades Crash",
-                System.Windows.MessageBoxButton.OK,
-                System.Windows.MessageBoxImage.Error
-            );
+            var msg = $"regulation.bin not found at {Path.GetFullPath(regulationFilepath)}";
+            throw new RandomizerException(msg);
         }
+        var swTotal = System.Diagnostics.Stopwatch.StartNew();
+        var editor = ParamsEditor.ReadFromRegulationPath(regulationFilepath);
+
+        // Randomization Logic
+
+        // Shop Talisman
+        var talismanResult = getTalismans(baseSeed);
+        randomizeTalismans(editor, talismanResult);
+
+        // Shop AoW
+        var aowResult = getRandomAoW(baseSeed);
+        randomizeAoW(editor, aowResult);
+
+        // Classes
+        var classResult = ArmorRandomizerService.GetRandomArmoredClasses(
+            baseSeed,
+            ArmorLocation.Base
+        );
+        randomizeClasses(editor, classResult);
+
+        editor.WriteToRegulationPath(regulationFilepath);
+
+        statusCallback?.Invoke("successfully randomized!");
     }
 
     public void Launch()

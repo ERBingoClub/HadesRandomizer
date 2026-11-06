@@ -16,7 +16,7 @@ jobs:
       - name: Setup .NET
         uses: actions/setup-dotnet@v4
         with:
-          dotnet-version: '9.0.x'
+          dotnet-version: "10.0.x"
 
       - name: Extract version from tag
         id: version
@@ -26,8 +26,8 @@ jobs:
           echo "VERSION=$ver" >> $env:GITHUB_ENV
         shell: pwsh
 
-      - name: Build
-        run: dotnet build Hades/Hades.csproj -c Release -o "Hades-${{ env.VERSION }}" -p:Version=${{ env.VERSION }}
+      - name: Publish
+        run: dotnet publish Hades/Hades.csproj -c Release -o "Hades-${{ env.VERSION }}" -p:Version=${{ env.VERSION }}
 
       - name: Zip build output
         run: Compress-Archive -Path "Hades-${{ env.VERSION }}/*" -DestinationPath "Hades-${{ env.VERSION }}.zip"
