@@ -1,5 +1,5 @@
 profileVersion = "v1"
-savefile = "twc"
+start_online = false
 
 [[supports]]
 game = "eldenring"
@@ -10,4 +10,7 @@ path = "twc/bingo"
 
 [[natives]]
 path = 'randomizer-helper/RandomizerHelper.dll'
+
+[[natives]]
+path = 'alt-saves/eldenring_alt_saves.dll'
 

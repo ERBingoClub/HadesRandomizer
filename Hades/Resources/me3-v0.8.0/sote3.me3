@@ -1,5 +1,5 @@
 profileVersion = "v1"
-savefile = "sote3"
+start_online = false
 
 [[supports]]
 game = "eldenring"
@@ -10,4 +10,7 @@ path = "sote3/bingo"
 
 [[natives]]
 path = 'randomizer-helper/RandomizerHelper.dll'
+
+[[natives]]
+path = 'alt-saves/eldenring_alt_saves.dll'
 
