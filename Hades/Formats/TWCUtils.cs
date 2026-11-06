@@ -13,46 +13,34 @@ public static class TWCConstants
         ["physick_3"] = 101876,
         ["physick_4"] = 101877,
     };
-    public static readonly List<int> TalismanPool = new()
-    {
-        1002, // Crimson Amber Medallion +2
-        5020, // Blessed Dew Talisman
-        1032, // Great-Jar's Arsenal
-        1012, // Cerulean Amber Medallion +2
-        5000, // Crimson Seed Talisman
-        1042, // Erdtree's Favor +2
-        1022, // Viridian Amber Medallion +2
-        5010, // Cerulean Seed Talisman
-        4002, // Dragoncrest Shield +2
-        1171, // Immunizing Horn Charm +1
-        2090, // Dagger Talisman
-        4052, // Pearldrake Talisman +2
-        1161, // Stalwart Horn Charm +1
-        2120, // Twinblade Talisman
-        3060, // Old Lord's Talisman
-        1181, // Clarifying Horn Charm +1
-        2060, // Spear Talisman
-        6020, // Carian Filigreed Crest
-        1201, // Mottled Necklace +1
-        2180, // Claw Talisman
-        3090, // Godfrey Icon
-        1191, // Prince of Death's Cyst
-        2150, // Arrow's Sting Talisman
-        2110, // Blue Dancer Charm
-        2000, // Magic Scorpion Charm
-        2020, // Fire Scorpion Charm
-        2081, // Rotten Winged Sword Insignia
+    public static readonly List<int> FillerTalismans =
+    [
+        2160, // Lord of Bloods Exultation
+        2170, // Kindred of Rots Exultation
+        5000, // Crimson Seed
+        5020, // Blessed Dew
+        1110, // Golden Scarab
+        2020, // Fire scorpion Charm
         2010, // Lightning Scorpion Charm
+        2000, // Magic Scorpion Charm
         2030, // Sacred Scorpion Charm
-        5050, // Assassin's Crimson Dagger
-        1110, // Gold Scarab
-        6000, // Crepus's Vial
-        5060, // Assassin's Cerulean Dagger
-        6110, // Ancestral Spirit's Horn
-        5030, // Taker's Cameo
-        6040, // Longtail Cat Talisman
-    };
-
+        1221, // Marika's Soreseal
+        1051, // Radagon's Soreseal
+    ];
+    public static readonly List<int> GoodTalismans =
+    [
+        4090, // Ritual Shield
+        2050, // Ritual Sword
+        2081, // Rotten Winged Sword
+        1231, // Shard of Alexander
+        2130, // Axe Talisman
+        2110, // BlueDancerCharm
+        2180, // Claw Talisman
+        1150, // Green Turtle
+        4003, // Dragoncrest Greatshield Talisman
+        1250, // Millicents Prosthesis
+        2090, // Dagger Talisman
+    ];
     public static readonly List<int> PhysickTearPool = new()
     {
         11021, // Strength-knot Crystal Tear
