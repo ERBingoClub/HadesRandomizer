@@ -167,19 +167,33 @@ class TwoWorldsCollide : IRandomizerFormat
     {
         // Talismans
         {
-            var talis = TWCConstants.TalismanPool;
+            var fillerTalis = TWCConstants.FillerTalismans;
+            var goodTalis = TWCConstants.GoodTalismans;
 
-            for (int i = 0; i < 4; i++)
+            for (int i = 0; i < 2; i++)
             {
                 var shopID = TWCConstants.ShopLineupMap[$"talisman_{i + 1}"];
 
                 var ind = Utils.RandoUtils.GetRandomNumber(
-                    seed + $"_talisman_{i + 1}",
-                    talis.Count()
+                    seed + $"_filler_talisman_{i + 1}",
+                    fillerTalis.Count()
                 );
 
-                editor.SetShopLineupEquipId(shopID, talis[ind]);
-                talis.RemoveAt(ind);
+                editor.SetShopLineupEquipId(shopID, fillerTalis[ind]);
+                fillerTalis.RemoveAt(ind);
+            }
+
+            for (int i = 2; i < 4; i++)
+            {
+                var shopID = TWCConstants.ShopLineupMap[$"talisman_{i + 1}"];
+
+                var ind = Utils.RandoUtils.GetRandomNumber(
+                    seed + $"_good_talisman_{i + 1}",
+                    goodTalis.Count()
+                );
+
+                editor.SetShopLineupEquipId(shopID, goodTalis[ind]);
+                goodTalis.RemoveAt(ind);
             }
         }
 
