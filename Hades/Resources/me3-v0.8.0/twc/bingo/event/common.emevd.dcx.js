@@ -454,6 +454,7 @@ $Event(0, Default, function() {
     $InitializeEvent(0, 11120302);
     $InitializeEvent(0, 11120303);
     $InitializeEvent(0, 11120304);
+    $InitializeEvent(0, 11120305);
     
     // 2 Remembrance Events
     $InitializeEvent(0, 11120000);
@@ -9548,6 +9549,7 @@ $Event(11120301, Restart, function() { EndIf(EventFlag(76250)); WaitFor(EventFla
 $Event(11120302, Restart, function() { EndIf(EventFlag(71307)); WaitFor(EventFlag(1052520800)); SetEventFlagID(71307, ON); EndEvent(); }); // Fire Giant - Dragon Temple Transept
 $Event(11120303, Restart, function() { EndIf(EventFlag(71504)); WaitFor(EventFlag(15000850)); SetEventFlagID(71504, ON); EndEvent(); }); // Loretta - Haligtree Roots
 $Event(11120304, Restart, function() { EndIf(EventFlag(76862)); WaitFor(EventFlag(2052430800)); SetEventFlagID(76862, ON); EndEvent(); }); // Jori -> Manse Hall
+$Event(11120305, Restart, function() { EndIf(EventFlag(76940)); WaitFor(EventFlag(21000850)); SetEventFlagID(76940, ON); EndEvent(); }); // Hippo - Rauh
 
 // 2 Remembrance Events
 $Event(11120000, Restart, function() {
