@@ -454,6 +454,7 @@ $Event(0, Default, function() {
     $InitializeEvent(0, 11120302);
     $InitializeEvent(0, 11120303);
     $InitializeEvent(0, 11120304);
+    $InitializeEvent(0, 11120305);
     
     // 2 Remembrance Events
     $InitializeEvent(0, 11120000);
@@ -9525,6 +9526,9 @@ $Event(99992, Default, function() {
     DirectlyGivePlayerItem(ItemType.Goods, 1001, 99990, 1);
     DirectlyGivePlayerItem(ItemType.Goods, 1051, 99990, 1);
     
+    DirectlyGivePlayerItem(ItemType.Goods, 8590, 99990, 1); // Whetstone Knife
+    DirectlyGivePlayerItem(ItemType.Goods, 2070, 99990, 1); // Lantern
+    
     // Talisman Pouches
     DirectlyGivePlayerItem(ItemType.Goods, 10040, 99990, 1);
     DirectlyGivePlayerItem(ItemType.Goods, 10040, 99990, 1);
@@ -9542,9 +9546,10 @@ $Event(99992, Default, function() {
 // Progression Grace events
 $Event(11120300, Restart, function() { EndIf(EventFlag(71271)); WaitFor(EventFlag(1252380800)); SetEventFlagID(71271, ON); EndEvent(); }); // Starscourge Radahn -> Nokron
 $Event(11120301, Restart, function() { EndIf(EventFlag(76250)); WaitFor(EventFlag(12040800)); SetEventFlagID(76250, ON); EndEvent(); }); // Astel -> Moonlight Altar
-$Event(11120302, Restart, function() { EndIf(EventFlag(71307)); WaitFor(EventFlag(1052520800)); SetEventFlagID(71307, ON); EndEvent(); }); //Fire Giant - Dragon Temple Transept
+$Event(11120302, Restart, function() { EndIf(EventFlag(71307)); WaitFor(EventFlag(1052520800)); SetEventFlagID(71307, ON); EndEvent(); }); // Fire Giant - Dragon Temple Transept
 $Event(11120303, Restart, function() { EndIf(EventFlag(71504)); WaitFor(EventFlag(15000850)); SetEventFlagID(71504, ON); EndEvent(); }); // Loretta - Haligtree Roots
 $Event(11120304, Restart, function() { EndIf(EventFlag(76862)); WaitFor(EventFlag(2052430800)); SetEventFlagID(76862, ON); EndEvent(); }); // Jori -> Manse Hall
+$Event(11120305, Restart, function() { EndIf(EventFlag(76940)); WaitFor(EventFlag(21000850)); SetEventFlagID(76940, ON); EndEvent(); }); // Hippo - Rauh
 
 // 2 Remembrance Events
 $Event(11120000, Restart, function() {
@@ -9661,7 +9666,7 @@ $Event(11120015, Restart, function() {
 });
 $Event(11120016, Restart, function() {
     EndIf(EventFlag(71102) && EventFlag(72012));
-    WaitFor(EventFlag(10000800) && EventFlag(2046460800));
+    WaitFor(EventFlag(10000800) && EventFlag(20000800));
     SetEventFlagID(71102, ON);
     SetEventFlagID(72012, ON);
     EndEvent();
@@ -9815,7 +9820,7 @@ $Event(11120037, Restart, function() {
 });
 $Event(11120038, Restart, function() {
     EndIf(EventFlag(71102) && EventFlag(72012));
-    WaitFor(EventFlag(11050800) && EventFlag(2046460800));
+    WaitFor(EventFlag(11050800) && EventFlag(20000800));
     SetEventFlagID(71102, ON);
     SetEventFlagID(72012, ON);
     EndEvent();
@@ -9962,7 +9967,7 @@ $Event(11120058, Restart, function() {
 });
 $Event(11120059, Restart, function() {
     EndIf(EventFlag(71102) && EventFlag(72012));
-    WaitFor(EventFlag(12030850) && EventFlag(2046460800));
+    WaitFor(EventFlag(12030850) && EventFlag(20000800));
     SetEventFlagID(71102, ON);
     SetEventFlagID(72012, ON);
     EndEvent();
@@ -10102,7 +10107,7 @@ $Event(11120078, Restart, function() {
 });
 $Event(11120079, Restart, function() {
     EndIf(EventFlag(71102) && EventFlag(72012));
-    WaitFor(EventFlag(12040800) && EventFlag(2046460800));
+    WaitFor(EventFlag(12040800) && EventFlag(20000800));
     SetEventFlagID(71102, ON);
     SetEventFlagID(72012, ON);
     EndEvent();
@@ -10235,7 +10240,7 @@ $Event(11120097, Restart, function() {
 });
 $Event(11120098, Restart, function() {
     EndIf(EventFlag(71102) && EventFlag(72012));
-    WaitFor(EventFlag(12050800) && EventFlag(2046460800));
+    WaitFor(EventFlag(12050800) && EventFlag(20000800));
     SetEventFlagID(71102, ON);
     SetEventFlagID(72012, ON);
     EndEvent();
@@ -10361,7 +10366,7 @@ $Event(11120115, Restart, function() {
 });
 $Event(11120116, Restart, function() {
     EndIf(EventFlag(71102) && EventFlag(72012));
-    WaitFor(EventFlag(12090800) && EventFlag(2046460800));
+    WaitFor(EventFlag(12090800) && EventFlag(20000800));
     SetEventFlagID(71102, ON);
     SetEventFlagID(72012, ON);
     EndEvent();
@@ -10480,7 +10485,7 @@ $Event(11120132, Restart, function() {
 });
 $Event(11120133, Restart, function() {
     EndIf(EventFlag(71102) && EventFlag(72012));
-    WaitFor(EventFlag(13000800) && EventFlag(2046460800));
+    WaitFor(EventFlag(13000800) && EventFlag(20000800));
     SetEventFlagID(71102, ON);
     SetEventFlagID(72012, ON);
     EndEvent();
@@ -10592,7 +10597,7 @@ $Event(11120148, Restart, function() {
 });
 $Event(11120149, Restart, function() {
     EndIf(EventFlag(71102) && EventFlag(72012));
-    WaitFor(EventFlag(13000830) && EventFlag(2046460800));
+    WaitFor(EventFlag(13000830) && EventFlag(20000800));
     SetEventFlagID(71102, ON);
     SetEventFlagID(72012, ON);
     EndEvent();
@@ -10697,7 +10702,7 @@ $Event(11120163, Restart, function() {
 });
 $Event(11120164, Restart, function() {
     EndIf(EventFlag(71102) && EventFlag(72012));
-    WaitFor(EventFlag(14000800) && EventFlag(2046460800));
+    WaitFor(EventFlag(14000800) && EventFlag(20000800));
     SetEventFlagID(71102, ON);
     SetEventFlagID(72012, ON);
     EndEvent();
@@ -10795,7 +10800,7 @@ $Event(11120177, Restart, function() {
 });
 $Event(11120178, Restart, function() {
     EndIf(EventFlag(71102) && EventFlag(72012));
-    WaitFor(EventFlag(15000800) && EventFlag(2046460800));
+    WaitFor(EventFlag(15000800) && EventFlag(20000800));
     SetEventFlagID(71102, ON);
     SetEventFlagID(72012, ON);
     EndEvent();
@@ -10886,7 +10891,7 @@ $Event(11120190, Restart, function() {
 });
 $Event(11120191, Restart, function() {
     EndIf(EventFlag(71102) && EventFlag(72012));
-    WaitFor(EventFlag(16000800) && EventFlag(2046460800));
+    WaitFor(EventFlag(16000800) && EventFlag(20000800));
     SetEventFlagID(71102, ON);
     SetEventFlagID(72012, ON);
     EndEvent();
@@ -10970,7 +10975,7 @@ $Event(11120202, Restart, function() {
 });
 $Event(11120203, Restart, function() {
     EndIf(EventFlag(71102) && EventFlag(72012));
-    WaitFor(EventFlag(19000800) && EventFlag(2046460800));
+    WaitFor(EventFlag(19000800) && EventFlag(20000800));
     SetEventFlagID(71102, ON);
     SetEventFlagID(72012, ON);
     EndEvent();
@@ -11047,7 +11052,7 @@ $Event(11120213, Restart, function() {
 });
 $Event(11120214, Restart, function() {
     EndIf(EventFlag(71102) && EventFlag(72012));
-    WaitFor(EventFlag(21010800) && EventFlag(2046460800));
+    WaitFor(EventFlag(21010800) && EventFlag(20000800));
     SetEventFlagID(71102, ON);
     SetEventFlagID(72012, ON);
     EndEvent();
@@ -11117,7 +11122,7 @@ $Event(11120223, Restart, function() {
 });
 $Event(11120224, Restart, function() {
     EndIf(EventFlag(71102) && EventFlag(72012));
-    WaitFor(EventFlag(22000800) && EventFlag(2046460800));
+    WaitFor(EventFlag(22000800) && EventFlag(20000800));
     SetEventFlagID(71102, ON);
     SetEventFlagID(72012, ON);
     EndEvent();
@@ -11180,7 +11185,7 @@ $Event(11120232, Restart, function() {
 });
 $Event(11120233, Restart, function() {
     EndIf(EventFlag(71102) && EventFlag(72012));
-    WaitFor(EventFlag(25000800) && EventFlag(2046460800));
+    WaitFor(EventFlag(25000800) && EventFlag(20000800));
     SetEventFlagID(71102, ON);
     SetEventFlagID(72012, ON);
     EndEvent();
@@ -11236,7 +11241,7 @@ $Event(11120240, Restart, function() {
 });
 $Event(11120241, Restart, function() {
     EndIf(EventFlag(71102) && EventFlag(72012));
-    WaitFor(EventFlag(1252380800) && EventFlag(2046460800));
+    WaitFor(EventFlag(1252380800) && EventFlag(20000800));
     SetEventFlagID(71102, ON);
     SetEventFlagID(72012, ON);
     EndEvent();
@@ -11285,7 +11290,7 @@ $Event(11120247, Restart, function() {
 });
 $Event(11120248, Restart, function() {
     EndIf(EventFlag(71102) && EventFlag(72012));
-    WaitFor(EventFlag(28000800) && EventFlag(2046460800));
+    WaitFor(EventFlag(28000800) && EventFlag(20000800));
     SetEventFlagID(71102, ON);
     SetEventFlagID(72012, ON);
     EndEvent();
@@ -11334,42 +11339,42 @@ $Event(11120254, Restart, function() {
 });
 $Event(11120255, Restart, function() {
     EndIf(EventFlag(71102) && EventFlag(72012));
-    WaitFor(EventFlag(2046460800) && EventFlag(1052520800));
+    WaitFor(EventFlag(20000800) && EventFlag(1052520800));
     SetEventFlagID(71102, ON);
     SetEventFlagID(72012, ON);
     EndEvent();
 });
 $Event(11120256, Restart, function() {
     EndIf(EventFlag(71102) && EventFlag(72012));
-    WaitFor(EventFlag(2046460800) && EventFlag(2048440800));
+    WaitFor(EventFlag(20000800) && EventFlag(2048440800));
     SetEventFlagID(71102, ON);
     SetEventFlagID(72012, ON);
     EndEvent();
 });
 $Event(11120257, Restart, function() {
     EndIf(EventFlag(71102) && EventFlag(72012));
-    WaitFor(EventFlag(2046460800) && EventFlag(2050480800));
+    WaitFor(EventFlag(20000800) && EventFlag(2050480800));
     SetEventFlagID(71102, ON);
     SetEventFlagID(72012, ON);
     EndEvent();
 });
 $Event(11120258, Restart, function() {
     EndIf(EventFlag(71102) && EventFlag(72012));
-    WaitFor(EventFlag(2046460800) && EventFlag(2049480800));
+    WaitFor(EventFlag(20000800) && EventFlag(2049480800));
     SetEventFlagID(71102, ON);
     SetEventFlagID(72012, ON);
     EndEvent();
 });
 $Event(11120259, Restart, function() {
     EndIf(EventFlag(71102) && EventFlag(72012));
-    WaitFor(EventFlag(2046460800) && EventFlag(2054390800));
+    WaitFor(EventFlag(20000800) && EventFlag(2054390800));
     SetEventFlagID(71102, ON);
     SetEventFlagID(72012, ON);
     EndEvent();
 });
 $Event(11120260, Restart, function() {
     EndIf(EventFlag(71102) && EventFlag(72012));
-    WaitFor(EventFlag(2046460800) && EventFlag(2044450800));
+    WaitFor(EventFlag(20000800) && EventFlag(2044450800));
     SetEventFlagID(71102, ON);
     SetEventFlagID(72012, ON);
     EndEvent();
